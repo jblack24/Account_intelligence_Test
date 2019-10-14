@@ -36,11 +36,11 @@ class BasicTests(unittest.TestCase):
  
     def test_data_by_actorJD(self):
         results=MovieView.data_by_actor('Johnny Depp')
-        self.assertTrue(len(results)>0)
+        self.assertTrue(len(results['movies'])>0)
 
     def test_data_by_actorJB(self):
         results=MovieView.data_by_actor('Joe Blackwell')
-        self.assertEqual(len(results), 0)
+        self.assertEqual(len(results['movies']), 0)
 
     def test_top_ten_genres(self):
         results=MovieView.top_ten_genres()

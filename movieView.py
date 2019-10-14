@@ -11,7 +11,6 @@ class MovieView:
 		#finding the actors movie_title, budget and gross from the actor name
 		actor_movies=session.query(MovieData.movie_title, MovieData.actor_1_name, MovieData.actor_2_name, MovieData.actor_3_name, MovieData.budget, MovieData.gross)\
 		.filter(or_(MovieData.actor_1_name==actor_name, MovieData.actor_2_name==actor_name, MovieData.actor_3_name==actor_name)).all()
-		print(actor_movies)
 		actor_dict={}
 		actor_dict['movies']=[]
 		#generating list of movies and detail for the actor
