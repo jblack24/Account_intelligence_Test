@@ -49,6 +49,26 @@ class BasicTests(unittest.TestCase):
     def test_top_ten_actors(self):
         results=MovieView.top_ten_actors()
         self.assertEqual(len(results), 10)
+    
+    def app_test_data_by_actorJD(self):
+        with app.test_client() as c:
+            results=c.get('/actor/Johnny%20Depp')
+            self.assertTrue(len(results['movies'])>0)
+
+    def app_test_data_by_actorJB(self):
+        with app.test_client() as c:
+            results=c.get('/actor/Joe%20Blackwell')
+            self.assertEqual(len(results['movies']),0)
+
+    def app_test_top_ten_genres(self):
+        with app.test_client() as c:
+            results=c.get('/topGenres')
+            self.assertEqual(len(results), 10)
+
+    def app_test_top_ten_actors(self):
+        with app.test_client() as c:
+            results=c.get('/topActors')
+            self.assertEqual(len(results), 10)
  
 if __name__ == "__main__":
     unittest.main()

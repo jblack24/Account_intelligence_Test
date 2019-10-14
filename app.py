@@ -9,11 +9,6 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db=SQLAlchemy(app)
 
-
-@app.route('/')
-def hello():
-    return "Hello World!"
-
 @app.route('/actor/<string:actor>')
 def actor_info(actor):
 	data=MovieView.data_by_actor(actor)
