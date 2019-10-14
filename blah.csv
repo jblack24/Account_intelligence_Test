@@ -1,0 +1,2299 @@
+,genres,level_0
+0,Action,"[u'Batman & Robin\xc2' u'Batman Returns\xc2' u'Kill Bill: Vol. 1\xc2'
+ u'Out of Inferno\xc2' u'The Man with the Iron Fists\xc2' u'Ong-bak 2\xc2'
+ u'Reign of Assassins\xc2' u'Excessive Force\xc2' u'Code of Honor\xc2'
+ u'Kickboxer: Vengeance\xc2' u'Diamond Ruff\xc2']"
+1,Action|Adventure,"[u'Quantum of Solace\xc2' u'Batman Begins\xc2' u'Hercules\xc2'
+ u'Batman\xc2' u'The Man in the Iron Mask\xc2' u'DOA: Dead or Alive\xc2'
+ u'Indiana Jones and the Temple of Doom\xc2'
+ u'Raiders of the Lost Ark\xc2' u'Valley of the Wolves: Iraq\xc2'
+ u'Falcon Rising\xc2']"
+2,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,[u'Osmosis Jones\xc2']
+3,Action|Adventure|Animation|Comedy|Drama|Family|Fantasy|Thriller,[u'Alpha and Omega 4: The Legend of the Saw Toothed Cave\xc2']
+4,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,[u'Big Hero 6\xc2' u'The Iron Giant\xc2']
+5,Action|Adventure|Animation|Comedy|Family,"[u'Madagascar: Escape 2 Africa\xc2' u'Kung Fu Panda 2\xc2'
+ u'Kung Fu Panda 3\xc2' u'Kung Fu Panda\xc2'
+ u'Ice Age: Dawn of the Dinosaurs\xc2' u'Legend of Kung Fu Rabbit\xc2']"
+6,Action|Adventure|Animation|Comedy|Family|Fantasy,"[u'How to Train Your Dragon 2\xc2' u'Puss in Boots\xc2'
+ u'Ice Age: The Meltdown\xc2' u'The Lego Movie\xc2']"
+7,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,[u'G-Force\xc2' u'TMNT\xc2']
+8,Action|Adventure|Animation|Comedy|Family|Sci-Fi,"[u'Monsters vs. Aliens\xc2' u'Mars Needs Moms\xc2'
+ u'Jimmy Neutron: Boy Genius\xc2']"
+9,Action|Adventure|Animation|Comedy|Fantasy,[u'The Princess and the Cobbler\xc2']
+10,Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi,[u'Aqua Teen Hunger Force Colon Movie Film for Theaters\xc2']
+11,Action|Adventure|Animation|Comedy|Sci-Fi,[u'Journey to Saturn\xc2']
+12,Action|Adventure|Animation|Drama|Fantasy|Sci-Fi,[u'Star Wars: The Clone Wars\xc2']
+13,Action|Adventure|Animation|Drama|Mystery|Sci-Fi|Thriller,[u'9\xc2']
+14,Action|Adventure|Animation|Family,[u'The Incredibles\xc2']
+15,Action|Adventure|Animation|Family|Fantasy,"[u""Legend of the Guardians: The Owls of Ga'Hoole\xc2""
+ u'Yu-Gi-Oh! Duel Monsters\xc2']"
+16,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,[u'Atlantis: The Lost Empire\xc2' u'Pok\xc3\xa9mon 3: The Movie\xc2']
+17,Action|Adventure|Animation|Family|Sci-Fi,[u'Titan A.E.\xc2' u'Digimon: The Movie\xc2']
+18,Action|Adventure|Animation|Family|Sci-Fi|Thriller,[u'Steamboy\xc2']
+19,Action|Adventure|Animation|Fantasy,[u'Beowulf\xc2']
+20,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,[u'Final Fantasy: The Spirits Within\xc2']
+21,Action|Adventure|Biography|Drama|History,[u'Spartacus: War of the Damned\xc2']
+22,Action|Adventure|Biography|Drama|History|Romance|War,[u'Alexander\xc2']
+23,Action|Adventure|Biography|Drama|History|Thriller,[u'In the Heart of the Sea\xc2']
+24,Action|Adventure|Comedy,"[u'Around the World in 80 Days\xc2' u'Cutthroat Island\xc2'
+ u'Get Smart\xc2' u'The Man from U.N.C.L.E.\xc2' u'Hudson Hawk\xc2'
+ u'Wild Hogs\xc2' u'The Dukes of Hazzard\xc2' u'Shanghai Knights\xc2'
+ u'Johnny English\xc2' u'Crocodile Dundee II\xc2' u'Silver Medallist\xc2']"
+25,Action|Adventure|Comedy|Crime,"[u""Charlie's Angels: Full Throttle\xc2"" u'Kangaroo Jack\xc2'
+ u'Johnny English Reborn\xc2' u'Austin Powers: The Spy Who Shagged Me\xc2'
+ u'Nothing to Lose\xc2' u""It's a Mad, Mad, Mad, Mad World\xc2""]"
+26,Action|Adventure|Comedy|Crime|Family|Romance|Thriller,[u'Agent Cody Banks\xc2']
+27,Action|Adventure|Comedy|Crime|Music|Mystery,[u'The Adventures of Ford Fairlane\xc2']
+28,Action|Adventure|Comedy|Crime|Mystery|Thriller,[u'Now You See Me 2\xc2']
+29,Action|Adventure|Comedy|Crime|Thriller,"[u""Charlie's Angels\xc2""]"
+30,Action|Adventure|Comedy|Drama|Music|Sci-Fi,[u'Six-String Samurai\xc2']
+31,Action|Adventure|Comedy|Drama|Thriller,[u'Chill Factor\xc2']
+32,Action|Adventure|Comedy|Drama|War,[u'Three Kings\xc2']
+33,Action|Adventure|Comedy|Family,[u'The Crocodile Hunter: Collision Course\xc2']
+34,Action|Adventure|Comedy|Family|Fantasy,[u'Night at the Museum\xc2']
+35,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,[u'Men in Black II\xc2']
+36,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,"[u'Men in Black 3\xc2' u'Journey 2: The Mysterious Island\xc2'
+ u'Zathura: A Space Adventure\xc2' u'Teenage Mutant Ninja Turtles III\xc2']"
+37,Action|Adventure|Comedy|Family|Mystery,[u'National Treasure\xc2']
+38,Action|Adventure|Comedy|Family|Romance,[u'George of the Jungle\xc2']
+39,Action|Adventure|Comedy|Family|Romance|Sci-Fi,[u'Agent Cody Banks 2: Destination London\xc2']
+40,Action|Adventure|Comedy|Family|Sci-Fi,"[u'Inspector Gadget\xc2' u'Thunderbirds\xc2'
+ u'Spy Kids 3-D: Game Over\xc2' u'Small Soldiers\xc2'
+ u'Spy Kids 2: Island of Lost Dreams\xc2' u'Spy Kids\xc2'
+ u'Spy Kids: All the Time in the World in 4D\xc2'
+ u'Teenage Mutant Ninja Turtles II: The Secret of the Ooze\xc2']"
+41,Action|Adventure|Comedy|Fantasy,"[u'Last Action Hero\xc2' u'The Phantom\xc2'
+ u'Big Trouble in Little China\xc2']"
+42,Action|Adventure|Comedy|Fantasy|Mystery,[u'The Golden Child\xc2']
+43,Action|Adventure|Comedy|Fantasy|Romance,[u'George and the Dragon\xc2']
+44,Action|Adventure|Comedy|Fantasy|Sci-Fi,[u'The Helix... Loaded\xc2']
+45,Action|Adventure|Comedy|Fantasy|Thriller,[u'The Brothers Grimm\xc2']
+46,Action|Adventure|Comedy|Musical,[u'Pootie Tang\xc2']
+47,Action|Adventure|Comedy|Music|Thriller,[u'Ishtar\xc2']
+48,Action|Adventure|Comedy|Romance,[u'Six Days Seven Nights\xc2' u'My Lucky Star\xc2']
+49,Action|Adventure|Comedy|Romance|Sci-Fi,[u'Deadpool\xc2' u'Howard the Duck\xc2' u'The Ice Pirates\xc2']
+50,Action|Adventure|Comedy|Romance|Thriller,"[u""Fool's Gold\xc2""]"
+51,Action|Adventure|Comedy|Romance|Thriller|Western,[u'The Mask of Zorro\xc2']
+52,Action|Adventure|Comedy|Sci-Fi,"[u'Suicide Squad\xc2' u'Ant-Man\xc2' u'Teenage Mutant Ninja Turtles\xc2'
+ u'Teenage Mutant Ninja Turtles: Out of the Shadows\xc2']"
+53,Action|Adventure|Comedy|Sci-Fi|Thriller,[u'Clockstoppers\xc2']
+54,Action|Adventure|Comedy|Thriller,"[u'Sahara\xc2' u'The Rundown\xc2' u'Bad Company\xc2' u'I Spy\xc2'
+ u'Street Fighter\xc2']"
+55,Action|Adventure|Comedy|Western,"[u'Shanghai Noon\xc2' u'The Good, the Bad, the Weird\xc2']"
+56,Action|Adventure|Crime,[u'The A-Team\xc2']
+57,Action|Adventure|Crime|Drama,[u'Chicago Overcoat\xc2']
+58,Action|Adventure|Crime|Drama|Family|Fantasy|Romance|Thriller,[u'Reindeer Games\xc2']
+59,Action|Adventure|Crime|Drama|Mystery|Thriller,[u'The Fugitive\xc2']
+60,Action|Adventure|Crime|Drama|Romance,[u'Fled\xc2']
+61,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,[u'Daredevil\xc2']
+62,Action|Adventure|Crime|Drama|Thriller,[u'Snakes on a Plane\xc2']
+63,Action|Adventure|Crime|Fantasy|Mystery|Thriller,[u'The Shadow\xc2']
+64,Action|Adventure|Crime|Mystery|Thriller,[u'Sherlock Holmes: A Game of Shadows\xc2' u'Sherlock Holmes\xc2']
+65,Action|Adventure|Crime|Thriller,"[u'S.W.A.T.\xc2' u'The Jackal\xc2' u'xXx: State of the Union\xc2'
+ u'Ronin\xc2' u'Into the Blue\xc2' u'The River Wild\xc2'
+ u'The Art of War\xc2' u'Speed\xc2' u'A Lonely Place to Die\xc2']"
+66,Action|Adventure|Drama,"[u'Exodus: Gods and Kings\xc2' u'Noah\xc2' u'First Blood\xc2'
+ u'All Is Lost\xc2' u'Seven Samurai\xc2']"
+67,Action|Adventure|Drama|Family,[u'The Young and Prodigious T.S. Spivet\xc2']
+68,Action|Adventure|Drama|Fantasy,"[u'Snow White and the Huntsman\xc2' u'47 Ronin\xc2'
+ u""The Huntsman: Winter's War\xc2""
+ u'The Lord of the Rings: The Fellowship of the Ring\xc2'
+ u'The Lord of the Rings: The Return of the King\xc2'
+ u'The Lord of the Rings: The Two Towers\xc2']"
+69,Action|Adventure|Drama|Fantasy|Sci-Fi,[u'Stargate: The Ark of Truth\xc2']
+70,Action|Adventure|Drama|Fantasy|War,[u'Baahubali: The Beginning\xc2']
+71,Action|Adventure|Drama|History,[u'Robin Hood\xc2' u'Dragon Blade\xc2']
+72,Action|Adventure|Drama|History|Romance,[u'Pompeii\xc2' u'Rapa Nui\xc2' u'The Bounty\xc2']
+73,Action|Adventure|Drama|History|Romance|War,[u'Flyboys\xc2']
+74,Action|Adventure|Drama|History|Thriller|War,[u'Centurion\xc2']
+75,Action|Adventure|Drama|History|War,"[u'Master and Commander: The Far Side of the World\xc2'
+ u'Kingdom of Heaven\xc2' u'Red Tails\xc2' u'Red Cliff\xc2' u'1911\xc2'
+ u'55 Days at Peking\xc2' u'The Legend of Suriyothai\xc2']"
+76,Action|Adventure|Drama|Horror|Sci-Fi,[u'Godzilla Resurgence\xc2']
+77,Action|Adventure|Drama|Mystery,[u'Risen\xc2']
+78,Action|Adventure|Drama|Romance,"[u'King Kong\xc2' u'The Legend of Tarzan\xc2'
+ u'Robin Hood: Prince of Thieves\xc2' u'House of Flying Daggers\xc2']"
+79,Action|Adventure|Drama|Romance|Sci-Fi,[u'Superman\xc2']
+80,Action|Adventure|Drama|Romance|Thriller,[u'The Count of Monte Cristo\xc2']
+81,Action|Adventure|Drama|Romance|War,[u'The Last of the Mohicans\xc2' u'Arn: The Knight Templar\xc2']
+82,Action|Adventure|Drama|Romance|Western,[u'Quigley Down Under\xc2']
+83,Action|Adventure|Drama|Sci-Fi,"[u'Dawn of the Planet of the Apes\xc2' u'The Postman\xc2'
+ u'Stargate SG-1\xc2' u'Space Battleship Yamato\xc2' u'Revolution\xc2']"
+84,Action|Adventure|Drama|Sci-Fi|Thriller,[u'Star Trek: First Contact\xc2' u'Godzilla 2000\xc2']
+85,Action|Adventure|Drama|Thriller,"[u'Poseidon\xc2' u'The Perfect Storm\xc2' u'San Andreas\xc2'
+ u'Twister\xc2' u'Air Force One\xc2' u'The Book of Eli\xc2'
+ u'The Edge\xc2' u'Daylight\xc2' u'Vertical Limit\xc2'
+ u'Flight of the Phoenix\xc2' u'Apocalypto\xc2' u'Raise the Titanic\xc2'
+ u'The Grey\xc2']"
+86,Action|Adventure|Drama|Thriller|War,[u'Act of Valor\xc2']
+87,Action|Adventure|Drama|Thriller|Western,[u'Texas Rangers\xc2']
+88,Action|Adventure|Drama|War,[u'Saints and Soldiers\xc2']
+89,Action|Adventure|Drama|Western,[u'Tracker\xc2']
+90,Action|Adventure|Family|Fantasy,"[u'The Chronicles of Narnia: Prince Caspian\xc2'
+ u""The Sorcerer's Apprentice\xc2"" u'The Last Airbender\xc2' u'Eragon\xc2'
+ u'The Adventures of Sharkboy and Lavagirl 3-D\xc2']"
+91,Action|Adventure|Family|Fantasy|Romance,[u'Maleficent\xc2']
+92,Action|Adventure|Family|Fantasy|Sci-Fi,[u'Journey to the Center of the Earth\xc2']
+93,Action|Adventure|Family|Fantasy|Sci-Fi|Thriller,[u'Race to Witch Mountain\xc2']
+94,Action|Adventure|Family|Fantasy|Thriller,[u'Mighty Joe Young\xc2']
+95,Action|Adventure|Family|Mystery,[u'The Adventures of Tintin\xc2']
+96,Action|Adventure|Family|Mystery|Sci-Fi,[u'Tomorrowland\xc2']
+97,Action|Adventure|Family|Sci-Fi,[u'Zoom\xc2' u'Superman IV: The Quest for Peace\xc2']
+98,Action|Adventure|Family|Sci-Fi|Thriller,[u'Lost in Space\xc2']
+99,Action|Adventure|Family|Thriller,[u'Alex Rider: Operation Stormbreaker\xc2']
+100,Action|Adventure|Fantasy,"[u""Pirates of the Caribbean: At World's End\xc2""
+ u""Pirates of the Caribbean: Dead Man's Chest\xc2""
+ u'Pirates of the Caribbean: On Stranger Tides\xc2'
+ u'The Amazing Spider-Man\xc2'
+ u'Indiana Jones and the Kingdom of the Crystal Skull\xc2' u'Warcraft\xc2'
+ u'Thor: The Dark World\xc2' u'Thor\xc2' u'Wrath of the Titans\xc2'
+ u'Gods of Egypt\xc2'
+ u'Pirates of the Caribbean: The Curse of the Black Pearl\xc2'
+ u'Clash of the Titans\xc2' u'Batman Forever\xc2' u'Seventh Son\xc2'
+ u'Lara Croft Tomb Raider: The Cradle of Life\xc2'
+ u'The Last Witch Hunter\xc2' u'The Legend of Hercules\xc2'
+ u'Xi you ji zhi: Sun Wukong san da Baigu Jing\xc2' u'DragonHeart\xc2'
+ u'The Forbidden Kingdom\xc2' u'Indiana Jones and the Last Crusade\xc2'
+ u'Krull\xc2' u'Warriors of Virtue\xc2' u'Conan the Destroyer\xc2'
+ u'Dragonslayer\xc2' u'Red Sonja\xc2' u'Highlander\xc2'
+ u'Dungeons & Dragons: Wrath of the Dragon God\xc2' u'The Beastmaster\xc2']"
+101,Action|Adventure|Fantasy|Horror,[u'BloodRayne\xc2']
+102,Action|Adventure|Fantasy|Horror|Sci-Fi,[u'Hellboy II: The Golden Army\xc2']
+103,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,[u'Blade: Trinity\xc2']
+104,Action|Adventure|Fantasy|Horror|Thriller,[u'The Mummy: Tomb of the Dragon Emperor\xc2']
+105,Action|Adventure|Fantasy|Romance,"[u'Spider-Man 2\xc2' u'Prince of Persia: The Sands of Time\xc2'
+ u'Spider-Man\xc2']"
+106,Action|Adventure|Fantasy|Sci-Fi,"[u'Avatar\xc2' u'Man of Steel\xc2' u'The Amazing Spider-Man 2\xc2'
+ u'Star Wars: Episode III - Revenge of the Sith\xc2'
+ u'Star Wars: Episode II - Attack of the Clones\xc2'
+ u'Star Wars: Episode I - The Phantom Menace\xc2'
+ u'The League of Extraordinary Gentlemen\xc2'
+ u'Star Wars: Episode VI - Return of the Jedi\xc2'
+ u'Star Wars: Episode V - The Empire Strikes Back\xc2'
+ u'Highlander: Endgame\xc2' u'Star Wars: Episode IV - A New Hope\xc2'
+ u'Beastmaster 2: Through the Portal of Time\xc2' u'Destiny\xc2']"
+107,Action|Adventure|Fantasy|Sci-Fi|Thriller,"[u'X-Men: The Last Stand\xc2' u'X-Men: Days of Future Past\xc2'
+ u'X-Men Origins: Wolverine\xc2' u'X-Men 2\xc2' u'Reign of Fire\xc2'
+ u'Underworld: Evolution\xc2' u'Underworld: Rise of the Lycans\xc2'
+ u'Mortal Kombat: Annihilation\xc2' u'Dragonball: Evolution\xc2'
+ u'Megiddo: The Omega Code 2\xc2' u'Mortal Kombat\xc2'
+ u'The Omega Code\xc2']"
+108,Action|Adventure|Fantasy|Thriller,"[u'The Mummy Returns\xc2' u'Lara Croft: Tomb Raider\xc2'
+ u'The Scorpion King\xc2'
+ u'In the Name of the King: A Dungeon Siege Tale\xc2'
+ u""Cirque du Freak: The Vampire's Assistant\xc2""
+ u'In the Name of the King: The Last Job\xc2']"
+109,Action|Adventure|Fantasy|War,[u'The Last Legion\xc2']
+110,Action|Adventure|History,[u'The 13th Warrior\xc2' u'Hero\xc2' u'Caravans\xc2']
+111,Action|Adventure|History|Romance,[u'Ironclad\xc2']
+112,Action|Adventure|History|Western,"[u""The Legend of Hell's Gate: An American Conspiracy\xc2""]"
+113,Action|Adventure|Horror|Sci-Fi,"[u'Doom\xc2' u'Resident Evil: Afterlife\xc2' u'Deep Rising\xc2'
+ u'Cloverfield\xc2']"
+114,Action|Adventure|Horror|Sci-Fi|Thriller,[u'World War Z\xc2' u'A Sound of Thunder\xc2' u'The Darkest Hour\xc2']
+115,Action|Adventure|Horror|Thriller,[u'Anaconda\xc2' u'Anacondas: The Hunt for the Blood Orchid\xc2']
+116,Action|Adventure|Mystery|Romance|Thriller,[u'Death Calls\xc2']
+117,Action|Adventure|Mystery|Sci-Fi,[u'Oblivion\xc2' u'Congo\xc2']
+118,Action|Adventure|Mystery|Sci-Fi|Thriller,"[u'Allegiant\xc2' u'Sky Captain and the World of Tomorrow\xc2'
+ u'Star Trek: Generations\xc2']"
+119,Action|Adventure|Romance,"[u'Spider-Man 3\xc2' u'The Three Musketeers\xc2' u""A Knight's Tale\xc2""
+ u'The Musketeer\xc2']"
+120,Action|Adventure|Romance|Sci-Fi,[u'The Lovers\xc2' u'Superman II\xc2' u'Krrish\xc2']
+121,Action|Adventure|Romance|Sci-Fi|Thriller,[u'The Island\xc2' u'The Saint\xc2' u'The Host\xc2']
+122,Action|Adventure|Romance|Thriller,[u'First Knight\xc2']
+123,Action|Adventure|Romance|War,[u'The Charge of the Light Brigade\xc2']
+124,Action|Adventure|Romance|Western,[u'Red River\xc2']
+125,Action|Adventure|Sci-Fi,"[u'John Carter\xc2' u'Avengers: Age of Ultron\xc2'
+ u'Batman v Superman: Dawn of Justice\xc2' u'Superman Returns\xc2'
+ u'The Avengers\xc2' u'Captain America: Civil War\xc2' u'Iron Man 3\xc2'
+ u'Transformers: Revenge of the Fallen\xc2'
+ u'Transformers: Age of Extinction\xc2' u'TRON: Legacy\xc2'
+ u'Green Lantern\xc2' u'Terminator Salvation\xc2'
+ u'Star Trek Into Darkness\xc2' u'Pacific Rim\xc2'
+ u'Transformers: Dark of the Moon\xc2' u'2012\xc2'
+ u'Jupiter Ascending\xc2' u'X-Men: Apocalypse\xc2' u'Iron Man\xc2'
+ u'Edge of Tomorrow\xc2' u'Iron Man 2\xc2'
+ u'Captain America: The Winter Soldier\xc2'
+ u'Independence Day: Resurgence\xc2' u'Guardians of the Galaxy\xc2'
+ u'X-Men: First Class\xc2' u'Terminator Genisys\xc2' u'Transformers\xc2'
+ u'Star Trek\xc2' u'Captain America: The First Avenger\xc2'
+ u'The Incredible Hulk\xc2' u'After Earth\xc2' u'Fantastic Four\xc2'
+ u'The Fifth Element\xc2' u'The Time Machine\xc2' u'Battlefield Earth\xc2'
+ u'Timeline\xc2' u'Independence Day\xc2'
+ u'The Lost World: Jurassic Park\xc2' u'X-Men\xc2' u'Dune\xc2'
+ u'Obitaemyy ostrov\xc2' u'Flash Gordon\xc2' u'Wing Commander\xc2'
+ u'Star Trek III: The Search for Spock\xc2' u'Aliens\xc2'
+ u'Star Trek II: The Wrath of Khan\xc2' u""Logan's Run\xc2""
+ u'Beneath the Planet of the Apes\xc2']"
+126,Action|Adventure|Sci-Fi|Thriller,"[u'Battleship\xc2' u'Jurassic World\xc2' u'Star Trek Beyond\xc2'
+ u'Waterworld\xc2' u'G.I. Joe: The Rise of Cobra\xc2' u'Inception\xc2'
+ u'Mad Max: Fury Road\xc2' u'Armageddon\xc2' u'Stealth\xc2'
+ u'G.I. Joe: Retaliation\xc2' u'The Day After Tomorrow\xc2'
+ u'Fantastic 4: Rise of the Silver Surfer\xc2'
+ u'The Chronicles of Riddick\xc2' u'The Wolverine\xc2'
+ u'Planet of the Apes\xc2' u'Jurassic Park III\xc2' u'The Core\xc2'
+ u'Jumper\xc2' u'Star Trek: Insurrection\xc2' u'Star Trek: Nemesis\xc2'
+ u'I Am Number Four\xc2' u'Escape from L.A.\xc2' u'Babylon A.D.\xc2'
+ u'Predators\xc2' u'Serenity\xc2' u'The 5th Wave\xc2' u'Moonraker\xc2'
+ u'Star Trek V: The Final Frontier\xc2'
+ u'Star Trek VI: The Undiscovered Country\xc2' u'Lockout\xc2'
+ u'The Spy Who Loved Me\xc2' u'Mad Max Beyond Thunderdome\xc2'
+ u'Mad Max 2: The Road Warrior\xc2' u'Mad Max\xc2']"
+127,Action|Adventure|Thriller,"[u'Spectre\xc2' u'Skyfall\xc2' u'Mission: Impossible - Rogue Nation\xc2'
+ u'Mission: Impossible III\xc2' u'Die Another Day\xc2'
+ u'Mission: Impossible - Ghost Protocol\xc2'
+ u'The World Is Not Enough\xc2' u'The Bourne Legacy\xc2'
+ u'Mission: Impossible II\xc2' u""Dante's Peak\xc2""
+ u'Tomorrow Never Dies\xc2' u'Live Free or Die Hard\xc2'
+ u'Casino Royale\xc2' u'The Expendables 2\xc2' u'The Expendables 3\xc2'
+ u'Die Hard with a Vengeance\xc2' u'The Expendables\xc2'
+ u'Mission: Impossible\xc2' u'The Rock\xc2' u'xXx\xc2'
+ u'Space Cowboys\xc2' u'Cliffhanger\xc2' u'GoldenEye\xc2'
+ u'Executive Decision\xc2' u'On Deadly Ground\xc2' u'Licence to Kill\xc2'
+ u'The Living Daylights\xc2' u'Extreme Ops\xc2'
+ u'Never Say Never Again\xc2' u'The Hunt for Red October\xc2'
+ u'A View to a Kill\xc2' u'For Your Eyes Only\xc2' u'Octopussy\xc2'
+ u'Firefox\xc2' u'Commando\xc2' u'You Only Live Twice\xc2'
+ u'Thunderball\xc2' u""On Her Majesty's Secret Service\xc2""
+ u'Diamonds Are Forever\xc2' u'Live and Let Die\xc2'
+ u'The Man with the Golden Gun\xc2' u'Goldfinger\xc2'
+ u'From Russia with Love\xc2' u'Dr. No\xc2']"
+128,Action|Adventure|Thriller|War,[u'Rambo III\xc2' u'Rambo: First Blood Part II\xc2']
+129,Action|Adventure|Western,"[u'The Lone Ranger\xc2' u'The Legend of Zorro\xc2' u'Hidalgo\xc2'
+ u'The Legend of the Lone Ranger\xc2' u'The Wild Bunch\xc2'
+ u'Blackthorn\xc2']"
+130,Action|Animation|Comedy|Crime|Family,[u'Hoodwinked!\xc2']
+131,Action|Animation|Comedy|Family,[u'The Angry Birds Movie\xc2']
+132,Action|Animation|Comedy|Family|Fantasy,[u'Foodfight!\xc2']
+133,Action|Animation|Comedy|Family|Fantasy|Sci-Fi,[u'The Powerpuff Girls\xc2']
+134,Action|Animation|Comedy|Family|Sci-Fi,[u'Megamind\xc2' u'Minions\xc2' u'Astro Boy\xc2']
+135,Action|Animation|Comedy|Sci-Fi,[u'Pixels\xc2']
+136,Action|Animation|Crime|Sci-Fi|Thriller,"[u'Batman: The Dark Knight Returns, Part 2\xc2']"
+137,Action|Animation|Fantasy|Horror|Mystery|Sci-Fi|Thriller,"[u'Ultramarines: A Warhammer 40,000 Movie\xc2']"
+138,Action|Animation|Sci-Fi,[u'Akira\xc2']
+139,Action|Animation|Sci-Fi|Thriller,[u'Renaissance\xc2']
+140,Action|Biography|Crime|Drama,"[u'Machine Gun Preacher\xc2' u'The Baader Meinhof Complex\xc2'
+ u'Bronson\xc2']"
+141,Action|Biography|Crime|Drama|Family|Fantasy,[u'The Masked Saint\xc2']
+142,Action|Biography|Crime|Drama|Thriller,[u'Domino\xc2']
+143,Action|Biography|Documentary|Sport,[u'Born to Fly: Elizabeth Streb vs. Gravity\xc2']
+144,Action|Biography|Drama,[u'The Grandmaster\xc2']
+145,Action|Biography|Drama|History,[u'Ip Man 3\xc2' u'Queen of the Mountains\xc2']
+146,Action|Biography|Drama|History|Romance|War,[u'Henry V\xc2']
+147,Action|Biography|Drama|History|Romance|Western,[u'Tombstone\xc2']
+148,Action|Biography|Drama|History|Thriller|War,[u'American Sniper\xc2']
+149,Action|Biography|Drama|History|War,[u'Free State of Jones\xc2']
+150,Action|Biography|Drama|Sport,[u'Rush\xc2' u'Hands of Stone\xc2' u'Bloodsport\xc2']
+151,Action|Biography|Drama|Thriller|War,[u'Lone Survivor\xc2']
+152,Action|Comedy,"[u'Tropic Thunder\xc2' u""You Don't Mess with the Zohan\xc2""
+ u'Man of the House\xc2' u'Ride Along 2\xc2' u'Kick-Ass\xc2'
+ u'Undercover Brother\xc2' u'Team America: World Police\xc2'
+ u'Spy Hard\xc2' u'Keanu\xc2' u'Kung Pow: Enter the Fist\xc2'
+ u'Rumble in the Bronx\xc2' u'Khiladi 786\xc2' u'Compadres\xc2'
+ u'The Legend of Drunken Master\xc2' u'Cotton Comes to Harlem\xc2']"
+153,Action|Comedy|Crime,"[u'The Other Guys\xc2' u'Tower Heist\xc2'
+ u'Austin Powers in Goldmember\xc2'
+ u'Miss Congeniality 2: Armed and Fabulous\xc2' u'22 Jump Street\xc2'
+ u'Central Intelligence\xc2' u'21 Jump Street\xc2' u'The Heat\xc2'
+ u'Micmacs\xc2' u'Torque\xc2' u'Paul Blart: Mall Cop 2\xc2' u'Cop Out\xc2'
+ u'Rush Hour\xc2' u'Hot Pursuit\xc2' u""Big Momma's House\xc2""
+ u'Big Mommas: Like Father, Like Son\xc2' u'30 Minutes or Less\xc2'
+ u'Kick-Ass 2\xc2' u'Paul Blart: Mall Cop\xc2' u'Kindergarten Cop\xc2'
+ u'Pineapple Express\xc2' u'The Man\xc2' u'Code Name: The Cleaner\xc2'
+ u'Beverly Hills Cop\xc2' u'Loaded Weapon 1\xc2' u'Drive Hard\xc2'
+ u'A Low Down Dirty Shame\xc2' u'Wild Target\xc2' u'Mr. Nice Guy\xc2'
+ u'Next Day Air\xc2']"
+154,Action|Comedy|Crime|Drama,[u'After the Sunset\xc2' u'Plastic\xc2']
+155,Action|Comedy|Crime|Drama|Romance|Thriller,"[u""Perrier's Bounty\xc2""]"
+156,Action|Comedy|Crime|Drama|Thriller,"[u'Money Train\xc2' u'2 Guns\xc2' u'The Glimmer Man\xc2'
+ u'Exit Wounds\xc2' u'Underclassman\xc2' u'Bad Boys\xc2' u'Wasabi\xc2']"
+157,Action|Comedy|Crime|Family,[u'See Spot Run\xc2']
+158,Action|Comedy|Crime|Fantasy,[u'Kung Fu Hustle\xc2' u'The Mask\xc2']
+159,Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller,[u'Dylan Dog: Dead of Night\xc2']
+160,Action|Comedy|Crime|Music,[u'The Blues Brothers\xc2']
+161,Action|Comedy|Crime|Music|Romance|Thriller,[u'Dick Tracy\xc2']
+162,Action|Comedy|Crime|Romance,[u'Miss Congeniality\xc2' u'Ride Along\xc2']
+163,Action|Comedy|Crime|Romance|Thriller,"[u'Mr. & Mrs. Smith\xc2' u'One for the Money\xc2'
+ u'Grosse Pointe Blank\xc2']"
+164,Action|Comedy|Crime|Sci-Fi|Thriller,[u'The Green Hornet\xc2']
+165,Action|Comedy|Crime|Thriller,"[u'Rush Hour 3\xc2' u'Bad Boys II\xc2' u'Rush Hour 2\xc2' u'RED 2\xc2'
+ u'Hollywood Homicide\xc2' u'3000 Miles to Graceland\xc2' u'RED\xc2'
+ u'Tango & Cash\xc2' u'Beverly Hills Cop III\xc2' u'Blue Streak\xc2'
+ u'Midnight Run\xc2' u'Formula 51\xc2' u'Money Talks\xc2'
+ u'Double Take\xc2' u'Beverly Hills Cop II\xc2'
+ u'The Man Who Knew Too Little\xc2' u'Machete Kills\xc2'
+ u'All About the Benjamins\xc2' u'The Big Hit\xc2' u'Bon Cop Bad Cop\xc2'
+ u'Showdown in Little Tokyo\xc2' u'Action Jackson\xc2' u'Taxman\xc2']"
+166,Action|Comedy|Crime|Western,[u'Bandidas\xc2']
+167,Action|Comedy|Documentary,[u'Jackass 3D\xc2' u'Jackass Number Two\xc2']
+168,Action|Comedy|Drama,[u'High Heels and Low Lifes\xc2']
+169,Action|Comedy|Drama|Family|Thriller,[u'The Pacifier\xc2']
+170,Action|Comedy|Drama|Music,[u'The Last Dragon\xc2']
+171,Action|Comedy|Drama|Sci-Fi,[u'American Hero\xc2']
+172,Action|Comedy|Drama|Thriller,[u'Tidal Wave\xc2' u'Salvation Boulevard\xc2']
+173,Action|Comedy|Drama|War,"[u""All the Queen's Men\xc2""]"
+174,Action|Comedy|Drama|Western,[u'Gunless\xc2']
+175,Action|Comedy|Family,[u'The Spy Next Door\xc2' u'3 Ninjas Kick Back\xc2']
+176,Action|Comedy|Family|Fantasy,[u'Cats & Dogs: The Revenge of Kitty Galore\xc2' u'Cats & Dogs\xc2']
+177,Action|Comedy|Fantasy,[u'R.I.P.D.\xc2' u'Bulletproof Monk\xc2' u'The Medallion\xc2']
+178,Action|Comedy|Fantasy|Horror,[u'Vampire Killers\xc2']
+179,Action|Comedy|Fantasy|Romance,[u'Scott Pilgrim vs. the World\xc2']
+180,Action|Comedy|Fantasy|Sci-Fi,[u'Ghostbusters\xc2' u'Mystery Men\xc2' u'The Specials\xc2']
+181,Action|Comedy|Horror,"[u'Eight Legged Freaks\xc2' u'Lake Placid\xc2'
+ u'Jack Brooks: Monster Slayer\xc2' u'Zombie Hunter\xc2']"
+182,Action|Comedy|Horror|Sci-Fi,[u'The Toxic Avenger Part II\xc2' u'The Toxic Avenger\xc2']
+183,Action|Comedy|Horror|Thriller,[u'Feast\xc2']
+184,Action|Comedy|Music,[u'Dance Flick\xc2']
+185,Action|Comedy|Mystery,[u'Hot Fuzz\xc2']
+186,Action|Comedy|Mystery|Romance,[u'Mortdecai\xc2']
+187,Action|Comedy|Romance,"[u'Knight and Day\xc2' u'This Means War\xc2' u'The Bounty Hunter\xc2'
+ u'Hit and Run\xc2' u'MacGruber\xc2' u'D.E.B.S.\xc2']"
+188,Action|Comedy|Romance|Thriller,[u'Killers\xc2' u'Hum To Mohabbat Karega\xc2']
+189,Action|Comedy|Sci-Fi,"[u'The Adventures of Pluto Nash\xc2' u'Mars Attacks!\xc2'
+ u'The Tuxedo\xc2' u'The Watch\xc2' u'Superman III\xc2' u'Tank Girl\xc2'
+ u""The World's End\xc2""]"
+190,Action|Comedy|Sci-Fi|Sport,[u'Death Race 2000\xc2']
+191,Action|Comedy|Sci-Fi|Thriller,[u'Superhero Movie\xc2' u'Attack the Block\xc2']
+192,Action|Comedy|Sci-Fi|Western,[u'Wild Wild West\xc2']
+193,Action|Comedy|Sport,"[u'Talladega Nights: The Ballad of Ricky Bobby\xc2'
+ u'Here Comes the Boom\xc2' u'Shaolin Soccer\xc2']"
+194,Action|Comedy|Thriller,"[u'True Lies\xc2' u'Knock Off\xc2' u'War, Inc.\xc2'
+ u'Hobo with a Shotgun\xc2']"
+195,Action|Comedy|War,[u'1941\xc2' u'Stripes\xc2']
+196,Action|Crime,"[u'Walking Tall\xc2' u'Double Impact\xc2' u'Z Storm\xc2'
+ u'Close Range\xc2']"
+197,Action|Crime|Drama,"[u'Deuces Wild\xc2' u'The Sweeney\xc2'
+ u""Gangster's Paradise: Jerusalema\xc2"" u'Mercy Streets\xc2'
+ u""Amidst the Devil's Wings\xc2""]"
+198,Action|Crime|Drama|History|Western,[u'The Newton Boys\xc2']
+199,Action|Crime|Drama|Mystery,[u'The Streets of San Francisco\xc2']
+200,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,[u'Criminal\xc2']
+201,Action|Crime|Drama|Mystery|Thriller,"[u'Miami Vice\xc2' u'Enemy of the State\xc2' u'Hostage\xc2'
+ u'Blackhat\xc2' u'The Long Kiss Goodnight\xc2' u'Shooter\xc2'
+ u'Righteous Kill\xc2' u'The Negotiator\xc2' u'Basic\xc2'
+ u'Blood Work\xc2' u'The International\xc2'
+ u'Street Fighter: The Legend of Chun-Li\xc2' u'The Gunman\xc2'
+ u'Breakdown\xc2' u'Max Payne\xc2' u'Four Brothers\xc2' u'Sicario\xc2'
+ u'The Losers\xc2' u'The Net\xc2' u'Broken Horses\xc2'
+ u'The Corruptor\xc2' u'Harper\xc2']"
+202,Action|Crime|Drama|Romance|Thriller,"[u'The Specialist\xc2' u'The Good Thief\xc2' u'Nowhere to Run\xc2'
+ u'True Romance\xc2' u'Set It Off\xc2' u'El Mariachi\xc2']"
+203,Action|Crime|Drama|Sci-Fi|Thriller,[u'Chappie\xc2' u'Looper\xc2']
+204,Action|Crime|Drama|Sport,[u'Undisputed\xc2']
+205,Action|Crime|Drama|Thriller,"[u'The Dark Knight\xc2' u""The Devil's Own\xc2"" u'Hard Rain\xc2'
+ u'Need for Speed\xc2' u'Clear and Present Danger\xc2' u'Man on Fire\xc2'
+ u'London Has Fallen\xc2' u'Gangster Squad\xc2' u'Mercury Rising\xc2'
+ u'Kill Bill: Vol. 2\xc2' u'The Hunted\xc2' u'Payback\xc2'
+ u'Absolute Power\xc2' u'Run All Night\xc2' u'16 Blocks\xc2'
+ u'Unleashed\xc2' u'15 Minutes\xc2' u'Colombiana\xc2' u'Get Carter\xc2'
+ u'A Man Apart\xc2' u'Sabotage\xc2' u'Punisher: War Zone\xc2'
+ u'Stolen\xc2' u'The Punisher\xc2' u'Assault on Precinct 13\xc2'
+ u'Antitrust\xc2' u'Dead Man Down\xc2' u'Wild Card\xc2'
+ u'Brick Mansions\xc2' u'Contraband\xc2' u'Kiss of the Dragon\xc2'
+ u'Cradle 2 the Grave\xc2' u'Stone Cold\xc2' u'Faster\xc2' u'Rogue\xc2'
+ u'Homefront\xc2' u'The French Connection\xc2' u'Street Kings\xc2'
+ u'Paparazzi\xc2' u'Triple 9\xc2' u'A Most Violent Year\xc2'
+ u'I Am Wrath\xc2' u'Hitman\xc2' u""Smokin' Aces\xc2"" u'Running Scared\xc2'
+ u'The Skulls\xc2' u'Shinjuku Incident\xc2' u'The Border\xc2'
+ u'Romeo Is Bleeding\xc2' u'American Heist\xc2' u'The Way of the Gun\xc2'
+ u'The Player\xc2' u'Swelter\xc2' u'Black November\xc2' u'Harry Brown\xc2'
+ u'Nikita\xc2' u'Elite Squad\xc2' u'The Protector\xc2'
+ u'Dum Maaro Dum\xc2' u'Easy Money\xc2' u'Wicked Blood\xc2'
+ u'Class of 1984\xc2' u'Ghost Dog: The Way of the Samurai\xc2'
+ u'Harsh Times\xc2' u'Rockaway\xc2']"
+206,Action|Crime|Drama|Thriller|War,[u'Miracle at St. Anna\xc2']
+207,Action|Crime|Drama|Thriller|Western,"[u'Harley Davidson and the Marlboro Man\xc2' u'Young Guns\xc2'
+ u'Lone Wolf McQuade\xc2']"
+208,Action|Crime|Drama|Western,[u'Silverado\xc2']
+209,Action|Crime|Fantasy|Romance|Thriller,[u'Catwoman\xc2']
+210,Action|Crime|Fantasy|Thriller,[u'Wanted\xc2' u'Elektra\xc2' u'The Spirit\xc2']
+211,Action|Crime|Horror|Sci-Fi|Thriller,[u'Split Second\xc2']
+212,Action|Crime|Horror|Thriller,[u'Red State\xc2']
+213,Action|Crime|Mystery|Romance|Thriller,[u'Conspiracy Theory\xc2' u'Maximum Risk\xc2']
+214,Action|Crime|Mystery|Sci-Fi|Thriller,[u'Escape Plan\xc2']
+215,Action|Crime|Mystery|Thriller,"[u'Salt\xc2' u'Safe House\xc2' u'Jack Reacher\xc2' u'Alex Cross\xc2'
+ u'Whiteout\xc2' u'Del 1 - M\xc3_n som hatar kvinnor\xc2']"
+216,Action|Crime|Romance|Thriller,[u'Speed 2: Cruise Control\xc2' u'Entrapment\xc2' u'Parker\xc2']
+217,Action|Crime|Sci-Fi,[u'Steel\xc2']
+218,Action|Crime|Sci-Fi|Thriller,"[u'RoboCop\xc2' u'Face/Off\xc2' u'Ballistic: Ecks vs. Sever\xc2'
+ u'Repo Men\xc2' u'The Running Man\xc2' u'Virtuosity\xc2' u'Timecop\xc2'
+ u'RoboCop 3\xc2' u'Crank: High Voltage\xc2' u'Fortress\xc2']"
+219,Action|Crime|Sport|Thriller,[u'Point Break\xc2']
+220,Action|Crime|Thriller,"[u'Furious 7\xc2' u'The Fast and the Furious\xc2' u'Lethal Weapon 4\xc2'
+ u'Fast Five\xc2' u'Gone in Sixty Seconds\xc2'
+ u'The Taking of Pelham 1 2 3\xc2' u'Spy Game\xc2'
+ u'The Fast and the Furious: Tokyo Drift\xc2' u'Con Air\xc2'
+ u'Swordfish\xc2' u'2 Fast 2 Furious\xc2' u'Killer Elite\xc2'
+ u'Broken Arrow\xc2' u'Sin City: A Dame to Kill For\xc2'
+ u'The Italian Job\xc2' u'The Sentinel\xc2' u'The Equalizer\xc2'
+ u'Shaft\xc2' u'Ninja Assassin\xc2' u'Assassins\xc2' u'Taken 2\xc2'
+ u'Cellular\xc2' u'Bangkok Dangerous\xc2' u'The Mechanic\xc2'
+ u'Man on a Ledge\xc2' u'Kiss of Death\xc2' u'Lethal Weapon 3\xc2'
+ u'Heist\xc2' u'Premium Rush\xc2' u'Safe\xc2' u'Takers\xc2'
+ u'Transporter 2\xc2' u'Black Rain\xc2' u'The Replacement Killers\xc2'
+ u'The Last Stand\xc2' u'Once Upon a Time in Mexico\xc2'
+ u'Romeo Must Die\xc2' u'War\xc2' u'Half Past Dead\xc2'
+ u'The Transporter Refueled\xc2' u'The Transporter\xc2' u'Armored\xc2'
+ u'12 Rounds\xc2' u'Death Sentence\xc2' u'Survivor\xc2' u'Firestorm\xc2'
+ u'Getaway\xc2' u'RocknRolla\xc2' u'The November Man\xc2'
+ u'District B13\xc2' u'Machete\xc2' u'Crank\xc2' u'Skin Trade\xc2'
+ u'The Boondock Saints II: All Saints Day\xc2'
+ u'The Death and Life of Bobby Z\xc2' u'Desperado\xc2'
+ u'The Boondock Saints\xc2' u'Nighthawks\xc2' u'Exiled\xc2'
+ u'Checkmate\xc2' u'The Raid: Redemption\xc2' u'Rampage\xc2']"
+221,Action|Drama,"[u'Hancock\xc2' u'Kung Fu Killer\xc2' u'Fight Valley\xc2'
+ u'The Assassin\xc2' u'Silmido\xc2' u'Green Street 3: Never Back Down\xc2'
+ u'Only the Strong\xc2' u'Hardflip\xc2' u'In Her Line of Fire\xc2'
+ u'American Ninja 2: The Confrontation\xc2']"
+222,Action|Drama|Family|Sport,[u'The Karate Kid\xc2']
+223,Action|Drama|Fantasy,[u'The Crow\xc2' u'The Promise\xc2']
+224,Action|Drama|Fantasy|Horror|Thriller,[u'Dragon Wars: D-War\xc2']
+225,Action|Drama|Fantasy|Horror|War,[u'Dracula Untold\xc2']
+226,Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller,[u'Dark City\xc2']
+227,Action|Drama|Fantasy|Mystery|Thriller,[u'Left Behind\xc2']
+228,Action|Drama|Fantasy|Romance,[u'Immortals\xc2' u'Buffy the Vampire Slayer\xc2']
+229,Action|Drama|Fantasy|Sci-Fi,[u'Ink\xc2']
+230,Action|Drama|Fantasy|Thriller|Western,[u'Jonah Hex\xc2']
+231,Action|Drama|Fantasy|War,[u'300: Rise of an Empire\xc2' u'300\xc2']
+232,Action|Drama|History,[u'Bodyguards and Assassins\xc2']
+233,Action|Drama|History|Romance|War,[u'Pearl Harbor\xc2' u'The Warlords\xc2']
+234,Action|Drama|History|Romance|War|Western,"[u""One Man's Hero\xc2""]"
+235,Action|Drama|History|Thriller,[u'The Finest Hours\xc2']
+236,Action|Drama|History|Thriller|War,[u'Airlift\xc2']
+237,Action|Drama|History|War,"[u'The Last Samurai\xc2' u'The Patriot\xc2' u'We Were Soldiers\xc2'
+ u'Tora! Tora! Tora!\xc2' u'Waterloo\xc2'
+ u'Three Kingdoms: Resurrection of the Dragon\xc2'
+ u'Operation Chromite\xc2' u'The Longest Day\xc2']"
+238,Action|Drama|Horror|Thriller,[u'Sur le seuil\xc2' u'From a Whisper to a Scream\xc2']
+239,Action|Drama|Music|Romance,[u'The Bodyguard\xc2']
+240,Action|Drama|Mystery|Sci-Fi,[u'Watchmen\xc2' u'Dark Angel\xc2']
+241,Action|Drama|Mystery|Thriller,[u'Eraser\xc2']
+242,Action|Drama|Mystery|Thriller|War,[u'Courage Under Fire\xc2']
+243,Action|Drama|Romance,"[u'Gladiator\xc2' u'Top Gun\xc2' u'Crouching Tiger, Hidden Dragon\xc2']"
+244,Action|Drama|Romance|Sci-Fi|Thriller,[u'Deep Impact\xc2']
+245,Action|Drama|Romance|Sport,[u'Supercross\xc2']
+246,Action|Drama|Romance|Thriller,[u'Kites\xc2']
+247,Action|Drama|Romance|War,[u'Sands of Iwo Jima\xc2']
+248,Action|Drama|Sci-Fi,[u'Soldier\xc2' u'Defiance\xc2']
+249,Action|Drama|Sci-Fi|Sport,[u'Real Steel\xc2']
+250,Action|Drama|Sci-Fi|Thriller,"[u'Elysium\xc2' u'Rise of the Planet of the Apes\xc2' u'Volcano\xc2'
+ u'Chain Reaction\xc2' u'Snowpiercer\xc2' u""Smilla's Sense of Snow\xc2""
+ u'Equilibrium\xc2' u'Meteor\xc2' u'Echo Dr.\xc2']"
+251,Action|Drama|Sport,"[u'Driven\xc2' u'Days of Thunder\xc2' u'Never Back Down\xc2'
+ u'Never Back Down 2: The Beatdown\xc2' u'Heroes of Dirt\xc2']"
+252,Action|Drama|Sport|Thriller,[u'The Fan\xc2']
+253,Action|Drama|Thriller,"[u'White House Down\xc2' u'Collateral Damage\xc2' u'The Kingdom\xc2'
+ u'The Sum of All Fears\xc2' u'Body of Lies\xc2' u'Proof of Life\xc2'
+ u'Ladder 49\xc2' u'Jack Ryan: Shadow Recruit\xc2' u'The Last Castle\xc2'
+ u'Outbreak\xc2' u'V for Vendetta\xc2' u'Hanna\xc2' u'3 Days to Kill\xc2'
+ u'Straw Dogs\xc2' u'Snitch\xc2' u'The Marine\xc2' u'Silent Trigger\xc2'
+ u'Malone\xc2' u'Men of War\xc2' u'Open Road\xc2'
+ u'Light from the Darkroom\xc2']"
+254,Action|Drama|Thriller|War,"[u'Green Zone\xc2' u'Tears of the Sun\xc2' u'Crimson Tide\xc2'
+ u'13 Hours\xc2' u'Behind Enemy Lines\xc2' u'Flight of the Intruder\xc2'
+ u'Born of War\xc2']"
+255,Action|Drama|War,"[u'Windtalkers\xc2' u'Fury\xc2' u'Jarhead\xc2' u'Saving Private Ryan\xc2'
+ u'Red Dawn\xc2' u'The Great Raid\xc2' u'G.I. Jane\xc2'
+ u'Tae Guk Gi: The Brotherhood of War\xc2' u'5 Days of War\xc2'
+ u'Force 10 from Navarone\xc2']"
+256,Action|Drama|Western,[u'Jane Got a Gun\xc2' u'A Fistful of Dollars\xc2']
+257,Action|Family|Fantasy|Musical,[u'The Nutcracker in 3D\xc2']
+258,Action|Family|Sport,[u'Speed Racer\xc2']
+259,Action|Fantasy,[u'Harry Potter and the Deathly Hallows: Part II\xc2' u'Sucker Punch\xc2']
+260,Action|Fantasy|Horror,"[u'Underworld: Awakening\xc2' u'Abraham Lincoln: Vampire Hunter\xc2'
+ u'Hansel & Gretel: Witch Hunters\xc2' u'Legion\xc2']"
+261,Action|Fantasy|Horror|Mystery,[u'End of Days\xc2']
+262,Action|Fantasy|Horror|Mystery|Thriller,[u'The Prophecy\xc2']
+263,Action|Fantasy|Horror|Sci-Fi,[u'Hellboy\xc2']
+264,Action|Fantasy|Horror|Sci-Fi|Thriller,[u'Priest\xc2' u'Phantasm II\xc2']
+265,Action|Fantasy|Horror|Thriller,"[u'Dracula 2000\xc2' u'The Covenant\xc2'
+ u'Tales from the Crypt: Demon Knight\xc2' u'Warlock\xc2'
+ u'A Nightmare on Elm Street 3: Dream Warriors\xc2']"
+266,Action|Fantasy|Romance|Sci-Fi,[u'Highlander: The Final Dimension\xc2']
+267,Action|Fantasy|Sci-Fi|Thriller,"[u'I, Frankenstein\xc2']"
+268,Action|Fantasy|Thriller,"[u'Ghost Rider\xc2' u'Ghost Rider: Spirit of Vengeance\xc2'
+ u'Drive Angry\xc2' u'Underworld\xc2']"
+269,Action|Fantasy|Western,"[u""The Warrior's Way\xc2""]"
+270,Action|Horror,"[u'Blade\xc2' u'Spawn\xc2' u'Wolves\xc2' u'Re-Kill\xc2'
+ u'Navy Seals vs. Zombies\xc2']"
+271,Action|Horror|Mystery|Sci-Fi|Thriller,[u'Pandorum\xc2']
+272,Action|Horror|Mystery|Thriller,[u'Crowsnest\xc2']
+273,Action|Horror|Romance,[u'Pride and Prejudice and Zombies\xc2']
+274,Action|Horror|Romance|Sci-Fi|Thriller,[u'The Wraith\xc2']
+275,Action|Horror|Sci-Fi,"[u'Alien: Resurrection\xc2' u'Alien 3\xc2' u'Resident Evil\xc2'
+ u'Predator 2\xc2' u'Bait\xc2' u'Ghosts of Mars\xc2' u'Predator\xc2'
+ u""The Devil's Tomb\xc2"" u'The Dead Undead\xc2']"
+276,Action|Horror|Sci-Fi|Thriller,"[u'Hollow Man\xc2' u'AVP: Alien vs. Predator\xc2'
+ u'Resident Evil: Retribution\xc2' u'Blade II\xc2'
+ u'Resident Evil: Apocalypse\xc2' u'Resident Evil: Extinction\xc2'
+ u'Aliens vs. Predator: Requiem\xc2' u'Species\xc2' u'Ultraviolet\xc2'
+ u'Lifeforce\xc2' u'Daybreakers\xc2' u'Firestarter\xc2' u'Jason X\xc2'
+ u'The Purge: Election Year\xc2' u'The Purge: Anarchy\xc2']"
+277,Action|Horror|Thriller,"[u'Grindhouse\xc2' u'Dawn of the Dead\xc2' u'Freddy vs. Jason\xc2'
+ u'Vampires\xc2' u'The Collection\xc2' u'Into the Grizzly Maze\xc2'
+ u'Unnatural\xc2' u'Unsullied\xc2' u'Wind Walkers\xc2']"
+278,Action|Mystery|Sci-Fi|Thriller,"[u'I, Robot\xc2' u'Minority Report\xc2' u'The 6th Day\xc2' u'Paycheck\xc2'
+ u'The Maze Runner\xc2' u'Self/less\xc2']"
+279,Action|Mystery|Thriller,"[u'The Bourne Ultimatum\xc2' u'The Bourne Supremacy\xc2' u'Eagle Eye\xc2'
+ u'The Bourne Identity\xc2' u'Non-Stop\xc2' u'Unknown\xc2'
+ u'Abduction\xc2' u'The Order\xc2' u'Subconscious\xc2']"
+280,Action|Romance|Sport,[u'Fight to the Finish\xc2']
+281,Action|Romance|Thriller,[u'The Tourist\xc2' u'The Algerian\xc2']
+282,Action|Sci-Fi,"[u'Terminator 3: Rise of the Machines\xc2' u'The Matrix Revolutions\xc2'
+ u'The Matrix Reloaded\xc2' u'Hulk\xc2' u'Total Recall\xc2'
+ u""Ender's Game\xc2"" u'Terminator 2: Judgment Day\xc2' u'Dredd\xc2'
+ u'Battle Los Angeles\xc2' u'The Matrix\xc2' u'\xc3\u2020on Flux\xc2'
+ u'Universal Soldier: The Return\xc2' u'The Black Hole\xc2'
+ u'Megaforce\xc2' u'The Terminator\xc2' u'Escape from New York\xc2'
+ u'Escape from the Planet of the Apes\xc2'
+ u'Battle for the Planet of the Apes\xc2' u'Independence Daysaster\xc2'
+ u'Conquest of the Planet of the Apes\xc2' u'Def-Con 4\xc2']"
+283,Action|Sci-Fi|Sport,[u'Rollerball\xc2' u'The Blood of Heroes\xc2']
+284,Action|Sci-Fi|Thriller,"[u'Surrogates\xc2' u'Red Planet\xc2' u'Death Race\xc2'
+ u'The Scorch Trials\xc2' u'Deep Blue Sea\xc2' u'Gamer\xc2' u'The One\xc2'
+ u'Lucy\xc2' u'Riddick\xc2' u'In Time\xc2' u'Doomsday\xc2'
+ u'District 9\xc2' u'Automata\xc2' u'Skyline\xc2' u'Capricorn One\xc2'
+ u'Queen Crab\xc2']"
+285,Action|Sci-Fi|War,[u'Starship Troopers\xc2']
+286,Action|Sport,[u'Crossover\xc2']
+287,Action|Thriller,"[u'The Dark Knight Rises\xc2' u'Jason Bourne\xc2'
+ u'A Good Day to Die Hard\xc2' u'Unstoppable\xc2' u'Die Hard 2\xc2'
+ u'Olympus Has Fallen\xc2' u'The Siege\xc2'
+ u'Under Siege 2: Dark Territory\xc2' u'Turbulence\xc2'
+ u'Bullet to the Head\xc2' u'From Paris with Love\xc2'
+ u'Into the Storm\xc2' u'The Peacemaker\xc2' u'Taken 3\xc2'
+ u'Patriot Games\xc2' u'Shadow Conspiracy\xc2' u'Die Hard\xc2'
+ u'Taken\xc2' u'Red Sky\xc2' u'Haywire\xc2' u'The Cold Light of Day\xc2'
+ u'The Prince\xc2' u'Road House\xc2' u'Invasion U.S.A.\xc2'
+ u'Pound of Flesh\xc2' u'The Hit List\xc2' u'No Escape\xc2'
+ u'Chain of Command\xc2' u'The Marine 4: Moving Target\xc2'
+ u'Royal Kill\xc2']"
+288,Action|Thriller|Western,[u'The Quick and the Dead\xc2']
+289,Action|War,[u'U-571\xc2']
+290,Action|Western,[u'American Outlaws\xc2']
+291,Adventure,"[u'Troy\xc2' u'Kicks\xc2'
+ u'The Book of Mormon Movie, Volume 1: The Journey\xc2']"
+292,Adventure|Animation,[u'Jungle Shuffle\xc2']
+293,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical,[u'The Prince of Egypt\xc2']
+294,Adventure|Animation|Comedy,"[u'The Simpsons Movie\xc2' u""The True Story of Puss'N Boots\xc2""]"
+295,Adventure|Animation|Comedy|Crime,[u'Beavis and Butt-Head Do America\xc2']
+296,Adventure|Animation|Comedy|Crime|Family,[u'Fantastic Mr. Fox\xc2']
+297,Adventure|Animation|Comedy|Drama|Family,[u'Bolt\xc2' u'Chicken Run\xc2']
+298,Adventure|Animation|Comedy|Drama|Family|Fantasy,[u'Inside Out\xc2']
+299,Adventure|Animation|Comedy|Drama|Family|Fantasy|Musical,[u'The Magic Sword: Quest for Camelot\xc2']
+300,Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance,[u'Sinbad: Legend of the Seven Seas\xc2']
+301,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi,[u'Lilo & Stitch\xc2']
+302,Adventure|Animation|Comedy|Drama|Family|Musical,[u'The Rugrats Movie\xc2' u'Jonah: A VeggieTales Movie\xc2']
+303,Adventure|Animation|Comedy|Family,"[u'Up\xc2' u'Bee Movie\xc2' u'Flushed Away\xc2'
+ u""Madagascar 3: Europe's Most Wanted\xc2"" u'Penguins of Madagascar\xc2'
+ u'The Peanuts Movie\xc2' u'Ice Age: Continental Drift\xc2'
+ u'Finding Nemo\xc2' u'Open Season\xc2' u'Over the Hedge\xc2'
+ u'Yogi Bear\xc2' u'Madagascar\xc2' u'Shark Tale\xc2' u'Ice Age\xc2'
+ u'Antz\xc2' u'Free Birds\xc2' u'The Pirates! Band of Misfits\xc2'
+ u'Curious George\xc2' u""Animal Kingdom: Let's go Ape\xc2""
+ u'The Nut Job\xc2' u'Space Dogs\xc2' u'Zambezia\xc2'
+ u""The Pirates Who Don't Do Anything: A VeggieTales Movie\xc2""
+ u'Hey Arnold! The Movie\xc2']"
+304,Adventure|Animation|Comedy|Family|Fantasy,"[u'Monsters University\xc2' u'Toy Story 3\xc2' u'The Good Dinosaur\xc2'
+ u'Brave\xc2' u'Shrek Forever After\xc2' u'Shrek the Third\xc2'
+ u'Stuart Little 2\xc2' u'Monsters, Inc.\xc2' u'The Croods\xc2'
+ u'The Smurfs\xc2' u'The Smurfs 2\xc2' u""The Emperor's New Groove\xc2""
+ u'Toy Story 2\xc2' u'Arthur Christmas\xc2'
+ u'The Adventures of Rocky & Bullwinkle\xc2'
+ u'The SpongeBob Movie: Sponge Out of Water\xc2' u'Hop\xc2'
+ u'ParaNorman\xc2' u'The Tale of Despereaux\xc2' u'The Boxtrolls\xc2'
+ u'Shrek\xc2' u""Happily N'Ever After\xc2"" u""A Bug's Life\xc2""
+ u'The Ant Bully\xc2' u'Thunder and the House of Magic\xc2'
+ u'Toy Story\xc2' u'The SpongeBob SquarePants Movie\xc2'
+ u'The Wild Thornberrys Movie\xc2' u'Doogal\xc2']"
+305,Adventure|Animation|Comedy|Family|Fantasy|Music,"[u'Alvin and the Chipmunks: The Road Chip\xc2'
+ u'Alvin and the Chipmunks: Chipwrecked\xc2']"
+306,Adventure|Animation|Comedy|Family|Fantasy|Musical,[u'Frozen\xc2' u'Rugrats Go Wild\xc2' u'The Brave Little Toaster\xc2']
+307,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,[u'Tangled\xc2' u'Aladdin\xc2']
+308,Adventure|Animation|Comedy|Family|Fantasy|Romance,[u'Shrek 2\xc2' u'The Book of Life\xc2']
+309,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,[u'Home\xc2' u'Looney Tunes: Back in Action\xc2']
+310,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,[u'Space Jam\xc2']
+311,Adventure|Animation|Comedy|Family|Musical,[u'Rio 2\xc2' u'Rio\xc2' u'Winnie the Pooh\xc2']
+312,Adventure|Animation|Comedy|Family|Romance,"[u'The Road to El Dorado\xc2' u'Rugrats in Paris: The Movie\xc2'
+ u'Alpha and Omega\xc2']"
+313,Adventure|Animation|Comedy|Family|Sci-Fi,"[u'Wreck-It Ralph\xc2' u'Mr. Peabody & Sherman\xc2' u'Robots\xc2'
+ u'Chicken Little\xc2' u'Planet 51\xc2' u'Escape from Planet Earth\xc2'
+ u'Space Chimps\xc2']"
+314,Adventure|Animation|Comedy|Family|Sport,[u'Cars 2\xc2' u'Turbo\xc2' u'Cars\xc2']
+315,Adventure|Animation|Comedy|Family|War,[u'Valiant\xc2']
+316,Adventure|Animation|Comedy|Family|Western,[u'Rango\xc2']
+317,Adventure|Animation|Comedy|Fantasy,[u'Sausage Party\xc2']
+318,Adventure|Animation|Comedy|Fantasy|Music|Romance,[u'A Monster in Paris\xc2']
+319,Adventure|Animation|Comedy|Fantasy|Romance,[u'Delgo\xc2']
+320,Adventure|Animation|Drama|Family|Fantasy,[u'The Little Prince\xc2']
+321,Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance,[u'Anastasia\xc2']
+322,Adventure|Animation|Drama|Family|History|Musical|Romance,[u'Pocahontas\xc2']
+323,Adventure|Animation|Drama|Family|Musical,[u'The Lion King\xc2']
+324,Adventure|Animation|Family,"[u'Walking with Dinosaurs 3D\xc2'
+ u""A Turtle's Tale: Sammy's Adventures\xc2"" u'Khumba\xc2'
+ u'The Land Before Time\xc2' u'Snow Queen\xc2']"
+325,Adventure|Animation|Family|Fantasy,"[u'The Polar Express\xc2' u'How to Train Your Dragon\xc2'
+ u'Rise of the Guardians\xc2' u'Epic\xc2' u'Arthur and the Invisibles\xc2'
+ u""Dragon Nest: Warriors' Dawn\xc2"" u'Ponyo\xc2'
+ u""Howl's Moving Castle\xc2"" u'Return to Never Land\xc2'
+ u'Spirited Away\xc2' u'Dragon Hunters\xc2' u'The Secret of Kells\xc2']"
+326,Adventure|Animation|Family|Fantasy|Musical,"[u""Legends of Oz: Dorothy's Return\xc2""]"
+327,Adventure|Animation|Family|Fantasy|Musical|War,[u'Mulan\xc2']
+328,Adventure|Animation|Family|Musical,[u'The Jungle Book 2\xc2']
+329,Adventure|Animation|Family|Sci-Fi,[u'WALL\xc2\xb7E\xc2' u'Treasure Planet\xc2']
+330,Adventure|Animation|Family|Sport,[u'Underdogs\xc2']
+331,Adventure|Animation|Family|Thriller,[u'Dinosaur\xc2']
+332,Adventure|Animation|Family|Western,[u'Spirit: Stallion of the Cimarron\xc2']
+333,Adventure|Animation|Fantasy,"[u""A Warrior's Tail\xc2"" u'Princess Mononoke\xc2']"
+334,Adventure|Animation|Fantasy|Horror|Sci-Fi,[u'Heavy Metal\xc2']
+335,Adventure|Animation|Sci-Fi,[u'Harlock: Space Pirate\xc2']
+336,Adventure|Biography,[u'Rob Roy\xc2']
+337,Adventure|Biography|Crime|Drama|Western,[u'Wyatt Earp\xc2']
+338,Adventure|Biography|Documentary|Drama,[u'Antarctica: A Year on Ice\xc2']
+339,Adventure|Biography|Drama,[u'Into the Wild\xc2' u'Wild\xc2' u'The Other Side of Heaven\xc2']
+340,Adventure|Biography|Drama|History,[u'Rabbit-Proof Fence\xc2']
+341,Adventure|Biography|Drama|History|Sport|Thriller,[u'Everest\xc2']
+342,Adventure|Biography|Drama|History|War,"[u'Seven Years in Tibet\xc2'
+ u'The Messenger: The Story of Joan of Arc\xc2'
+ u'Mongol: The Rise of Genghis Khan\xc2' u'Lawrence of Arabia\xc2']"
+343,Adventure|Biography|Drama|Horror|Thriller,[u'Open Water\xc2']
+344,Adventure|Biography|Drama|Romance,[u'The Perfect Wave\xc2']
+345,Adventure|Biography|Drama|Thriller,[u'The Walk\xc2' u'Alive\xc2' u'127 Hours\xc2']
+346,Adventure|Biography|Drama|War,[u'Rescue Dawn\xc2']
+347,Adventure|Comedy,"[u'Year One\xc2' u'Rat Race\xc2' u'Vacation\xc2'
+ u'Ace Ventura: When Nature Calls\xc2' u'My Fellow Americans\xc2'
+ u'Epic Movie\xc2' u'A Very Harold & Kumar 3D Christmas\xc2'
+ u'Strange Wilderness\xc2' u'Troop Beverly Hills\xc2'
+ u""National Lampoon's Vacation\xc2"" u'Fun Size\xc2'
+ u'Harold & Kumar Escape from Guantanamo Bay\xc2'
+ u'Harold & Kumar Go to White Castle\xc2' u'Crocodile Dundee\xc2']"
+348,Adventure|Comedy|Crime,[u'Crocodile Dundee in Los Angeles\xc2']
+349,Adventure|Comedy|Crime|Drama,[u'The Grand Budapest Hotel\xc2']
+350,Adventure|Comedy|Crime|Drama|Family,"[u""Baby's Day Out\xc2""]"
+351,Adventure|Comedy|Crime|Family|Musical,[u'Muppets Most Wanted\xc2']
+352,Adventure|Comedy|Crime|Family|Mystery,[u'The Pink Panther\xc2']
+353,Adventure|Comedy|Crime|Music,"[u'O Brother, Where Art Thou?\xc2']"
+354,Adventure|Comedy|Crime|Romance,[u'The Mexican\xc2']
+355,Adventure|Comedy|Drama,"[u'The Life Aquatic with Steve Zissou\xc2' u'The Bucket List\xc2'
+ u'Last Holiday\xc2' u'Fear and Loathing in Las Vegas\xc2' u'Joe Dirt\xc2'
+ u'Nebraska\xc2' u'Grand Theft Parsons\xc2' u'Transamerica\xc2']"
+356,Adventure|Comedy|Drama|Family,[u'The Adventures of Huck Finn\xc2']
+357,Adventure|Comedy|Drama|Family|Fantasy,"[u'Mirror Mirror\xc2' u'Babe: Pig in the City\xc2'
+ u'Thomas and the Magic Railroad\xc2']"
+358,Adventure|Comedy|Drama|Family|Mystery,[u'Holes\xc2']
+359,Adventure|Comedy|Drama|Family|Romance,[u'Beverly Hills Chihuahua\xc2']
+360,Adventure|Comedy|Drama|Family|Sport,[u'Racing Stripes\xc2']
+361,Adventure|Comedy|Drama|Fantasy,[u'Ladyhawke\xc2' u'Dogma\xc2']
+362,Adventure|Comedy|Drama|Fantasy|Musical,[u'Into the Woods\xc2']
+363,Adventure|Comedy|Drama|Fantasy|Romance,[u'The Secret Life of Walter Mitty\xc2']
+364,Adventure|Comedy|Drama|Music,[u'Almost Famous\xc2']
+365,Adventure|Comedy|Drama|Romance,"[u'The Brothers Bloom\xc2' u'Sideways\xc2' u'Moonrise Kingdom\xc2'
+ u'Y Tu Mam\xc3\xa1 Tambi\xc3\xa9n\xc2']"
+366,Adventure|Comedy|Drama|Romance|Sci-Fi,[u'Seeking a Friend for the End of the World\xc2']
+367,Adventure|Comedy|Drama|Romance|Thriller|War,[u'The Hunting Party\xc2']
+368,Adventure|Comedy|Family,"[u'102 Dalmatians\xc2' u'Cheaper by the Dozen 2\xc2'
+ u'Home Alone 2: Lost in New York\xc2' u'Big Fat Liar\xc2' u'Hoot\xc2'
+ u'Snow Day\xc2' u'Batman: The Movie\xc2']"
+369,Adventure|Comedy|Family|Fantasy,"[u'Charlie and the Chocolate Factory\xc2'
+ u'Night at the Museum: Battle of the Smithsonian\xc2'
+ u'Night at the Museum: Secret of the Tomb\xc2'
+ u'Asterix at the Olympic Games\xc2' u""Gulliver's Travels\xc2""
+ u'The Cat in the Hat\xc2' u'Stuart Little\xc2' u'Hook\xc2'
+ u""Nim's Island\xc2"" u'The Borrowers\xc2' u'The Little Vampire\xc2'
+ u'Ramona and Beezus\xc2']"
+370,Adventure|Comedy|Family|Fantasy|Horror,[u'Goosebumps\xc2']
+371,Adventure|Comedy|Family|Fantasy|Horror|Mystery,[u'Scooby-Doo 2: Monsters Unleashed\xc2']
+372,Adventure|Comedy|Family|Fantasy|Musical,[u'The Adventures of Elmo in Grouchland\xc2']
+373,Adventure|Comedy|Family|Fantasy|Music|Sci-Fi,[u'Muppets from Space\xc2']
+374,Adventure|Comedy|Family|Fantasy|Romance|Sport,[u'Herbie Fully Loaded\xc2']
+375,Adventure|Comedy|Family|Fantasy|Sci-Fi,[u'Aliens in the Attic\xc2' u'Super Mario Bros.\xc2']
+376,Adventure|Comedy|Family|Musical,[u'The Muppets\xc2' u'The Muppet Movie\xc2']
+377,Adventure|Comedy|Family|Music|Romance,[u'The Lizzie McGuire Movie\xc2']
+378,Adventure|Comedy|Family|Mystery|Sci-Fi,[u'Men in Black\xc2']
+379,Adventure|Comedy|Family|Romance,[u'Unaccompanied Minors\xc2' u'Are We There Yet?\xc2' u'Monte Carlo\xc2']
+380,Adventure|Comedy|Family|Romance|Sci-Fi,[u'Meet Dave\xc2']
+381,Adventure|Comedy|Family|Sci-Fi,[u'Sky High\xc2']
+382,Adventure|Comedy|Family|Sport,[u'Snow Dogs\xc2' u'Cool Runnings\xc2']
+383,Adventure|Comedy|Fantasy,"[u'Your Highness\xc2' u'Black Knight\xc2'
+ u'Monty Python and the Holy Grail\xc2']"
+384,Adventure|Comedy|Fantasy|Music|Sci-Fi,"[u""Bill & Ted's Bogus Journey\xc2""]"
+385,Adventure|Comedy|Fantasy|Sci-Fi,[u'Time Bandits\xc2' u'Barbarella\xc2']
+386,Adventure|Comedy|History,[u'Tom Jones\xc2']
+387,Adventure|Comedy|History|Romance,[u'Virgin Territory\xc2']
+388,Adventure|Comedy|Horror,[u'Incident at Loch Ness\xc2']
+389,Adventure|Comedy|Horror|Sci-Fi,[u'Zombieland\xc2']
+390,Adventure|Comedy|Musical|Romance,[u'The Pirate\xc2']
+391,Adventure|Comedy|Music|Sci-Fi,"[u""Bill & Ted's Excellent Adventure\xc2""]"
+392,Adventure|Comedy|Mystery,[u'Scooby-Doo\xc2' u'Without a Paddle\xc2']
+393,Adventure|Comedy|Romance,"[u'Sex Drive\xc2' u""Donovan's Reef\xc2""]"
+394,Adventure|Comedy|Romance|Sci-Fi,[u'Bubble Boy\xc2']
+395,Adventure|Comedy|Sci-Fi,"[u'Land of the Lost\xc2' u'Galaxy Quest\xc2'
+ u""The Hitchhiker's Guide to the Galaxy\xc2""
+ u'Back to the Future Part II\xc2' u'Paul\xc2'
+ u'Star Trek IV: The Voyage Home\xc2' u'Spaceballs\xc2'
+ u'Back to the Future\xc2' u'Gentlemen Broncos\xc2' u'Spaced Invaders\xc2'
+ u'Idiocracy\xc2']"
+396,Adventure|Comedy|Sci-Fi|Western,[u'Back to the Future Part III\xc2']
+397,Adventure|Comedy|Sport,[u'Airborne\xc2']
+398,Adventure|Comedy|Western,[u'Saving Private Perez\xc2']
+399,Adventure|Crime|Drama,[u'Iguana\xc2']
+400,Adventure|Crime|Drama|Mystery|Thriller,[u'Trash\xc2']
+401,Adventure|Crime|Drama|Mystery|Western,[u'Three Burials\xc2']
+402,Adventure|Crime|Drama|Romance,[u'Shanghai Surprise\xc2']
+403,Adventure|Crime|Drama|Thriller,[u'The Great Train Robbery\xc2']
+404,Adventure|Crime|Drama|Western,[u'3:10 to Yuma\xc2']
+405,Adventure|Crime|Mystery|Sci-Fi|Thriller,[u'Nerve\xc2']
+406,Adventure|Crime|Thriller,[u'The Pursuit of D.B. Cooper\xc2']
+407,Adventure|Documentary,[u'Antarctic Edge: 70\xc2\xb0 South\xc2']
+408,Adventure|Documentary|Drama|Sport,[u'Touching the Void\xc2']
+409,Adventure|Documentary|Short,[u'Dolphins and Whales 3D: Tribes of the Ocean\xc2']
+410,Adventure|Drama,"[u'White Squall\xc2' u'The Road\xc2' u'On the Road\xc2'
+ u""Everybody's Fine\xc2"" u'White Fang\xc2' u'The Blue Butterfly\xc2'
+ u'End of the Spear\xc2' u'Stand by Me\xc2' u'The Wicked Lady\xc2'
+ u'Moby Dick\xc2' u'The Geographer Drank His Globe Away\xc2'
+ u'Travelers and Magicians\xc2' u'Under the Same Moon\xc2']"
+411,Adventure|Drama|Family,[u'Two Brothers\xc2' u'Eight Below\xc2' u'Flicka\xc2' u'Duma\xc2']
+412,Adventure|Drama|Family|Fantasy,"[u'The Jungle Book\xc2' u'Where the Wild Things Are\xc2'
+ u'The NeverEnding Story\xc2' u'Bridge to Terabithia\xc2']"
+413,Adventure|Drama|Family|Fantasy|Sci-Fi,"[u'20,000 Leagues Under the Sea\xc2']"
+414,Adventure|Drama|Family|Mystery,[u'Hugo\xc2']
+415,Adventure|Drama|Family|Romance|Western,[u'The Man from Snowy River\xc2']
+416,Adventure|Drama|Fantasy,[u'Life of Pi\xc2' u'Big Fish\xc2' u'The Clan of the Cave Bear\xc2']
+417,Adventure|Drama|Fantasy|Mystery,[u'Preacher\xc2']
+418,Adventure|Drama|Fantasy|Mystery|Thriller,[u'Sleepy Hollow\xc2']
+419,Adventure|Drama|Fantasy|Romance,"[u'The Twilight Saga: Breaking Dawn - Part 2\xc2'
+ u'The Twilight Saga: Eclipse\xc2' u'The Twilight Saga: New Moon\xc2']"
+420,Adventure|Drama|Fantasy|Thriller|Western,[u'Western Religion\xc2']
+421,Adventure|Drama|History,"[u'Ben-Hur\xc2' u'Apollo 13\xc2' u'A Passage to India\xc2'
+ u'The Right Stuff\xc2' u'Quest for Fire\xc2']"
+422,Adventure|Drama|History|Romance,[u'Agora\xc2']
+423,Adventure|Drama|History|Romance|Thriller|War,[u'Captain Alatriste: The Spanish Musketeer\xc2']
+424,Adventure|Drama|History|Romance|War,[u'Cold Mountain\xc2']
+425,Adventure|Drama|History|Thriller|War,[u'The Great Escape\xc2']
+426,Adventure|Drama|History|War,[u'Barry Lyndon\xc2']
+427,Adventure|Drama|Horror|Mystery|Thriller,[u'Silent Hill: Revelation 3D\xc2']
+428,Adventure|Drama|Horror|Thriller,[u'The Ghost and the Darkness\xc2']
+429,Adventure|Drama|Mystery,[u'Extremely Loud & Incredibly Close\xc2' u'Gerry\xc2']
+430,Adventure|Drama|Mystery|Sci-Fi|Thriller,[u'12 Monkeys\xc2']
+431,Adventure|Drama|Romance,"[u'Cast Away\xc2' u'Medicine Man\xc2' u'I Dreamed of Africa\xc2'
+ u'The Prisoner of Zenda\xc2' u'Return to the Blue Lagoon\xc2'
+ u'Robin and Marian\xc2' u'Tycoon\xc2' u'The Blue Lagoon\xc2']"
+432,Adventure|Drama|Romance|War,"[u'Australia\xc2' u'Beyond Borders\xc2' u'The Four Feathers\xc2'
+ u'The Horseman on the Roof\xc2' u'March or Die\xc2']"
+433,Adventure|Drama|Romance|Western,[u'Boom Town\xc2']
+434,Adventure|Drama|Sci-Fi,"[u'Interstellar\xc2' u'The Martian\xc2'
+ u'A.I. Artificial Intelligence\xc2' u'The Astronaut Farmer\xc2']"
+435,Adventure|Drama|Sci-Fi|Thriller,"[u'Gravity\xc2' u'The Hunger Games\xc2' u'The Abyss\xc2'
+ u'Midnight Special\xc2']"
+436,Adventure|Drama|Thriller,"[u'Blood Diamond\xc2' u'The Beach\xc2' u'Sanctum\xc2' u'Sorcerer\xc2'
+ u'Jaws\xc2' u'My Name Is Khan\xc2' u'Limbo\xc2']"
+437,Adventure|Drama|Thriller|War,[u'Das Boot\xc2']
+438,Adventure|Drama|Thriller|Western,[u'The Revenant\xc2']
+439,Adventure|Drama|War,[u'Inglourious Basterds\xc2' u'The Bridge on the River Kwai\xc2']
+440,Adventure|Drama|Western,"[u""Heaven's Gate\xc2"" u'True Grit\xc2' u'Dances with Wolves\xc2'
+ u'The Timber\xc2']"
+441,Adventure|Family,"[u'Flipper\xc2' u'Max\xc2' u""Barney's Great Adventure\xc2""
+ u'Shipwrecked\xc2' u'Against the Wild\xc2']"
+442,Adventure|Family|Fantasy,"[u'The Golden Compass\xc2' u'Alice in Wonderland\xc2'
+ u'Oz the Great and Powerful\xc2'
+ u'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe\xc2'
+ u'Alice Through the Looking Glass\xc2'
+ u'The Chronicles of Narnia: The Voyage of the Dawn Treader\xc2'
+ u'Pan\xc2' u'The BFG\xc2' u""Harry Potter and the Sorcerer's Stone\xc2""
+ u'The Spiderwick Chronicles\xc2'
+ u'Percy Jackson & the Olympians: The Lightning Thief\xc2'
+ u'Percy Jackson: Sea of Monsters\xc2' u'Inkheart\xc2'
+ u'The Adventurer: The Curse of the Midas Box\xc2' u""Pete's Dragon\xc2""
+ u'The Lost Medallion: The Adventures of Billy Stone\xc2']"
+443,Adventure|Family|Fantasy|Horror|Mystery,[u'Return to Oz\xc2']
+444,Adventure|Family|Fantasy|Musical,"[u'The Adventures of Pinocchio\xc2'
+ u'The Oogieloves in the Big Balloon Adventure\xc2'
+ u'The Wizard of Oz\xc2']"
+445,Adventure|Family|Fantasy|Music|Musical,[u'The Wiz\xc2']
+446,Adventure|Family|Fantasy|Mystery,"[u'Harry Potter and the Half-Blood Prince\xc2'
+ u'Harry Potter and the Order of the Phoenix\xc2'
+ u'Harry Potter and the Goblet of Fire\xc2'
+ u'Harry Potter and the Prisoner of Azkaban\xc2'
+ u'Harry Potter and the Chamber of Secrets\xc2']"
+447,Adventure|Family|Fantasy|Romance,[u'Stardust\xc2' u'The Princess Bride\xc2']
+448,Adventure|Family|Fantasy|Sci-Fi,[u'City of Ember\xc2']
+449,Adventure|Family|Romance,[u'Benji\xc2']
+450,Adventure|Family|Sci-Fi,[u'Earth to Echo\xc2']
+451,Adventure|Family|Sport,[u'The Black Stallion\xc2']
+452,Adventure|Fantasy,"[u'The Hobbit: The Battle of the Five Armies\xc2'
+ u'The Hobbit: The Desolation of Smaug\xc2' u'Jack the Giant Slayer\xc2'
+ u'The Hobbit: An Unexpected Journey\xc2' u'Conan the Barbarian\xc2'
+ u'Sheena\xc2' u'Mirrormask\xc2' u'The Barbarians\xc2']"
+453,Adventure|Fantasy|Horror|Mystery|Thriller,[u'Book of Shadows: Blair Witch 2\xc2']
+454,Adventure|Fantasy|Mystery,[u'The Imaginarium of Doctor Parnassus\xc2']
+455,Adventure|Fantasy|Mystery|Thriller,[u'Viy\xc2' u'Young Sherlock Holmes\xc2']
+456,Adventure|Fantasy|Thriller,[u'The Hole\xc2']
+457,Adventure|Horror,"[u'Friday the 13th Part VIII: Jason Takes Manhattan\xc2'
+ u'The Green Inferno\xc2']"
+458,Adventure|Horror|Mystery,[u'Silent Hill\xc2']
+459,Adventure|Horror|Sci-Fi,"[u'The Beast from 20,000 Fathoms\xc2']"
+460,Adventure|Horror|Thriller,"[u'The Cave\xc2' u'Jaws: The Revenge\xc2' u'Jaws 2\xc2' u'Roar\xc2'
+ u'The Descent\xc2']"
+461,Adventure|Mystery|Sci-Fi,"[u'Prometheus\xc2' u'Divergent\xc2' u'Star Trek: The Motion Picture\xc2'
+ u'2001: A Space Odyssey\xc2']"
+462,Adventure|Mystery|Thriller,[u'A Perfect Getaway\xc2' u'Sphinx\xc2']
+463,Adventure|Sci-Fi,[u'The Hunger Games: Mockingjay - Part 2\xc2']
+464,Adventure|Sci-Fi|Thriller,"[u'The Hunger Games: Catching Fire\xc2' u'War of the Worlds\xc2'
+ u'The Hunger Games: Mockingjay - Part 1\xc2' u'Insurgent\xc2'
+ u'Mission to Mars\xc2' u'Jurassic Park\xc2' u'Sunshine\xc2']"
+465,Adventure|War|Western,[u'Major Dundee\xc2']
+466,Animation,[u'Dwegons and Leprechauns\xc2' u'The Lion of Judah\xc2']
+467,Animation|Biography|Documentary|Drama|History|War,[u'Waltz with Bashir\xc2']
+468,Animation|Biography|Drama|War,[u'Persepolis\xc2']
+469,Animation|Comedy,[u'Farce of the Penguins\xc2' u'Robot Chicken\xc2']
+470,Animation|Comedy|Crime|Drama|Family,[u'Ernest & Celestine\xc2']
+471,Animation|Comedy|Drama,[u'The Triplets of Belleville\xc2' u'Home Movies\xc2']
+472,Animation|Comedy|Drama|Family|Musical,[u'The Tigger Movie\xc2']
+473,Animation|Comedy|Drama|Fantasy|Sci-Fi,[u'I Married a Strange Person!\xc2']
+474,Animation|Comedy|Drama|Romance,[u'Anomalisa\xc2']
+475,Animation|Comedy|Family,"[u'The Secret Life of Pets\xc2' u'Despicable Me\xc2' u'Barnyard\xc2'
+ u'Arthur\xc2' u'Hoodwinked Too! Hood vs. Evil\xc2' u'Animals United\xc2'
+ u'Shaun the Sheep\xc2' u""Doug's 1st Movie\xc2""
+ u'A Charlie Brown Christmas\xc2']"
+476,Animation|Comedy|Family|Fantasy,"[u'Ratatouille\xc2' u'Hotel Transylvania\xc2' u'Hotel Transylvania 2\xc2'
+ u'Garfield 2\xc2' u'Paddington\xc2' u'Garfield\xc2']"
+477,Animation|Comedy|Family|Fantasy|Music,"[u'Alvin and the Chipmunks: The Squeakquel\xc2'
+ u'Alvin and the Chipmunks\xc2']"
+478,Animation|Comedy|Family|Fantasy|Musical,"[u""Cats Don't Dance\xc2"" u""Teacher's Pet\xc2""]"
+479,Animation|Comedy|Family|Fantasy|Musical|Romance,[u'Enchanted\xc2']
+480,Animation|Comedy|Family|Fantasy|Mystery,[u'Monster House\xc2']
+481,Animation|Comedy|Family|Fantasy|Sci-Fi,[u'Cloudy with a Chance of Meatballs 2\xc2']
+482,Animation|Comedy|Family|Horror|Sci-Fi,[u'Frankenweenie\xc2']
+483,Animation|Comedy|Family|Musical,[u'Happy Feet 2\xc2']
+484,Animation|Comedy|Family|Music|Romance,[u'Happy Feet\xc2']
+485,Animation|Comedy|Family|Music|Western,[u'Home on the Range\xc2']
+486,Animation|Comedy|Family|Mystery|Sci-Fi,"[u'The Curse of the Were-Rabbit\xc2' u""Recess: School's Out\xc2""]"
+487,Animation|Comedy|Family|Romance,[u'Roadside Romeo\xc2']
+488,Animation|Comedy|Family|Sci-Fi,[u'Cloudy with a Chance of Meatballs\xc2' u'Despicable Me 2\xc2']
+489,Animation|Comedy|Family|Sport,"[u""Surf's Up\xc2""]"
+490,Animation|Comedy|Fantasy,[u'Monkeybone\xc2']
+491,Animation|Comedy|Fantasy|Musical,[u'South Park: Bigger Longer & Uncut\xc2']
+492,Animation|Drama,[u'My Dog Tulip\xc2']
+493,Animation|Drama|Family,[u'Bambi\xc2']
+494,Animation|Drama|Family|Fantasy,[u'A Christmas Carol\xc2']
+495,Animation|Drama|Family|Fantasy|Musical|Romance,[u'Corpse Bride\xc2']
+496,Animation|Drama|Family|Musical|Romance,[u'The Hunchback of Notre Dame\xc2']
+497,Animation|Drama|Mystery|Sci-Fi|Thriller,[u'A Scanner Darkly\xc2']
+498,Animation|Family,[u'Top Cat Begins\xc2' u'Henry & Me\xc2']
+499,Animation|Family|Fantasy,[u'Coraline\xc2']
+500,Animation|Family|Fantasy|Music,[u'Fantasia 2000\xc2' u'Fantasia\xc2']
+501,Animation|Family|Fantasy|Musical,[u'Pinocchio\xc2' u'Snow White and the Seven Dwarfs\xc2']
+502,Animation|Family|Fantasy|Musical|Romance,[u'The Princess and the Frog\xc2']
+503,Animation|Family|Fantasy|Mystery,"[u""Pooh's Heffalump Movie\xc2""]"
+504,Biography,[u'Chiamatemi Francesco - Il Papa della gente\xc2']
+505,Biography|Comedy|Crime|Drama,[u'The Wolf of Wall Street\xc2' u'Find Me Guilty\xc2' u'Casino Jack\xc2']
+506,Biography|Comedy|Crime|Drama|Romance,[u'I Love You Phillip Morris\xc2']
+507,Biography|Comedy|Crime|Drama|Romance|Thriller,[u'Confessions of a Dangerous Mind\xc2']
+508,Biography|Comedy|Documentary,[u'Martin Lawrence Live: Runteldat\xc2']
+509,Biography|Comedy|Drama,"[u'Joy\xc2' u'Man on the Moon\xc2' u'Riding in Cars with Boys\xc2'
+ u'Ed Wood\xc2' u'American Splendor\xc2']"
+510,Biography|Comedy|Drama|Family|Romance,[u'Red Dog\xc2']
+511,Biography|Comedy|Drama|Family|Sport,[u'The Longshots\xc2']
+512,Biography|Comedy|Drama|History,"[u""Charlie Wilson's War\xc2"" u'The Big Short\xc2' u'Made in Dagenham\xc2']"
+513,Biography|Comedy|Drama|History|Music,[u'Saving Mr. Banks\xc2']
+514,Biography|Comedy|Drama|History|Music|Musical,[u'Topsy-Turvy\xc2']
+515,Biography|Comedy|Drama|Music,"[u""It's All Gone Pete Tong\xc2""]"
+516,Biography|Comedy|Drama|Music|Romance,[u'Florence Foster Jenkins\xc2']
+517,Biography|Comedy|Drama|Romance,[u'Patch Adams\xc2' u'The Sessions\xc2']
+518,Biography|Comedy|Drama|Sport,[u'Eddie the Eagle\xc2']
+519,Biography|Comedy|Drama|War,"[u'Good Morning, Vietnam\xc2']"
+520,Biography|Comedy|Musical,"[u""Can't Stop the Music\xc2""]"
+521,Biography|Comedy|Musical|Romance|Western,[u'Annie Get Your Gun\xc2']
+522,Biography|Comedy|Romance,"[u""Isn't She Great\xc2"" u'20 Dates\xc2']"
+523,Biography|Crime|Documentary|History,[u'The Act of Killing\xc2']
+524,Biography|Crime|Documentary|History|Thriller,[u'Man on Wire\xc2']
+525,Biography|Crime|Drama,"[u'American Gangster\xc2' u'Black Mass\xc2' u'Catch Me If You Can\xc2'
+ u'Casino\xc2' u'Donnie Brasco\xc2' u'J. Edgar\xc2' u'Hoffa\xc2'
+ u'Blow\xc2' u'Goodfellas\xc2' u'Freedom Writers\xc2' u'Infamous\xc2'
+ u'The Iceman\xc2' u'Auto Focus\xc2' u'Escape from Alcatraz\xc2'
+ u'Capote\xc2' u'Bully\xc2']"
+526,Biography|Crime|Drama|History,[u'Spotlight\xc2' u'In Cold Blood\xc2']
+527,Biography|Crime|Drama|History|Music,[u'Straight Outta Compton\xc2']
+528,Biography|Crime|Drama|History|Romance,[u'Public Enemies\xc2']
+529,Biography|Crime|Drama|History|Thriller,[u'Legend\xc2']
+530,Biography|Crime|Drama|History|Western,[u'The Assassination of Jesse James by the Coward Robert Ford\xc2']
+531,Biography|Crime|Drama|Music,"[u""Get Rich or Die Tryin'\xc2""]"
+532,Biography|Crime|Drama|Mystery|Thriller,[u'Kill the Messenger\xc2']
+533,Biography|Crime|Drama|Romance,"[u'Big Eyes\xc2' u""Boys Don't Cry\xc2""]"
+534,Biography|Crime|Drama|Romance|Thriller,[u'Heavenly Creatures\xc2']
+535,Biography|Crime|Drama|Thriller,"[u'The Infiltrator\xc2' u'Carlos\xc2' u'Veronica Guerin\xc2'
+ u'Monster\xc2' u'Party Monster\xc2' u'Compliance\xc2']"
+536,Biography|Crime|Drama|War,[u'Amen.\xc2']
+537,Biography|Crime|Drama|Western,[u'Butch Cassidy and the Sundance Kid\xc2']
+538,Biography|Documentary,[u'Tarnation\xc2' u'The Image Revolution\xc2']
+539,Biography|Documentary|Drama,[u'Faith Connections\xc2']
+540,Biography|Documentary|History,[u'Inside Deep Throat\xc2']
+541,Biography|Documentary|Music,"[u'Shine a Light\xc2' u'Scott Walker: 30 Century Man\xc2'
+ u'Tupac: Resurrection\xc2' u'The Past is a Grotesque Animal\xc2']"
+542,Biography|Documentary|Sport,[u'Beyond the Mat\xc2']
+543,Biography|Drama,"[u'The Aviator\xc2' u'A Beautiful Mind\xc2'
+ u'The Pursuit of Happyness\xc2' u'Erin Brockovich\xc2'
+ u'The Social Network\xc2' u'Men of Honor\xc2'
+ u""Lee Daniels' The Butler\xc2"" u'Girl, Interrupted\xc2'
+ u'Coco Before Chanel\xc2' u'Flash of Genius\xc2' u'Steve Jobs\xc2'
+ u'The Queen\xc2' u'The Great Debaters\xc2' u'Pandaemonium\xc2'
+ u'The Diving Bell and the Butterfly\xc2' u'Quills\xc2'
+ u'Antwone Fisher\xc2' u'Philomena\xc2' u'Heaven Is for Real\xc2'
+ u'Kinsey\xc2' u'My Week with Marilyn\xc2' u'The Straight Story\xc2'
+ u'Rosewater\xc2' u'When Did You Last See Your Father?\xc2'
+ u'Factory Girl\xc2' u'Nowhere in Africa\xc2' u'Pollock\xc2'
+ u'The Elephant Man\xc2' u'Dallas Buyers Club\xc2' u'Mommie Dearest\xc2'
+ u'The Last Time I Committed Suicide\xc2' u'Desert Dancer\xc2'
+ u'Gods and Monsters\xc2' u'Basquiat\xc2' u'The Birth of a Nation\xc2']"
+544,Biography|Drama|Family,[u'Finding Neverland\xc2']
+545,Biography|Drama|Family|History|Sport,[u'Secretariat\xc2']
+546,Biography|Drama|Family|Musical|Romance,[u'The Sound of Music\xc2']
+547,Biography|Drama|Family|Sport,[u'Soul Surfer\xc2']
+548,Biography|Drama|Fantasy|History,[u'Bathory: Countess of Blood\xc2']
+549,Biography|Drama|History,"[u'Nixon\xc2' u'Mandela: Long Walk to Freedom\xc2'
+ u'The Color of Freedom\xc2' u'Cry Freedom\xc2' u'W.\xc2'
+ u""Schindler's List\xc2"" u'The Last Emperor\xc2' u'Elizabeth\xc2'
+ u'The 33\xc2' u'Gandhi\xc2' u'Son of God\xc2' u'12 Years a Slave\xc2'
+ u'Selma\xc2' u'Milk\xc2' u'The Greatest Story Ever Told\xc2'
+ u'One Night with the King\xc2' u'Ramanujan\xc2' u'Winnie Mandela\xc2'
+ u'The Iron Lady\xc2' u'Catch a Fire\xc2' u'Mr. Turner\xc2'
+ u'Woman in Gold\xc2' u'The Visual Bible: The Gospel of John\xc2'
+ u'Good Night, and Good Luck.\xc2' u'Gandhi, My Father\xc2'
+ u'A Man for All Seasons\xc2']"
+550,Biography|Drama|History|Music,[u'Amadeus\xc2']
+551,Biography|Drama|History|Musical,[u'Evita\xc2']
+552,Biography|Drama|History|Romance,"[u'Cleopatra\xc2' u'The Other Boleyn Girl\xc2' u'Marie Antoinette\xc2'
+ u'Malcolm X\xc2' u'The Young Victoria\xc2' u'Reds\xc2'
+ u'The New World\xc2' u'The Duchess\xc2' u""The King's Speech\xc2""
+ u'Jefferson in Paris\xc2' u'Quo Vadis\xc2']"
+553,Biography|Drama|History|Sport,[u'Invictus\xc2' u'Miracle\xc2']
+554,Biography|Drama|History|Thriller,[u'Argo\xc2' u'The Last King of Scotland\xc2']
+555,Biography|Drama|History|Thriller|War,[u'A Mighty Heart\xc2']
+556,Biography|Drama|History|War,"[u'Braveheart\xc2' u'Lincoln\xc2' u'Elizabeth: The Golden Age\xc2'
+ u'Lion of the Desert\xc2' u'Kundun\xc2' u'Downfall\xc2']"
+557,Biography|Drama|Music,"[u'The Soloist\xc2' u'Ray\xc2' u'Get on Up\xc2' u'Selena\xc2'
+ u""I'm Not There.\xc2"" u""What's Love Got to Do with It\xc2""
+ u'Cadillac Records\xc2' u'Copying Beethoven\xc2' u'The Runaways\xc2'
+ u'La Bamba\xc2' u'Control\xc2' u'Day One\xc2' u'Nowhere Boy\xc2']"
+558,Biography|Drama|Music|Musical,"[u'Jersey Boys\xc2' u'The Doors\xc2' u'Beyond the Sea\xc2'
+ u""Coal Miner's Daughter\xc2"" u'De-Lovely\xc2']"
+559,Biography|Drama|Music|Romance,"[u'Walk the Line\xc2' u""Mao's Last Dancer\xc2"" u'Shine\xc2'
+ u""Mozart's Sister\xc2""]"
+560,Biography|Drama|Romance,"[u'Julie & Julia\xc2' u'Big Miracle\xc2' u'Out of Africa\xc2'
+ u'Miss Potter\xc2' u'Grace of Monaco\xc2' u'Shadowlands\xc2'
+ u'The Last Station\xc2' u'Fur: An Imaginary Portrait of Diane Arbus\xc2'
+ u'Becoming Jane\xc2' u'The Theory of Everything\xc2'
+ u'The Sea Inside\xc2' u'Frida\xc2' u'Girl with a Pearl Earring\xc2'
+ u'Bright Star\xc2' u'Freeheld\xc2' u'Iris\xc2' u'Fruitvale Station\xc2']"
+561,Biography|Drama|Romance|Sport,"[u'Against the Ropes\xc2' u'Bobby Jones: Stroke of Genius\xc2'
+ u'Prefontaine\xc2']"
+562,Biography|Drama|Romance|War,[u'The Railway Man\xc2' u'Aimee & Jaguar\xc2']
+563,Biography|Drama|Romance|Western,[u'Pat Garrett & Billy the Kid\xc2']
+564,Biography|Drama|Sport,"[u'Ali\xc2' u'Cinderella Man\xc2' u'Moneyball\xc2' u'42\xc2'
+ u'The Hurricane\xc2' u'The Express\xc2' u'The Blind Side\xc2'
+ u'Radio\xc2' u'Concussion\xc2' u'Remember the Titans\xc2'
+ u'Glory Road\xc2' u'Million Dollar Arm\xc2' u'Lords of Dogtown\xc2'
+ u""The World's Fastest Indian\xc2"" u'Without Limits\xc2'
+ u'Chasing Mavericks\xc2' u'Courage\xc2' u'Raging Bull\xc2'
+ u'McFarland, USA\xc2' u'The Fighter\xc2' u'Gracie\xc2'
+ u'The Rocket: The Legend of Rocket Richard\xc2' u'The Damned United\xc2'
+ u'The 5th Quarter\xc2' u'Chariots of Fire\xc2' u'Race\xc2']"
+565,Biography|Drama|Sport|War,[u'Unbroken\xc2']
+566,Biography|Drama|Thriller,"[u'The Insider\xc2' u'Captain Phillips\xc2' u'Fair Game\xc2'
+ u'The Fifth Estate\xc2' u'A Dangerous Method\xc2'
+ u""The Devil's Double\xc2"" u'Margin Call\xc2']"
+567,Biography|Drama|Thriller|War,[u'Michael Collins\xc2' u'The Imitation Game\xc2']
+568,Biography|Drama|War,"[u'There Be Dragons\xc2' u'The Pianist\xc2'
+ u'Born on the Fourth of July\xc2' u'Patton\xc2']"
+569,Comedy,"[u'10,000 B.C.\xc2' u'The Campaign\xc2' u'The Hangover Part II\xc2'
+ u'Grown Ups 2\xc2' u'Jack and Jill\xc2' u'Grown Ups\xc2' u'Ted 2\xc2'
+ u'Dinner for Schmucks\xc2' u'Last Man Standing\xc2' u'Step Brothers\xc2'
+ u'Couples Retreat\xc2' u'The Internship\xc2' u""That's My Boy\xc2""
+ u'Meet the Parents\xc2' u'Bowfinger\xc2' u'Stuck on You\xc2'
+ u'Me, Myself & Irene\xc2' u'Anchorman 2: The Legend Continues\xc2'
+ u'American Reunion\xc2' u'Zoolander 2\xc2' u'Scary Movie 3\xc2'
+ u'Scary Movie 2\xc2' u'Br\xc3_no\xc2' u'The Interview\xc2'
+ u'The Big Year\xc2' u'Scary Movie 4\xc2' u'Dumb and Dumber To\xc2'
+ u'Sex Tape\xc2' u'The Out-of-Towners\xc2' u'Duplex\xc2'
+ u'The Last Shot\xc2' u'Sgt. Bilko\xc2' u'Head of State\xc2'
+ u'The Hangover\xc2' u'In & Out\xc2' u'Neighbors 2: Sorority Rising\xc2'
+ u'This Is 40\xc2' u'Unfinished Business\xc2' u'Wanderlust\xc2'
+ u'The Three Stooges\xc2' u'The Big Wedding\xc2'
+ u'The Incredible Burt Wonderstone\xc2' u'American Pie 2\xc2'
+ u'The First Wives Club\xc2' u'Meet the Spartans\xc2'
+ u'Dumb and Dumberer: When Harry Met Lloyd\xc2' u'The Boss\xc2'
+ u'Role Models\xc2' u'Zoolander\xc2'
+ u""It's Always Sunny in Philadelphia\xc2""
+ u'Legally Blonde 2: Red, White & Blonde\xc2'
+ u'Anchorman: The Legend of Ron Burgundy\xc2' u'Beauty Shop\xc2'
+ u'The Sitter\xc2' u'EuroTrip\xc2' u'Hot Rod\xc2' u'Old School\xc2'
+ u'Deuce Bigalow: European Gigolo\xc2'
+ u'Jay and Silent Bob Strike Back\xc2' u'I Heart Huckabees\xc2'
+ u'Death at a Funeral\xc2' u'Bringing Down the House\xc2' u'Tammy\xc2'
+ u'Bad Moms\xc2' u'Meet the Browns\xc2' u'Vampires Suck\xc2'
+ u'Scary Movie 5\xc2' u'Under the Rainbow\xc2'
+ u'School for Scoundrels\xc2' u'Fired Up\xc2' u'Disaster Movie\xc2'
+ u'Envy\xc2' u'Be Kind Rewind\xc2' u'Deconstructing Harry\xc2'
+ u'Bad Teacher\xc2' u'Neighbors\xc2'
+ u'Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan\xc2'
+ u'Mean Girls\xc2' u'Love the Coopers\xc2' u'Superbad\xc2'
+ u""Let's Be Cops\xc2"" u'Beerfest\xc2'
+ u'Dickie Roberts: Former Child Star\xc2' u'Lottery Ticket\xc2'
+ u'Dumb & Dumber\xc2' u'Road Trip\xc2' u'Radio Days\xc2'
+ u'The Cookout\xc2' u'Soul Plane\xc2' u'Bad Grandpa\xc2'
+ u'Not Another Teen Movie\xc2' u'Freddy Got Fingered\xc2' u'The Muse\xc2'
+ u'Boat Trip\xc2' u'Towering Inferno\xc2' u'Dead Man on Campus\xc2'
+ u'The Last Godfather\xc2' u'The New Guy\xc2' u'Dirty Work\xc2'
+ u'Dick\xc2' u'21 & Over\xc2' u'American Pie\xc2'
+ u'Ace Ventura: Pet Detective\xc2' u'Johnson Family Vacation\xc2'
+ u""My Baby's Daddy\xc2"" u'How to Be a Player\xc2' u'Sorority Boys\xc2'
+ u'For Your Consideration\xc2' u'Breakfast of Champions\xc2'
+ u'Dirty Grandpa\xc2' u""St. Trinian's\xc2""
+ u'History of the World: Part I\xc2' u'The Ladies Man\xc2' u'Tomcats\xc2'
+ u'Lovesick\xc2' u'Housefull\xc2' u'The Goods: Live Hard, Sell Hard\xc2'
+ u'Office Space\xc2' u'Movie 43\xc2' u'Cedar Rapids\xc2'
+ u'Bucky Larson: Born to Be a Star\xc2' u'The Brothers Solomon\xc2'
+ u'An Alan Smithee Film: Burn Hollywood Burn\xc2' u'Good Intentions\xc2'
+ u'Next Friday\xc2' u'Trading Places\xc2' u'PCU\xc2' u'Barbecue\xc2'
+ u'Baggage Claim\xc2' u'The DUFF\xc2' u'Held Up\xc2' u'Outside Bet\xc2'
+ u'Flirting with Disaster\xc2' u'I Hope They Serve Beer in Hell\xc2'
+ u'Chairman of the Board\xc2' u'The Extra Man\xc2'
+ u'Dazed and Confused\xc2' u'Best in Show\xc2' u'College\xc2'
+ u'Surfer, Dude\xc2' u'Stiff Upper Lips\xc2' u'Clerks II\xc2'
+ u'Fifty Shades of Black\xc2' u""Grandma's Boy\xc2""
+ u'Keeping Up with the Steins\xc2' u'Christmas Eve\xc2' u'Without Men\xc2'
+ u'Police Academy\xc2' u""Moms' Night Out\xc2""
+ u""R.L. Stine's Monsterville: The Cabinet of Souls\xc2"" u""Porky's\xc2""
+ u'The Wash\xc2' u'3 Strikes\xc2' u'Waiting for Guffman\xc2'
+ u'Love Stinks\xc2' u'The Big Tease\xc2' u'An Everlasting Piece\xc2'
+ u'Airplane!\xc2' u'I Got the Hook Up\xc2' u'High Anxiety\xc2'
+ u'The Opposite Sex\xc2' u'Animal House\xc2' u'Waking Ned Devine\xc2'
+ u""Trippin'\xc2"" u'Phat Girlz\xc2'
+ u""Tim and Eric's Billion Dollar Movie\xc2""
+ u'My Big Fat Independent Movie\xc2' u'The Deported\xc2'
+ u'They Came Together\xc2'
+ u'30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo\xc2'
+ u'Four Single Fathers\xc2' u'Young Frankenstein\xc2'
+ u'Everything You Always Wanted to Know About Sex * But Were Afraid to Ask\xc2'
+ u'Strangers with Candy\xc2' u'The Virginity Hit\xc2' u'Bananas\xc2'
+ u'Coffee Town\xc2'
+ u'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb\xc2'
+ u'Road Hard\xc2' u'The Hebrew Hammer\xc2'
+ u'The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It\xc2'
+ u'Extreme Movie\xc2' u'Waiting...\xc2' u'Frat Party\xc2' u'Jesse\xc2'
+ u'L!fe Happens\xc2' u'For a Good Time, Call...\xc2' u'Not Cool\xc2'
+ u'Hav Plenty\xc2' u'The Kentucky Fried Movie\xc2'
+ u'Julija in alfa Romeo\xc2' u'High Road\xc2'
+ u'Finishing the Game: The Search for a New Bruce Lee\xc2'
+ u'The Living Wake\xc2' u'Napoleon Dynamite\xc2' u'Little Big Top\xc2'
+ u'The Woman Chaser\xc2' u""A Dog's Breakfast\xc2""
+ u'The Work and the Story\xc2' u'Hollywood Shuffle\xc2' u'The FP\xc2'
+ u'Supporting Characters\xc2' u'A True Story\xc2'
+ u'Mutual Appreciation\xc2' u'Clerks\xc2']"
+570,Comedy|Crime,"[u'Fun with Dick and Jane\xc2' u'Lucky Numbers\xc2' u'Littleman\xc2'
+ u'Starsky & Hutch\xc2' u'Analyze That\xc2' u'The Big Bounce\xc2'
+ u'Get Hard\xc2' u""Big Momma's House 2\xc2"" u'Horrible Bosses 2\xc2'
+ u""We're the Millers\xc2"" u'Horrible Bosses\xc2' u'Identity Thief\xc2'
+ u'Analyze This\xc2' u'Naked Gun 33 1/3: The Final Insult\xc2'
+ u""What's the Worst That Could Happen?\xc2"" u'Stealing Harvard\xc2'
+ u""King's Ransom\xc2"" u'The Whole Nine Yards\xc2'
+ u'The Naked Gun 2\xc2_: The Smell of Fear\xc2' u'The Crew\xc2'
+ u'White Chicks\xc2' u'Bullets Over Broadway\xc2' u""We're No Angels\xc2""
+ u'Austin Powers: International Man of Mystery\xc2'
+ u'Small Time Crooks\xc2' u'Catch That Kid\xc2' u'Twins\xc2'
+ u""Malibu's Most Wanted\xc2"" u'The Big Lebowski\xc2'
+ u'Seven Psychopaths\xc2' u'Project X\xc2' u'Screwed\xc2'
+ u'Welcome to Collinwood\xc2' u'Snatch\xc2' u'My Cousin Vinny\xc2'
+ u'Corky Romano\xc2' u'Reno 911!: Miami\xc2'
+ u'Police Academy: Mission to Moscow\xc2' u'Half Baked\xc2'
+ u'Clay Pigeons\xc2' u'Witless Protection\xc2' u'Go\xc2'
+ u""Let's Kill Ward's Wife\xc2"" u'The Jerky Boys\xc2'
+ u""Let's Go to Prison\xc2"" u'8 Heads in a Duffel Bag\xc2'
+ u'Lock, Stock and Two Smoking Barrels\xc2' u'Safe Men\xc2'
+ u'Crazy Stone\xc2']"
+571,Comedy|Crime|Drama,"[u'Flawless\xc2' u'Pain & Gain\xc2' u'Nurse Betty\xc2'
+ u""Madea's Witness Protection\xc2"" u'To Die For\xc2' u'Bad Santa\xc2'
+ u'Observe and Report\xc2' u'Madea Goes to Jail\xc2' u'Lilyhammer\xc2'
+ u'In Bruges\xc2' u'Crazy in Alabama\xc2' u'Faithful\xc2' u'Dope\xc2'
+ u'Dom Hemingway\xc2' u'Bernie\xc2' u'11:14\xc2' u'The Sting\xc2'
+ u'Bottle Rocket\xc2' u'Spun\xc2' u'Four Lions\xc2' u'Defendor\xc2'
+ u'Super\xc2' u'Small Apartments\xc2' u'Down Terrace\xc2']"
+572,Comedy|Crime|Drama|Horror|Mystery|Thriller,[u'Some Guy Who Kills People\xc2']
+573,Comedy|Crime|Drama|Horror|Thriller,[u'Cheap Thrills\xc2']
+574,Comedy|Crime|Drama|Music|Romance,[u'ATL\xc2']
+575,Comedy|Crime|Drama|Mystery,[u'Volver\xc2']
+576,Comedy|Crime|Drama|Mystery|Romance,[u'Inherent Vice\xc2' u'Bones\xc2' u'The Barbarian Invasions\xc2']
+577,Comedy|Crime|Drama|Mystery|Thriller,[u'Zero Effect\xc2']
+578,Comedy|Crime|Drama|Romance,"[u'Bandits\xc2' u'Focus\xc2' u'Dear Wendy\xc2' u""Buffalo '66\xc2""]"
+579,Comedy|Crime|Drama|Romance|Thriller,"[u'A Thin Line Between Love and Hate\xc2' u'Alias Betty\xc2'
+ u'Harvard Man\xc2']"
+580,Comedy|Crime|Drama|Sci-Fi,[u'Robot & Frank\xc2']
+581,Comedy|Crime|Drama|Thriller,"[u'Striptease\xc2' u'Death to Smoochy\xc2' u'Hackers\xc2'
+ u'The Informant!\xc2' u'The Matador\xc2' u'Novocaine\xc2' u'Made\xc2'
+ u'Freeway\xc2']"
+582,Comedy|Crime|Drama|Thriller|War,[u'Buffalo Soldiers\xc2']
+583,Comedy|Crime|Family,"[u""Max Keeble's Big Move\xc2"" u'The R.M.\xc2']"
+584,Comedy|Crime|Family|Mystery|Romance|Thriller,[u'Nancy Drew\xc2']
+585,Comedy|Crime|Family|Romance,[u'New York Minute\xc2']
+586,Comedy|Crime|Family|Sci-Fi,[u'Baby Geniuses\xc2']
+587,Comedy|Crime|Horror,[u'Pink Flamingos\xc2']
+588,Comedy|Crime|Horror|Thriller,[u'The Cottage\xc2']
+589,Comedy|Crime|Music,[u'Be Cool\xc2' u'Connie and Carla\xc2' u'The Janky Promoters\xc2']
+590,Comedy|Crime|Musical,[u'Chicago\xc2']
+591,Comedy|Crime|Musical|Mystery,[u'The Singing Detective\xc2']
+592,Comedy|Crime|Musical|Romance,[u'8 Women\xc2']
+593,Comedy|Crime|Mystery,"[u'Drowning Mona\xc2' u'Kiss Kiss Bang Bang\xc2'
+ u'The Return of the Pink Panther\xc2' u'Psych\xc2' u'Scoop\xc2'
+ u'Super Troopers\xc2']"
+594,Comedy|Crime|Mystery|Romance,[u'The Curse of the Jade Scorpion\xc2']
+595,Comedy|Crime|Romance,"[u'Intolerable Cruelty\xc2' u'Gigli\xc2' u'Legal Eagles\xc2'
+ u'Mickey Blue Eyes\xc2' u'Heartbreakers\xc2' u'Saving Silverman\xc2'
+ u'Gun Shy\xc2' u'Extract\xc2' u'Lucky Break\xc2' u'Shooting Fish\xc2'
+ u'Happy, Texas\xc2']"
+596,Comedy|Crime|Romance|Thriller,[u'Duplicity\xc2' u'Date Night\xc2' u'You Kill Me\xc2']
+597,Comedy|Crime|Sci-Fi|Thriller,[u'Repo Man\xc2']
+598,Comedy|Crime|Sport,[u'The Longest Yard\xc2']
+599,Comedy|Crime|Thriller,"[u'Big Trouble\xc2' u'The Ladykillers\xc2' u'Get Shorty\xc2'
+ u'The Whole Ten Yards\xc2' u'Mad Money\xc2' u'Serial Mom\xc2'
+ u'Birthday Girl\xc2' u'Very Bad Things\xc2' u'Cecil B. DeMented\xc2'
+ u'The Swindle\xc2' u'Ca$h\xc2' u'The Guard\xc2' u'Freaky Deaky\xc2'
+ u'Jawbreaker\xc2' u'The Perfect Host\xc2']"
+600,Comedy|Documentary,"[u'Jackass: The Movie\xc2' u'The Original Kings of Comedy\xc2'
+ u'DysFunktional Family\xc2' u'Kevin Hart: Let Me Explain\xc2'
+ u'The Greatest Movie Ever Sold\xc2' u'Certifiably Jonathan\xc2'
+ u'Kevin Hart: Laugh at My Pain\xc2']"
+601,Comedy|Documentary|Drama,[u'Super Size Me\xc2']
+602,Comedy|Documentary|Drama|Fantasy|Mystery|Sci-Fi,[u'What the #$*! Do We (K)now!?\xc2']
+603,Comedy|Documentary|Music,"[u""Dave Chappelle's Block Party\xc2""]"
+604,Comedy|Documentary|War,[u'Religulous\xc2']
+605,Comedy|Drama,"[u'Bruce Almighty\xc2' u'The Terminal\xc2' u'Funny People\xc2'
+ u'The Dilemma\xc2' u'Due Date\xc2' u'Primary Colors\xc2' u'Edtv\xc2'
+ u'Holy Man\xc2' u'Forrest Gump\xc2' u'Stepmom\xc2' u'28 Days\xc2'
+ u'The Intern\xc2' u'The Guilt Trip\xc2' u'Hanging Up\xc2'
+ u'Drillbit Taylor\xc2' u'Renaissance Man\xc2' u'A Thousand Words\xc2'
+ u'Joe Somebody\xc2' u'Burn After Reading\xc2' u'Wonder Boys\xc2'
+ u'Big Daddy\xc2' u'About Schmidt\xc2' u'Entourage\xc2'
+ u""Barney's Version\xc2"" u'Mumford\xc2' u'The Royal Tenenbaums\xc2'
+ u'Our Brand Is Crisis\xc2' u'What Just Happened\xc2'
+ u'A Madea Christmas\xc2' u'The Hoax\xc2' u'Carnage\xc2'
+ u'Little White Lies\xc2' u'Anywhere But Here\xc2'
+ u'The Hundred-Foot Journey\xc2' u'Delivery Man\xc2' u'Swing Vote\xc2'
+ u'The Descendants\xc2' u'This Is Where I Leave You\xc2'
+ u'Georgia Rule\xc2' u'The Weather Man\xc2' u'Burnt\xc2'
+ u'I Can Do Bad All by Myself\xc2' u'Adaptation.\xc2'
+ u'Barbershop 2: Back in Business\xc2' u'The Best Man Holiday\xc2'
+ u'Dead Poets Society\xc2' u'The Women\xc2' u'Why Did I Get Married?\xc2'
+ u'Wag the Dog\xc2' u'Crooklyn\xc2' u'St. Vincent\xc2' u'Barbershop\xc2'
+ u'Crossroads\xc2' u'The Upside of Anger\xc2' u'Young Adult\xc2'
+ u'Celebrity\xc2' u'Running with Scissors\xc2' u'Girl 6\xc2'
+ u'The Dangerous Lives of Altar Boys\xc2' u'Critical Care\xc2'
+ u'A Woman, a Gun and a Noodle Shop\xc2' u'Quartet\xc2'
+ u'There Goes My Baby\xc2' u'The Best Exotic Marigold Hotel\xc2'
+ u'Friday After Next\xc2' u'The Banger Sisters\xc2' u'Rushmore\xc2'
+ u'The Second Best Exotic Marigold Hotel\xc2' u'Bad Words\xc2'
+ u'Jeff, Who Lives at Home\xc2' u""While We're Young\xc2""
+ u'The Joneses\xc2' u'Imaginary Heroes\xc2' u""World's Greatest Dad\xc2""
+ u'The Open Road\xc2' u'Motherhood\xc2' u'Eulogy\xc2' u'The Best Man\xc2'
+ u'The Savages\xc2' u'Igby Goes Down\xc2' u'Election\xc2'
+ u'Little Miss Sunshine\xc2' u'Prom\xc2' u'Another Year\xc2'
+ u'Soul Food\xc2' u'Thank You for Smoking\xc2' u'Magic Mike\xc2'
+ u'Jumping the Broom\xc2' u'A Serious Man\xc2' u'Somewhere\xc2'
+ u'The Chumscrubber\xc2' u'The Four Seasons\xc2' u'The Brothers\xc2'
+ u'City Island\xc2' u'Wish I Was Here\xc2' u""L'auberge espagnole\xc2""
+ u'Ghost World\xc2' u'Mambo Italiano\xc2' u'Le Havre\xc2' u'R100\xc2'
+ u'A Room for Romeo Brass\xc2' u'Instructions Not Included\xc2'
+ u'The Way Way Back\xc2' u'Our Idiot Brother\xc2' u'The Players Club\xc2'
+ u'Diner\xc2' u'Sunshine Cleaning\xc2' u'Saved!\xc2' u'UHF\xc2'
+ u'Slums of Beverly Hills\xc2' u'Bottle Shock\xc2'
+ u'Everything Must Go\xc2' u""Should've Been Romeo\xc2"" u'Soul Kitchen\xc2'
+ u'Tristram Shandy: A Cock and Bull Story\xc2' u'Driving Lessons\xc2'
+ u'Treading Water\xc2' u'Fast Times at Ridgemont High\xc2'
+ u'Life During Wartime\xc2' u'Paa\xc2'
+ u'Love and Death on Long Island\xc2' u'The Kids Are All Right\xc2'
+ u'Thumbsucker\xc2' u'Mondays in the Sun\xc2' u'Another Happy Day\xc2'
+ u'The History Boys\xc2' u'Friday\xc2' u'Winter Passing\xc2' u'Choke\xc2'
+ u'Real Women Have Curves\xc2' u'East Is East\xc2' u'Please Give\xc2'
+ u'Happiness\xc2' u'Just Looking\xc2' u'Pocketful of Miracles\xc2'
+ u'The Dress\xc2' u'Elling\xc2' u'Smoke Signals\xc2'
+ u'Me and You and Everyone We Know\xc2' u'Clockwatchers\xc2'
+ u'House of D\xc2' u'Saint John of Las Vegas\xc2' u'Wings\xc2'
+ u'All Is Bright\xc2' u""Straight A's\xc2"" u'Dysfunctional Friends\xc2'
+ u'Foolish\xc2' u'Mr. Smith Goes to Washington\xc2'
+ u'The Squid and the Whale\xc2' u'The Salon\xc2'
+ u'Once Upon a Time in Queens\xc2' u'Closer to the Moon\xc2'
+ u'Trees Lounge\xc2' u'The Amazing Catfish\xc2'
+ u""But I'm a Cheerleader\xc2"" u'The Second Mother\xc2'
+ u'Blue Like Jazz\xc2' u'The Knife of Don Juan\xc2'
+ u'Rocket Singh: Salesman of the Year\xc2' u'The Skeleton Twins\xc2'
+ u'Obvious Child\xc2' u'Two Girls and a Guy\xc2'
+ u'Dream with the Fishes\xc2' u'Lisa Picard Is Famous\xc2'
+ u'The Last Big Thing\xc2' u'Sparkler\xc2' u'The Jimmy Show\xc2'
+ u'Hits\xc2' u'Welcome to the Dollhouse\xc2' u'Walter\xc2'
+ u'Irreplaceable\xc2' u'The Station Agent\xc2' u'Lonesome Jim\xc2'
+ u'Tumbleweeds\xc2' u'Pieces of April\xc2' u'Chuck & Buck\xc2'
+ u'The Motel\xc2' u'The Stewardesses\xc2' u'Swingers\xc2'
+ u'Shooting the Warwicks\xc2' u""Your Sister's Sister\xc2""
+ u'The Mighty\xc2' u'Happy Christmas\xc2' u'The Naked Ape\xc2'
+ u'Funny Ha Ha\xc2' u'In the Company of Men\xc2' u'Slacker\xc2'
+ u'Newlyweds\xc2' u'Signed Sealed Delivered\xc2']"
+606,Comedy|Drama|Family,"[u'Marley & Me\xc2' u'We Bought a Zoo\xc2' u'Babe\xc2'
+ u'Secondhand Lions\xc2' u'Martian Child\xc2' u'Simon Birch\xc2'
+ u'3 Men and a Baby\xc2' u'Because of Winn-Dixie\xc2'
+ u'Harriet the Spy\xc2' u'Driving Miss Daisy\xc2' u""Losin' It\xc2""
+ u'Eye of the Dolphin\xc2' u'Dancer, Texas Pop. 81\xc2'
+ u'Modern Times\xc2' u'Growing Up Smith\xc2']"
+607,Comedy|Drama|Family|Fantasy,"[u'Imagine That\xc2' u'The Odd Life of Timothy Green\xc2'
+ u'The Santa Clause\xc2']"
+608,Comedy|Drama|Family|Fantasy|Musical,[u'The Muppet Christmas Carol\xc2']
+609,Comedy|Drama|Family|Fantasy|Romance,[u'17 Again\xc2' u'Big\xc2']
+610,Comedy|Drama|Family|Fantasy|Sci-Fi,[u'Good Boy!\xc2']
+611,Comedy|Drama|Family|Musical,[u'Annie\xc2']
+612,Comedy|Drama|Family|Music|Musical|Romance,"[u'Hairspray\xc2' u'High School Musical 3: Senior Year\xc2'
+ u'High School Musical 2\xc2' u'High School Musical\xc2']"
+613,Comedy|Drama|Family|Music|Romance,[u'Hannah Montana: The Movie\xc2' u'Bandslam\xc2']
+614,Comedy|Drama|Family|Romance,"[u'The Sisterhood of the Traveling Pants 2\xc2' u'Mrs. Doubtfire\xc2'
+ u'The Sisterhood of the Traveling Pants\xc2' u'What a Girl Wants\xc2'
+ u'My Girl\xc2' u'Christmas Mail\xc2']"
+615,Comedy|Drama|Family|Sport,"[u'The Bad News Bears\xc2' u'Ice Princess\xc2' u'The Perfect Game\xc2'
+ u'The Mighty Ducks\xc2' u'Air Bud\xc2']"
+616,Comedy|Drama|Fantasy,"[u'Scrooged\xc2' u'The Fisher King\xc2' u'Being John Malkovich\xc2'
+ u'Dead Like Me: Life After Death\xc2']"
+617,Comedy|Drama|Fantasy|Horror,[u'Trollhunter\xc2']
+618,Comedy|Drama|Fantasy|Music|Romance,[u'The Good Night\xc2']
+619,Comedy|Drama|Fantasy|Romance,"[u'Click\xc2' u'The Family Man\xc2' u'Practical Magic\xc2'
+ u'Shallow Hal\xc2' u'Stranger Than Fiction\xc2' u'Ghost Town\xc2'
+ u'The Tempest\xc2' u'Peggy Sue Got Married\xc2' u'Sliding Doors\xc2'
+ u'Simply Irresistible\xc2' u'Wristcutters: A Love Story\xc2']"
+620,Comedy|Drama|History|Musical|Romance,[u'She Done Him Wrong\xc2']
+621,Comedy|Drama|History|Romance,[u'Rang De Basanti\xc2']
+622,Comedy|Drama|Horror,[u'Tusk\xc2']
+623,Comedy|Drama|Horror|Romance,"[u""It's a Wonderful Afterlife\xc2"" u'Baghead\xc2']"
+624,Comedy|Drama|Horror|Sci-Fi,[u'The Host\xc2' u'Fido\xc2']
+625,Comedy|Drama|Horror|Sci-Fi|Thriller,[u'BrainDead\xc2']
+626,Comedy|Drama|Music,"[u'Pirate Radio\xc2' u'Soul Men\xc2' u'Taking Woodstock\xc2' u'Duets\xc2'
+ u'Magic Mike XXL\xc2' u'La Famille B\xc3\xa9lier\xc2'
+ u'A Prairie Home Companion\xc2' u'Danny Collins\xc2' u'Bamboozled\xc2'
+ u'Masked and Anonymous\xc2' u'Rudderless\xc2' u'The Full Monty\xc2'
+ u'Krush Groove\xc2' u'That Thing You Do!\xc2'
+ u'Beyond the Valley of the Dolls\xc2' u'American Graffiti\xc2'
+ u'Theresa Is a Mother\xc2']"
+627,Comedy|Drama|Musical,[u'Bran Nue Dae\xc2' u'School Daze\xc2']
+628,Comedy|Drama|Musical|Romance,"[u'Rock of Ages\xc2' u'Fame\xc2' u'Yeh Jawaani Hai Deewani\xc2'
+ u'Bride & Prejudice\xc2' u'The Last Five Years\xc2']"
+629,Comedy|Drama|Musical|Romance|War,[u'Darling Lili\xc2']
+630,Comedy|Drama|Musical|Romance|Western,[u'Paint Your Wagon\xc2']
+631,Comedy|Drama|Music|Musical,[u'All That Jazz\xc2' u'Hedwig and the Angry Inch\xc2']
+632,Comedy|Drama|Music|Musical|Romance,[u'Sweet Charity\xc2']
+633,Comedy|Drama|Music|Romance,"[u'Coyote Ugly\xc2' u'Drumline\xc2' u'High Fidelity\xc2'
+ u""Nick and Norah's Infinite Playlist\xc2"" u'Roll Bounce\xc2'
+ u'Brown Sugar\xc2' u'Little Voice\xc2' u'House Party 2\xc2'
+ u'As It Is in Heaven\xc2']"
+634,Comedy|Drama|Music|War,[u'Mrs Henderson Presents\xc2']
+635,Comedy|Drama|Mystery|Romance|Thriller,[u'Sharkskin\xc2']
+636,Comedy|Drama|Mystery|Romance|Thriller|War,[u'Bon voyage\xc2']
+637,Comedy|Drama|Reality-TV|Romance,"[u'Gone, Baby, Gone\xc2']"
+638,Comedy|Drama|Romance,"[u'How Do You Know\xc2' u'Sex and the City 2\xc2' u""It's Complicated\xc2""
+ u""Something's Gotta Give\xc2"" u'Four Christmases\xc2' u'Spanglish\xc2'
+ u""You've Got Mail\xc2"" u'The American President\xc2'
+ u'Did You Hear About the Morgans?\xc2' u'Maid in Manhattan\xc2'
+ u'Elizabethtown\xc2' u'The Break-Up\xc2' u'As Good as It Gets\xc2'
+ u'Crazy, Stupid, Love.\xc2' u'Bridget Jones: The Edge of Reason\xc2'
+ u'Raising Helen\xc2' u'The Story of Us\xc2' u'Love Actually\xc2'
+ u'Notting Hill\xc2' u'Boomerang\xc2' u'The Mirror Has Two Faces\xc2'
+ u'The Proposal\xc2' u""He's Just Not That Into You\xc2""
+ u'Shall We Dance\xc2' u'Morning Glory\xc2' u'Alfie\xc2'
+ u""What to Expect When You're Expecting\xc2"" u'Aloha\xc2'
+ u'The Devil Wears Prada\xc2' u'Something Borrowed\xc2' u'Jersey Girl\xc2'
+ u'A Good Year\xc2' u'Pushing Tin\xc2' u'Hope Springs\xc2'
+ u'Forgetting Sarah Marshall\xc2' u'Letters to Juliet\xc2'
+ u'Larry Crowne\xc2' u'Bulworth\xc2' u'Little Black Book\xc2'
+ u'Love & Other Drugs\xc2' u'Keeping the Faith\xc2' u'No Reservations\xc2'
+ u'How to Lose Friends & Alienate People\xc2'
+ u'Welcome Home, Roscoe Jenkins\xc2' u'About a Boy\xc2'
+ u'Shakespeare in Love\xc2' u'Ever After: A Cinderella Story\xc2'
+ u'In Good Company\xc2' u""Bridget Jones's Diary\xc2""
+ u'A Lot Like Love\xc2' u'Don Juan DeMarco\xc2' u'The Next Best Thing\xc2'
+ u'The Girl Next Door\xc2' u'Mrs. Winterbourne\xc2' u'Return to Me\xc2'
+ u'Ch\xc3\xa9ri\xc2' u'Silver Linings Playbook\xc2' u'Away We Go\xc2'
+ u'Molly\xc2' u'Why Did I Get Married Too?\xc2'
+ u'How Stella Got Her Groove Back\xc2' u'Home for the Holidays\xc2'
+ u'Synecdoche, New York\xc2' u'The Switch\xc2' u'Take Me Home Tonight\xc2'
+ u'The Family Stone\xc2' u'Under the Tuscan Sun\xc2' u'The O.C.\xc2'
+ u'Birdman or (The Unexpected Virtue of Ignorance)\xc2'
+ u'Youth in Revolt\xc2' u'And So It Goes\xc2' u'Being Julia\xc2'
+ u'When Harry Met Sally...\xc2' u'The Artist\xc2' u'Boys and Girls\xc2'
+ u'How to Deal\xc2' u'Tootsie\xc2' u'Where the Heart Is\xc2'
+ u'The Object of My Affection\xc2' u'New York Stories\xc2'
+ u'Home Fries\xc2' u'Whatever It Takes\xc2'
+ u'The Importance of Being Earnest\xc2'
+ u'You Will Meet a Tall Dark Stranger\xc2' u'Good Deeds\xc2'
+ u'I Think I Love My Wife\xc2' u'Flipped\xc2'
+ u'10 Things I Hate About You\xc2' u'This Christmas\xc2'
+ u""Paris, je t'aime\xc2"" u'Admission\xc2' u'Lars and the Real Girl\xc2'
+ u'Solitary Man\xc2' u'Living Out Loud\xc2' u'Charlie Bartlett\xc2'
+ u'Darling Companion\xc2' u'The Perez Family\xc2' u'LOL\xc2'
+ u'In the Land of Women\xc2' u""Madea's Family Reunion\xc2""
+ u'Elsa & Fred\xc2' u'Of Horses and Men\xc2' u'Adventureland\xc2'
+ u'Loose Cannons\xc2' u'Down to You\xc2' u'Trust the Man\xc2'
+ u'Namastey London\xc2' u'50/50\xc2' u'Much Ado About Nothing\xc2'
+ u'Drive Me Crazy\xc2' u'Enough Said\xc2' u'The Inkwell\xc2'
+ u""It's Kind of a Funny Story\xc2"" u'The Wendell Baker Story\xc2'
+ u'Imagine Me & You\xc2' u'The Hotel New Hampshire\xc2' u'Juno\xc2'
+ u'500 Days of Summer\xc2' u'Definitely, Maybe\xc2'
+ u'Outside Providence\xc2' u'Cyrus\xc2' u'Remember Me, My Love\xc2'
+ u'Friends with Money\xc2' u'The Wood\xc2' u'Mystic Pizza\xc2'
+ u'200 Cigarettes\xc2' u'The Wackness\xc2' u'Emma\xc2'
+ u'Diary of a Mad Black Woman\xc2' u'Don Jon\xc2' u'The Oh in Ohio\xc2'
+ u'The Names of Love\xc2' u'Four Weddings and a Funeral\xc2'
+ u'The Front Page\xc2' u'The Rules of Attraction\xc2' u'Secretary\xc2'
+ u'The Velocity of Gary\xc2' u'Purple Violets\xc2' u""She's the One\xc2""
+ u'Beginners\xc2' u'The Apartment\xc2' u'Frances Ha\xc2'
+ u'Damsels in Distress\xc2' u'Barry Munday\xc2'
+ u'Lage Raho Munna Bhai\xc2' u'Garden State\xc2' u'Saving Face\xc2'
+ u'The Spectacular Now\xc2' u'The Other End of the Line\xc2'
+ u'Chicken Tikka Masala\xc2' u'Shortbus\xc2' u'Get Real\xc2'
+ u'Submarine\xc2' u""You Can't Take It with You\xc2"" u'Caramel\xc2'
+ u'The Bubble\xc2' u'Waitress\xc2' u'Kissing Jessica Stein\xc2'
+ u'Me You and Five Bucks\xc2' u'Monsoon Wedding\xc2'
+ u'Next Stop Wonderland\xc2' u'Walking and Talking\xc2'
+ u'The Battle of Shaker Heights\xc2' u'My Last Day Without You\xc2'
+ u'Latter Days\xc2' u'Celeste & Jesse Forever\xc2'
+ u'Safety Not Guaranteed\xc2' u'The Singles Ward\xc2'
+ u'Drinking Buddies\xc2' u'Conversations with Other Women\xc2'
+ u'Metropolitan\xc2' u'My Beautiful Laundrette\xc2'
+ u""Anderson's Cross\xc2"" u'Chasing Amy\xc2' u'Lovely & Amazing\xc2'
+ u'The Incredibly True Adventure of Two Girls in Love\xc2'
+ u'American Desi\xc2' u'3\xc2' u'Good Dick\xc2' u'Tadpole\xc2'
+ u'The Brothers McMullen\xc2' u'Gabriela\xc2' u'Tiny Furniture\xc2'
+ u'The Puffy Chair\xc2' u'Shanghai Calling\xc2']"
+639,Comedy|Drama|Romance|Sci-Fi,[u'Blast from the Past\xc2' u'Griff the Invisible\xc2']
+640,Comedy|Drama|Romance|Sport,"[u'Leatherheads\xc2' u'Jerry Maguire\xc2' u'Tin Cup\xc2'
+ u'Fever Pitch\xc2' u'Mr 3000\xc2' u'Love Ranch\xc2' u'Summer Catch\xc2'
+ u'Varsity Blues\xc2' u'Juwanna Mann\xc2' u'Men with Brooms\xc2'
+ u'Bend It Like Beckham\xc2' u'Summer Storm\xc2'
+ u'24 7: Twenty Four Seven\xc2'
+ u'The Broken Hearts Club: A Romantic Comedy\xc2']"
+641,Comedy|Drama|Romance|Thriller,[u'Punch-Drunk Love\xc2' u'Man of the Year\xc2']
+642,Comedy|Drama|Romance|War,[u'I Served the King of England\xc2']
+643,Comedy|Drama|Romance|Western,[u'The Ballad of Cable Hogue\xc2']
+644,Comedy|Drama|Sci-Fi,"[u'Bicentennial Man\xc2' u'The Truman Show\xc2' u'Eureka\xc2'
+ u'Special\xc2']"
+645,Comedy|Drama|Sport,"[u'A League of Their Own\xc2' u'Mystery, Alaska\xc2'
+ u'Play It to the Bone\xc2' u'Stick It\xc2' u'Saint Ralph\xc2'
+ u'Mean Machine\xc2']"
+646,Comedy|Drama|Thriller,[u'The Cable Guy\xc2' u'Subway\xc2']
+647,Comedy|Drama|War,"[u'Catch-22\xc2' u'Tea with Mussolini\xc2' u'The Lucky Ones\xc2'
+ u'M*A*S*H\xc2']"
+648,Comedy|Family,"[u'Hotel for Dogs\xc2' u'Daddy Day Care\xc2' u'Jingle All the Way\xc2'
+ u'Deck the Halls\xc2' u""Daddy's Home\xc2""
+ u'Christmas with the Kranks\xc2' u'Marmaduke\xc2'
+ u'Yours, Mine and Ours\xc2' u'Cheaper by the Dozen\xc2'
+ u'Ri\xc2\xa2hie Ri\xc2\xa2h\xc2' u'Old Dogs\xc2' u'Furry Vengeance\xc2'
+ u'Little Nicholas\xc2'
+ u'Alexander and the Terrible, Horrible, No Good, Very Bad Day\xc2'
+ u'The Honeymooners\xc2' u'Parental Guidance\xc2'
+ u""Mr. Bean's Holiday\xc2"" u'Meet the Deedles\xc2'
+ u'Diary of a Wimpy Kid: Dog Days\xc2'
+ u'Diary of a Wimpy Kid: Rodrick Rules\xc2' u'The Master of Disguise\xc2'
+ u'Home Alone\xc2' u'Diary of a Wimpy Kid\xc2' u'Daddy Day Camp\xc2'
+ u'A Christmas Story\xc2' u'Karachi se Lahore\xc2']"
+649,Comedy|Family|Fantasy,"[u'Evan Almighty\xc2' u'How the Grinch Stole Christmas\xc2'
+ u'Son of the Mask\xc2' u""Charlotte's Web\xc2"" u'Bewitched\xc2'
+ u'Dr. Dolittle 2\xc2' u'Doctor Dolittle\xc2' u'The Santa Clause 2\xc2'
+ u'The Kid\xc2' u'The Shaggy Dog\xc2' u'Sabrina, the Teenage Witch\xc2'
+ u'Casper\xc2' u""Mr. Popper's Penguins\xc2"" u'The Flintstones\xc2'
+ u'Nanny McPhee Returns\xc2' u'Bogus\xc2' u'Hocus Pocus\xc2'
+ u'A Simple Wish\xc2' u'Nanny McPhee\xc2' u'Shorts\xc2']"
+650,Comedy|Family|Fantasy|Horror|Mystery,[u'The Haunted Mansion\xc2']
+651,Comedy|Family|Fantasy|Musical,[u'Mary Poppins\xc2']
+652,Comedy|Family|Fantasy|Music|Romance,[u'Freaky Friday\xc2']
+653,Comedy|Family|Fantasy|Romance,"[u'Bedtime Stories\xc2' u'Fat Albert\xc2' u'Ella Enchanted\xc2' u'Elf\xc2'
+ u'Aquamarine\xc2']"
+654,Comedy|Family|Fantasy|Sci-Fi,[u'Les couloirs du temps: Les visiteurs II\xc2']
+655,Comedy|Family|Fantasy|Sport,[u'Like Mike\xc2']
+656,Comedy|Family|Music,[u'Spice World\xc2']
+657,Comedy|Family|Musical|Romance,[u'Mamma Mia!\xc2']
+658,Comedy|Family|Musical|Romance|Short,"[u""Marilyn Hotchkiss' Ballroom Dancing and Charm School\xc2""]"
+659,Comedy|Family|Music|Musical,[u'The Country Bears\xc2']
+660,Comedy|Family|Music|Romance,[u'Confessions of a Teenage Drama Queen\xc2']
+661,Comedy|Family|Romance,"[u'Zookeeper\xc2' u'The Princess Diaries 2: Royal Engagement\xc2'
+ u'The Princess Diaries\xc2' u'The Prince and Me\xc2'
+ u'Dudley Do-Right\xc2' u'You Again\xc2' u'A Cinderella Story\xc2'
+ u'My Big Fat Greek Wedding 2\xc2' u'The Perfect Man\xc2'
+ u'On the Line\xc2' u'Ta Ra Rum Pum\xc2' u'My Big Fat Greek Wedding\xc2'
+ u'Sonny with a Chance\xc2']"
+662,Comedy|Family|Romance|Sci-Fi,[u'The Flintstones in Viva Rock Vegas\xc2']
+663,Comedy|Family|Romance|Sport,[u'Kicking & Screaming\xc2']
+664,Comedy|Family|Sci-Fi,"[u'Flubber\xc2' u'My Favorite Martian\xc2' u'3rd Rock from the Sun\xc2'
+ u'Superbabies: Baby Geniuses 2\xc2' u'CJ7\xc2']"
+665,Comedy|Family|Sport,[u'Nacho Libre\xc2' u'The Game Plan\xc2']
+666,Comedy|Fantasy,"[u'Little Nicky\xc2' u'The Change-Up\xc2' u'Ted\xc2'
+ u'The Hudsucker Proxy\xc2' u'This Is the End\xc2'
+ u'The Addams Family\xc2' u'Down to Earth\xc2' u'An American Carol\xc2'
+ u'Beetlejuice\xc2' u'How High\xc2' u'A Haunted House 2\xc2'
+ u'Four Rooms\xc2' u'Nothing\xc2' u'Teen Wolf Too\xc2'
+ u'A Haunted House\xc2' u'My Name Is Bruce\xc2']"
+667,Comedy|Fantasy|Horror,"[u'Dark Shadows\xc2' u'Creepshow\xc2' u'Death Becomes Her\xc2'
+ u'Gremlins 2: The New Batch\xc2' u""Jennifer's Body\xc2"" u'Krampus\xc2'
+ u'Gremlins\xc2' u'Army of Darkness\xc2' u'The Lost Boys\xc2'
+ u'Rubber\xc2']"
+668,Comedy|Fantasy|Horror|Musical,[u'Gory Gory Hallelujah\xc2']
+669,Comedy|Fantasy|Horror|Mystery,[u'Twixt\xc2']
+670,Comedy|Fantasy|Horror|Romance,[u'Bride of Chucky\xc2' u'Vampire in Brooklyn\xc2']
+671,Comedy|Fantasy|Horror|Thriller,"[u'Arachnophobia\xc2' u'Seed of Chucky\xc2' u'Idle Hands\xc2'
+ u""Freddy's Dead: The Final Nightmare\xc2"" u'Yoga Hosers\xc2'
+ u'Creepshow 2\xc2' u'Evil Dead II\xc2' u'Teeth\xc2']"
+672,Comedy|Fantasy|Musical|Sci-Fi,[u'The Ghastly Love of Johnny X\xc2']
+673,Comedy|Fantasy|Mystery,[u'Bubba Ho-Tep\xc2']
+674,Comedy|Fantasy|Romance,"[u'What Women Want\xc2' u'Just Like Heaven\xc2' u'Kate & Leopold\xc2'
+ u'Bedazzled\xc2' u'Liar Liar\xc2' u'13 Going on 30\xc2'
+ u'Midnight in Paris\xc2' u'Just My Luck\xc2'
+ u'The Invention of Lying\xc2' u'Groundhog Day\xc2'
+ u'Over Her Dead Body\xc2' u'Splash\xc2' u'Woman on Top\xc2']"
+675,Comedy|Fantasy|Sci-Fi,[u'Just Visiting\xc2' u'Modern Problems\xc2' u'Les visiteurs\xc2']
+676,Comedy|Fantasy|Thriller,[u'The Brass Teapot\xc2']
+677,Comedy|History,[u'Moli\xc3\xa8re\xc2']
+678,Comedy|Horror,"[u'Cursed\xc2' u'Fright Night\xc2' u'Piranha 3D\xc2' u'Stan Helsing\xc2'
+ u'Shaun of the Dead\xc2' u'Tucker and Dale vs Evil\xc2'
+ u'The Texas Chainsaw Massacre 2\xc2' u'Hansel & Gretel Get Baked\xc2'
+ u'Stung\xc2' u'Stitches\xc2' u'The Walking Deceased\xc2'
+ u'Ed and His Dead Mother\xc2' u'Hatchet\xc2'
+ u'Eddie: The Sleepwalking Cannibal\xc2' u'Dead Snow\xc2'
+ u'Detention of the Dead\xc2' u'Girls Gone Dead\xc2'
+ u'Love in the Time of Monsters\xc2']"
+679,Comedy|Horror|Musical,"[u""Dracula: Pages from a Virgin's Diary\xc2""
+ u'Poultrygeist: Night of the Chicken Dead\xc2']"
+680,Comedy|Horror|Musical|Sci-Fi,[u'Little Shop of Horrors\xc2']
+681,Comedy|Horror|Mystery,[u'Psycho Beach Party\xc2' u'Housebound\xc2']
+682,Comedy|Horror|Mystery|Thriller,[u'Solitude\xc2']
+683,Comedy|Horror|Romance,[u'Warm Bodies\xc2' u'Vamps\xc2']
+684,Comedy|Horror|Sci-Fi,"[u'Slither\xc2' u'Tremors\xc2' u'Detention\xc2'
+ u'The Return of the Living Dead\xc2' u'Decoys\xc2'
+ u'ZMD: Zombies of Mass Destruction\xc2'
+ u'The Lost Skeleton of Cadavra\xc2']"
+685,Comedy|Horror|Sci-Fi|Thriller,[u'Grabbers\xc2']
+686,Comedy|Horror|Thriller,"[u'Halloween: Resurrection\xc2' u'Severance\xc2' u'Club Dread\xc2'
+ u'Tales from the Hood\xc2' u""A Beginner's Guide to Snuff\xc2""
+ u'Sanctuary; Quite a Conundrum\xc2']"
+687,Comedy|Music,"[u'Get Him to the Greek\xc2' u'Walk Hard: The Dewey Cox Story\xc2'
+ u'Pitch Perfect 2\xc2' u'Joyful Noise\xc2' u'Josie and the Pussycats\xc2'
+ u""Wayne's World\xc2"" u'School of Rock\xc2' u'Marci X\xc2'
+ u'American Dreamz\xc2' u'Detroit Rock City\xc2' u'The Rocker\xc2'
+ u'Hamlet 2\xc2' u'A Mighty Wind\xc2' u'Human Traffic\xc2'
+ u'Down and Out with the Dolls\xc2' u'Steppin: The Movie\xc2'
+ u'Sugar Town\xc2']"
+688,Comedy|Musical,"[u'The Producers\xc2' u'The Best Little Whorehouse in Texas\xc2'
+ u'Bathing Beauty\xc2'
+ u'A Funny Thing Happened on the Way to the Forum\xc2'
+ u""A Hard Day's Night\xc2""]"
+689,Comedy|Musical|Romance,"[u'Everyone Says I Love You\xc2' u'From Justin to Kelly\xc2'
+ u'Romance & Cigarettes\xc2' u""Singin' in the Rain\xc2""
+ u""Neal 'N' Nikki\xc2"" u'Top Hat\xc2' u'42nd Street\xc2']"
+690,Comedy|Music|Romance,"[u'Music and Lyrics\xc2' u'A Night at the Roxbury\xc2'
+ u'Pitch Perfect\xc2' u'The Guru\xc2' u'Undiscovered\xc2'
+ u'Some Like It Hot\xc2' u'Always Woodstock\xc2' u'Johnny Suede\xc2'
+ u'Along the Roadside\xc2']"
+691,Comedy|Music|Sci-Fi,[u'Jekyll and Hyde... Together Again\xc2']
+692,Comedy|Mystery,"[u'Hail, Caesar!\xc2' u""Dude, Where's My Car?\xc2""]"
+693,Comedy|Mystery|Romance,[u'Head Over Heels\xc2' u'The Trouble with Harry\xc2']
+694,Comedy|Mystery|Sci-Fi|Thriller,[u'Southland Tales\xc2']
+695,Comedy|Mystery|Thriller,[u'The Sound and the Shadow\xc2']
+696,Comedy|Romance,"[u'Town & Country\xc2' u'Little Fockers\xc2' u'The Holiday\xc2'
+ u'Just Go with It\xc2' u'50 First Dates\xc2' u'Runaway Bride\xc2'
+ u'Hall Pass\xc2' u'The Dictator\xc2' u'Meet the Fockers\xc2'
+ u'Two Weeks Notice\xc2' u'Rules of Engagement\xc2'
+ u'Sex and the City\xc2' u'Anger Management\xc2' u'Hitch\xc2'
+ u'American Wedding\xc2' u'You, Me and Dupree\xc2' u""Valentine's Day\xc2""
+ u'Mr. Deeds\xc2' u'How to Lose a Guy in 10 Days\xc2' u'Yes Man\xc2'
+ u'Failure to Launch\xc2' u""My Best Friend's Wedding\xc2""
+ u""America's Sweethearts\xc2"" u'Monster-in-Law\xc2' u'Blended\xc2'
+ u'The Sweetest Thing\xc2' u'Along Came Polly\xc2' u'I Love You, Man\xc2'
+ u'The Other Woman\xc2' u'Made of Honor\xc2'
+ u'Life or Something Like It\xc2' u'Am\xc3\xa9lie\xc2'
+ u'Because I Said So\xc2' u'Sweet Home Alabama\xc2' u'The Ugly Truth\xc2'
+ u'How to Be Single\xc2' u'Trainwreck\xc2' u'Guess Who\xc2'
+ u'Friends with Benefits\xc2' u'License to Wed\xc2' u'Must Love Dogs\xc2'
+ u'The Back-up Plan\xc2' u'Bridesmaids\xc2' u'Laws of Attraction\xc2'
+ u'Going the Distance\xc2' u'27 Dresses\xc2' u'Baby Mama\xc2'
+ u'Bride Wars\xc2' u'The Five-Year Engagement\xc2' u'Alex & Emma\xc2'
+ u'Chasing Liberty\xc2' u'Serving Sara\xc2' u'The Wedding Planner\xc2'
+ u'Last Vegas\xc2' u'Serendipity\xc2' u'Knocked Up\xc2'
+ u'The 40-Year-Old Virgin\xc2' u""New Year's Eve\xc2""
+ u'Welcome to Mooseport\xc2' u'Accidental Love\xc2'
+ u'No Strings Attached\xc2' u'The House Bunny\xc2' u'Good Luck Chuck\xc2'
+ u""She's the Man\xc2"" u'A Perfect Plan\xc2' u""Say It Isn't So\xc2""
+ u'Think Like a Man Too\xc2' u'Zack and Miri Make a Porno\xc2'
+ u'Win a Date with Tad Hamilton!\xc2' u""I Don't Know How She Does It\xc2""
+ u'Someone Like You...\xc2' u""There's Something About Mary\xc2""
+ u'To Rome with Love\xc2' u'Date Movie\xc2' u""She's Out of My League\xc2""
+ u""My Best Friend's Girl\xc2"" u'A Guy Thing\xc2' u'Loser\xc2'
+ u""What's Your Number?\xc2"" u'Three to Tango\xc2' u'Just Married\xc2'
+ u'Leap Year\xc2' u'Legally Blonde\xc2' u'Deuce Bigalow: Male Gigolo\xc2'
+ u'I Love You, Beth Cooper\xc2' u'Anything Else\xc2'
+ u'40 Days and 40 Nights\xc2' u'Larry the Cable Guy: Health Inspector\xc2'
+ u'My Life in Ruins\xc2' u'Sydney White\xc2' u'Hollywood Ending\xc2'
+ u'Welcome to the Sticks\xc2' u'The Wedding Date\xc2'
+ u'All About Steve\xc2' u'Peeples\xc2' u'Post Grad\xc2'
+ u'Whatever Works\xc2' u'Pretty Woman\xc2' u'Superstar\xc2'
+ u""My Boss's Daughter\xc2"" u'Our Family Wedding\xc2' u'Easy Virtue\xc2'
+ u'Clueless\xc2' u'About Last Night\xc2' u'Two Can Play That Game\xc2'
+ u'Woo\xc2' u'Think Like a Man\xc2' u'Top Five\xc2' u'Slackers\xc2'
+ u'An Ideal Husband\xc2' u""She's All That\xc2""
+ u'Employee of the Month\xc2' u""Can't Hardly Wait\xc2"" u'Get Over It\xc2'
+ u'Sleepover\xc2' u'Swept Away\xc2' u'The Good Guy\xc2'
+ u'Blonde Ambition\xc2' u""Breakin' All the Rules\xc2"" u'Chasing Papi\xc2'
+ u'That Awkward Moment\xc2' u'New in Town\xc2' u'Easy A\xc2'
+ u'The Pallbearer\xc2' u'Mallrats\xc2' u'Van Wilder: Party Liaison\xc2'
+ u'Miss March\xc2' u'The Inbetweeners\xc2' u'The Ten\xc2'
+ u'The Perfect Match\xc2' u'Barfi\xc2' u'Silent Movie\xc2'
+ u'Annie Hall\xc2' u'Among Giants\xc2' u'How to Fall in Love\xc2'
+ u'Ira & Abby\xc2' u'Whipped\xc2' u'Bachelorette\xc2'
+ u'Boynton Beach Club\xc2' u'Full Frontal\xc2' u'Vaalu\xc2'
+ u'The To Do List\xc2' u'I Want Someone to Eat Cheese With\xc2'
+ u'Luminarias\xc2' u'16 to Life\xc2' u'And Then Came Love\xc2'
+ u'Never Again\xc2' u'Kiss the Bride\xc2' u'Mutual Friends\xc2'
+ u'What Happens in Vegas\xc2' u'It Happened One Night\xc2'
+ u""When the Cat's Away\xc2"" u'Love and Other Catastrophes\xc2'
+ u""She's Gotta Have It\xc2"" u""I Love You, Don't Touch Me!\xc2""
+ u'Smiling Fish & Goat on Fire\xc2' u'Dry Spell\xc2']"
+697,Comedy|Romance|Sci-Fi,"[u'Nutty Professor II: The Klumps\xc2' u'The Nutty Professor\xc2'
+ u'Multiplicity\xc2' u'My Super Ex-Girlfriend\xc2'
+ u'My Stepmother Is an Alien\xc2']"
+698,Comedy|Romance|Sci-Fi|Thriller,[u'Memoirs of an Invisible Man\xc2']
+699,Comedy|Romance|Sport,"[u'The Love Guru\xc2' u'The Benchwarmers\xc2' u'Wimbledon\xc2'
+ u'Playing for Keeps\xc2' u'Just Wright\xc2' u'Run, Fatboy, Run\xc2'
+ u'The Hammer\xc2']"
+700,Comedy|Romance|Thriller,[u'Drop Dead Gorgeous\xc2' u'Da Sweet Blood of Jesus\xc2']
+701,Comedy|Sci-Fi,"[u'What Planet Are You From?\xc2' u'Hot Tub Time Machine\xc2'
+ u'The Animal\xc2' u'Hot Tub Time Machine 2\xc2' u'Heartbeeps\xc2'
+ u'Galaxina\xc2' u'Alien Uprising\xc2' u'Sleeper\xc2' u'Orgazmo\xc2']"
+702,Comedy|Sci-Fi|Thriller,[u'The Stepford Wives\xc2']
+703,Comedy|Short,[u'Jesus People\xc2']
+704,Comedy|Sport,"[u'Blades of Glory\xc2' u'Semi-Pro\xc2' u'The Replacements\xc2'
+ u'Grudge Match\xc2' u'Dodgeball: A True Underdog Story\xc2'
+ u'Kingpin\xc2' u'Ready to Rumble\xc2' u'The Waterboy\xc2'
+ u'Major League\xc2' u'Out Cold\xc2' u'Bring It On\xc2'
+ u'Happy Gilmore\xc2' u""Who's Your Caddy?\xc2"" u'Caddyshack\xc2'
+ u'Beer League\xc2']"
+705,Comedy|Thriller,[u'Family Plot\xc2']
+706,Comedy|War,"[u""McHale's Navy\xc2"" u'The Men Who Stare at Goats\xc2'
+ u'Private Benjamin\xc2']"
+707,Comedy|Western,"[u'The Ridiculous 6\xc2' u'A Million Ways to Die in the West\xc2'
+ u'Casa de mi Padre\xc2' u'Blazing Saddles\xc2']"
+708,Crime|Documentary,[u'Inside Job\xc2' u'The Trials of Darryl Hunt\xc2']
+709,Crime|Documentary|Drama,[u'Bowling for Columbine\xc2']
+710,Crime|Documentary|News,[u'Capitalism: A Love Story\xc2']
+711,Crime|Documentary|War,[u'Standard Operating Procedure\xc2' u'Taxi to the Dark Side\xc2']
+712,Crime|Drama,"[u'Gangs of New York\xc2' u'Oliver Twist\xc2'
+ u'The Godfather: Part III\xc2' u'Unforgotten\xc2' u'The Judge\xc2'
+ u'American Hustle\xc2' u'Blood In, Blood Out\xc2'
+ u'Black Water Transit\xc2' u'Once Upon a Time in America\xc2'
+ u'Scarface\xc2' u'The Shawshank Redemption\xc2'
+ u'Bad Lieutenant: Port of Call New Orleans\xc2' u'Wall Street\xc2'
+ u'Drive\xc2' u""Things to Do in Denver When You're Dead\xc2""
+ u'The Godfather: Part II\xc2' u'The Funeral\xc2' u'Rounders\xc2'
+ u'Dead Man Walking\xc2' u'Vera Drake\xc2' u'The Outsiders\xc2'
+ u'American History X\xc2' u'Polisse\xc2' u'Pulp Fiction\xc2'
+ u'American Psycho\xc2' u'Brooklyn Rules\xc2' u'The Godfather\xc2'
+ u'Boyz n the Hood\xc2' u'Spring Breakers\xc2' u'Light Sleeper\xc2'
+ u'Only God Forgives\xc2' u'Out of the Blue\xc2' u'Secrets and Lies\xc2'
+ u'Lady Vengeance\xc2' u'Lilya 4-Ever\xc2' u'Animal Kingdom\xc2'
+ u'City of God\xc2' u'Maria Full of Grace\xc2' u'Tsotsi\xc2'
+ u'The Rise of the Krays\xc2' u'This Is England\xc2' u'Mi America\xc2'
+ u'To Kill a Mockingbird\xc2' u'This Thing of Ours\xc2' u'Highway\xc2'
+ u""River's Edge\xc2"" u'Run Lola Run\xc2' u'In the Bedroom\xc2'
+ u'Taxi Driver\xc2' u'Frozen River\xc2' u'Ajami\xc2' u'L.I.E.\xc2'
+ u'Water & Power\xc2' u'Mean Creek\xc2' u'The King of Najayo\xc2'
+ u'Straight Out of Brooklyn\xc2' u'12 Angry Men\xc2' u'Happy Valley\xc2'
+ u'Butterfly\xc2' u'Over the Hill to the Poorhouse\xc2' u'Open Secret\xc2'
+ u'Bang\xc2' u'The Mongol King\xc2']"
+713,Crime|Drama|Fantasy,[u'Perfume: The Story of a Murderer\xc2']
+714,Crime|Drama|Fantasy|Mystery,[u'The Green Mile\xc2']
+715,Crime|Drama|Fantasy|Romance,[u'The Cooler\xc2']
+716,Crime|Drama|Film-Noir,[u'Deadline - U.S.A.\xc2']
+717,Crime|Drama|Film-Noir|Mystery|Thriller,[u'The Lady from Shanghai\xc2']
+718,Crime|Drama|History,[u'The Conspirator\xc2']
+719,Crime|Drama|History|Mystery|Thriller,[u'Zodiac\xc2']
+720,Crime|Drama|History|Romance,[u'Kama Sutra: A Tale of Love\xc2']
+721,Crime|Drama|Horror,[u'Hayride\xc2']
+722,Crime|Drama|Horror|Mystery|Thriller,[u'Hannibal\xc2' u'Scream: The TV Series\xc2' u'Nine Dead\xc2']
+723,Crime|Drama|Horror|Thriller,"[u'Bless the Child\xc2' u'The Silence of the Lambs\xc2' u'Funny Games\xc2'
+ u'Prison\xc2' u'Donkey Punch\xc2']"
+724,Crime|Drama|Music,[u'The Cotton Club\xc2' u'Hustle & Flow\xc2']
+725,Crime|Drama|Musical,[u'Dancer in the Dark\xc2']
+726,Crime|Drama|Musical|Romance,[u'Idlewild\xc2']
+727,Crime|Drama|Musical|Romance|Thriller,[u'West Side Story\xc2']
+728,Crime|Drama|Music|Mystery|Thriller,"[u""The Caveman's Valentine\xc2""]"
+729,Crime|Drama|Music|Romance,[u'Step Up\xc2']
+730,Crime|Drama|Music|Thriller,[u'Kansas City\xc2']
+731,Crime|Drama|Mystery,"[u'Life\xc2' u'The Missing\xc2' u'A Touch of Frost\xc2'
+ u'People I Know\xc2' u'Glengarry Glen Ross\xc2' u'Veronica Mars\xc2'
+ u'Character\xc2' u'The Dead Girl\xc2' u'In the Heat of the Night\xc2'
+ u'Brigham City\xc2']"
+732,Crime|Drama|Mystery|Romance,[u'The Best Offer\xc2']
+733,Crime|Drama|Mystery|Romance|Thriller,[u'All Good Things\xc2']
+734,Crime|Drama|Mystery|Sci-Fi|Thriller,[u'Frequency\xc2']
+735,Crime|Drama|Mystery|Thriller,"[u'The Girl with the Dragon Tattoo\xc2' u'Gone Girl\xc2'
+ u'State of Play\xc2' u'Edge of Darkness\xc2' u'The Black Dahlia\xc2'
+ u'Changeling\xc2' u'Inside Man\xc2' u""Don't Say a Word\xc2""
+ u'The Bone Collector\xc2' u'The Pelican Brief\xc2' u'The Client\xc2'
+ u'Prisoners\xc2' u'The Pledge\xc2' u'High Crimes\xc2'
+ u'Vantage Point\xc2' u'City by the Sea\xc2' u'Extreme Measures\xc2'
+ u'L.A. Confidential\xc2' u'Midnight in the Garden of Good and Evil\xc2'
+ u'Luther\xc2' u'Femme Fatale\xc2' u'Se7en\xc2' u'Mystic River\xc2'
+ u'88 Minutes\xc2' u""Ripley's Game\xc2"" u'Kiss the Girls\xc2'
+ u'Lucky Number Slevin\xc2' u'Suspect Zero\xc2'
+ u'A Walk Among the Tombstones\xc2' u'Where the Truth Lies\xc2'
+ u'In the Valley of Elah\xc2' u'The Glass House\xc2'
+ u'Michael Clayton\xc2' u'Copycat\xc2' u'Wild Things\xc2'
+ u'Secret in Their Eyes\xc2' u'Perception\xc2' u'Regression\xc2'
+ u'The Frozen Ground\xc2' u'Sea of Love\xc2' u'The Salton Sea\xc2'
+ u'Trance\xc2' u'Transsiberian\xc2' u'Jindabyne\xc2' u'The Limey\xc2'
+ u'Red Riding: In the Year of Our Lord 1974\xc2' u'Swimming Pool\xc2'
+ u'Narc\xc2' u'The Usual Suspects\xc2' u'Wonderland\xc2'
+ u'Irreversible\xc2' u'The Betrayed\xc2' u'The Following\xc2']"
+736,Crime|Drama|Mystery|Thriller|Western,[u'The Hateful Eight\xc2']
+737,Crime|Drama|Romance,"[u'Lolita\xc2' u'Married Life\xc2' u'Dinner Rush\xc2'
+ u'Mississippi Mermaid\xc2' u'Speedway Junky\xc2' u'Heli\xc2'
+ u'On the Waterfront\xc2' u""Pandora's Box\xc2"" u'The Mudge Boy\xc2'
+ u'Hurricane Streets\xc2' u'Pierrot le Fou\xc2'
+ u'Better Luck Tomorrow\xc2']"
+738,Crime|Drama|Romance|Thriller,"[u'Out of Time\xc2' u'Out of Sight\xc2' u'Mean Streets\xc2'
+ u'The Next Three Days\xc2' u'Notes on a Scandal\xc2' u'Summer of Sam\xc2'
+ u'The Bank Job\xc2' u'The Yards\xc2' u'Escobar: Paradise Lost\xc2'
+ u'Baby Boy\xc2' u'Dark Blue\xc2' u'Witness\xc2'
+ u'The Postman Always Rings Twice\xc2' u'Killer Joe\xc2' u'Bound\xc2'
+ u'The Crying Game\xc2']"
+739,Crime|Drama|Sci-Fi|Thriller,[u'Limitless\xc2']
+740,Crime|Drama|Sport,[u'Gridiron Gang\xc2' u'Penitentiary\xc2']
+741,Crime|Drama|Thriller,"[u'Dutch Kills\xc2' u'The Departed\xc2' u'Road to Perdition\xc2'
+ u'Red Dragon\xc2' u'The Score\xc2' u'Collateral\xc2'
+ u'Law Abiding Citizen\xc2' u'Hannibal Rising\xc2'
+ u'The Life of David Gale\xc2' u'Mad City\xc2' u'Jade\xc2' u'Traffic\xc2'
+ u'Panic Room\xc2' u'Child 44\xc2' u'Training Day\xc2' u'Savages\xc2'
+ u'Sleepers\xc2' u'Lord of War\xc2' u'A Time to Kill\xc2'
+ u'The Talented Mr. Ripley\xc2' u'The Lincoln Lawyer\xc2'
+ u'The Rainmaker\xc2' u'Enough\xc2' u'The Town\xc2' u'John Q\xc2'
+ u'21\xc2' u'Untraceable\xc2' u'Broken City\xc2'
+ u'A History of Violence\xc2' u'Side Effects\xc2' u'Pride and Glory\xc2'
+ u'Trapped\xc2' u'Along Came a Spider\xc2' u'We Own the Night\xc2'
+ u'Money Monster\xc2' u'Blood and Wine\xc2' u'The Untouchables\xc2'
+ u'No Country for Old Men\xc2' u'Blood Ties\xc2' u'The Gambler\xc2'
+ u'The Counselor\xc2' u'Out of the Furnace\xc2' u'Arlington Road\xc2'
+ u'Lakeview Terrace\xc2' u'The American\xc2' u'Eye for an Eye\xc2'
+ u'Shattered\xc2' u'The Informers\xc2' u'City of Ghosts\xc2'
+ u'A Simple Plan\xc2' u""Brooklyn's Finest\xc2"" u'Zulu\xc2' u'Cop Land\xc2'
+ u'End of Watch\xc2' u'The Place Beyond the Pines\xc2'
+ u'A Most Wanted Man\xc2' u'Knockaround Guys\xc2' u'The Son of No One\xc2'
+ u'The Killer Inside Me\xc2' u'Brother\xc2' u'Trade\xc2'
+ u'Raising Cain\xc2' u'Frailty\xc2' u'Brighton Rock\xc2'
+ u'Machine Gun McCain\xc2' u'Dirty Pretty Things\xc2' u'Crash\xc2'
+ u'Owning Mahowny\xc2' u'Boiler Room\xc2' u'Nightcrawler\xc2'
+ u'10th & Wolf\xc2' u'Fargo\xc2' u'In Too Deep\xc2'
+ u'Criminal Activities\xc2' u'Layer Cake\xc2' u'Gomorrah\xc2'
+ u'Deadfall\xc2' u'Headhunters\xc2' u'Albino Alligator\xc2'
+ u'We Have Your Husband\xc2' u'Trust\xc2' u'Menace II Society\xc2'
+ u'Captive\xc2' u'Freeze Frame\xc2' u'N-Secure\xc2' u'Nine Queens\xc2'
+ u'Killing Zoe\xc2' u'Reservoir Dogs\xc2' u""Dead Man's Shoes\xc2""
+ u'Alone with Her\xc2' u'Jimmy and Judy\xc2' u'Hard Candy\xc2'
+ u'London to Brighton\xc2' u'Adulterers\xc2' u'Civil Brand\xc2'
+ u'Blue Ruin\xc2' u""Sweet Sweetback's Baadasssss Song\xc2""
+ u'The Dirties\xc2']"
+742,Crime|Drama|Western,[u'Appaloosa\xc2' u'The Proposition\xc2']
+743,Crime|Fantasy|Horror,[u'From Dusk Till Dawn\xc2']
+744,Crime|Film-Noir|Thriller,[u'Niagara\xc2']
+745,Crime|Horror,"[u""The Devil's Rejects\xc2""]"
+746,Crime|Horror|Music|Thriller,[u'Green Room\xc2']
+747,Crime|Horror|Mystery|Thriller,"[u'Eye See You\xc2' u'The Watcher\xc2' u'Mindhunters\xc2'
+ u'Malevolence\xc2' u'The Cure\xc2']"
+748,Crime|Horror|Thriller,"[u'Feardotcom\xc2' u'The Last House on the Left\xc2' u'Pathology\xc2'
+ u'Kill List\xc2' u'The Night Visitor\xc2']"
+749,Crime|Mystery|Thriller,"[u'The Interpreter\xc2' u'Now You See Me\xc2' u'Snake Eyes\xc2'
+ u'Basic Instinct 2\xc2' u'Domestic Disturbance\xc2'
+ u'Murder by Numbers\xc2' u'Eastern Promises\xc2' u'Double Jeopardy\xc2'
+ u'Switchback\xc2' u'The Raven\xc2' u'The Oxford Murders\xc2' u'Awake\xc2'
+ u'The Night Listener\xc2' u'Lords of London\xc2']"
+750,Crime|Romance|Thriller,[u'The Thomas Crown Affair\xc2' u'The Blue Room\xc2']
+751,Crime|Thriller,"[u""Ocean's Twelve\xc2"" u""Ocean's Eleven\xc2"" u""Ocean's Thirteen\xc2""
+ u'Ransom\xc2' u'Firewall\xc2' u'Sin City\xc2' u'Cape Fear\xc2'
+ u'Runner Runner\xc2' u'The Stepfather\xc2' u'Killing Them Softly\xc2'
+ u'Confidence\xc2' u'No Good Deed\xc2' u'The Call\xc2' u'Jackie Brown\xc2'
+ u'Phone Booth\xc2' u'Shade\xc2' u'Sexy Beast\xc2' u'Point Blank\xc2']"
+752,Crime|Thriller|War,[u'Redacted\xc2']
+753,Documentary,"[u'Star Wars: Episode VII - The Force Awakens\xc2' u'Winged Migration\xc2'
+ u'Ghost Hunters\xc2' u'Lake of Fire\xc2'
+ u'Sea Rex 3D: Journey to a Prehistoric World\xc2' u'The Real Cancun\xc2'
+ u'Time to Choose\xc2' u'March of the Penguins\xc2' u'Freakonomics\xc2'
+ u'Fat, Sick & Nearly Dead\xc2' u""2016: Obama's America\xc2"" u'Fuel\xc2'
+ u'8: The Mormon Proposition\xc2' u'To Be Frank, Sinatra at 100\xc2'
+ u'Slacker Uprising\xc2' u'Wal-Mart: The High Cost of Low Price\xc2'
+ u'Pink Ribbons, Inc.\xc2' u'An Inconvenient Truth\xc2' u'Food, Inc.\xc2'
+ u'Who Killed the Electric Car?\xc2' u'A Lego Brickumentary\xc2'
+ u'Starsuckers\xc2' u'The Hadza: Last of the First\xc2'
+ u'They Will Have to Kill Us First\xc2'
+ u'Crop Circles: Quest for Truth\xc2' u'The Harvest/La Cosecha\xc2'
+ u'Wordplay\xc2' u'Sholem Aleichem: Laughing in the Darkness\xc2'
+ u'Deceptive Practice: The Mysteries and Mentors of Ricky Jay\xc2'
+ u'The Outrageous Sophie Tucker\xc2'
+ u'Rise of the Entrepreneur: The Search for a Better Way\xc2'
+ u'I Want Your Money\xc2' u'Trekkies\xc2' u'51 Birch Street\xc2'
+ u'Sisters in Law\xc2' u'Ayurveda: Art of Being\xc2' u'UnDivided\xc2'
+ u'Give Me Shelter\xc2' u'Burn\xc2'
+ u'Short Cut to Nirvana: Kumbh Mela\xc2'
+ u'The Case of the Grinning Cat\xc2' u'Butterfly Girl\xc2'
+ u'The Horse Boy\xc2' u'Aroused\xc2' u'Top Spin\xc2' u'Roger & Me\xc2'
+ u'Indie Game: The Movie\xc2' u'Peace, Propaganda & the Promised Land\xc2'
+ u'Counting\xc2' u'Bending Steel\xc2' u'My Date with Drew\xc2']"
+754,Documentary|Drama,[u'Oceans\xc2' u'Sicko\xc2' u'Sex with Strangers\xc2']
+755,Documentary|Drama|History|News,[u'The Square\xc2']
+756,Documentary|Drama|Sport,[u'Hoop Dreams\xc2']
+757,Documentary|Drama|War,[u'Fahrenheit 9/11\xc2']
+758,Documentary|Family,[u'The Brain That Sings\xc2']
+759,Documentary|Family|Music,[u'Mad Hot Ballroom\xc2']
+760,Documentary|History,[u'In the Shadow of the Moon\xc2' u'Censored Voices\xc2']
+761,Documentary|History|Music,[u'Woodstock\xc2' u'Call + Response\xc2']
+762,Documentary|History|Sport,[u'Riding Giants\xc2']
+763,Documentary|Music,"[u'This Is It\xc2' u'U2 3D\xc2' u'Justin Bieber: Never Say Never\xc2'
+ u'Katy Perry: Part of Me\xc2' u'One Direction: This Is Us\xc2'
+ u'Glee: The 3D Concert Movie\xc2' u'Samsara\xc2'
+ u'20 Feet from Stardom\xc2' u'Rize\xc2' u'The Last Waltz\xc2']"
+764,Documentary|News,[u'Food Chains\xc2']
+765,Documentary|Sport,"[u'Michael Jordan to the Max\xc2'
+ u'Once in a Lifetime: The Extraordinary Story of the New York Cosmos\xc2'
+ u'The Other Dream Team\xc2' u'Dogtown and Z-Boys\xc2' u'Murderball\xc2']"
+766,Documentary|War,"[u'No End in Sight\xc2' u'The Gatekeepers\xc2'
+ u'Iraq for Sale: The War Profiteers\xc2' u'The Blood of My Brother\xc2']"
+767,Drama,"[u""Valley of the Heart's Delight\xc2""
+ u'Wall Street: Money Never Sleeps\xc2' u'Mona Lisa Smile\xc2'
+ u'Fight Club\xc2' u'A Civil Action\xc2' u'Finding Forrester\xc2'
+ u'Pay It Forward\xc2' u'Showgirls\xc2' u'The Deep End of the Ocean\xc2'
+ u'Precious\xc2' u'The Master\xc2' u'Magnolia\xc2'
+ u'The Shipping News\xc2' u'Radio Flyer\xc2' u'Biutiful\xc2'
+ u'Cradle Will Rock\xc2' u'Extraordinary Measures\xc2'
+ u'One True Thing\xc2' u'North Country\xc2' u'An Unfinished Life\xc2'
+ u'Frost/Nixon\xc2' u""My Sister's Keeper\xc2""
+ u'Divine Secrets of the Ya-Ya Sisterhood\xc2'
+ u'The Passion of the Christ\xc2' u'Rain Man\xc2' u'Gran Torino\xc2'
+ u'The Help\xc2' u'The Face of an Angel\xc2' u'There Will Be Blood\xc2'
+ u'August: Osage County\xc2' u'Bright Lights, Big City\xc2'
+ u""Angela's Ashes\xc2"" u'Me and Orson Welles\xc2' u'The Ides of March\xc2'
+ u""Marvin's Room\xc2"" u'Vanity Fair\xc2' u'I Am Sam\xc2'
+ u'For Colored Girls\xc2' u'The Beaver\xc2' u'The Young Messiah\xc2'
+ u'Babel\xc2' u'Reign Over Me\xc2' u'The Kite Runner\xc2' u'21 Grams\xc2'
+ u""Won't Back Down\xc2"" u'Indignation\xc2' u'Blue Jasmine\xc2'
+ u'Life as a House\xc2' u'The Ice Storm\xc2' u'Labor Day\xc2'
+ u'Hamlet\xc2' u'How She Move\xc2' u'House of Sand and Fog\xc2'
+ u'The Verdict\xc2' u'White Oleander\xc2' u'Philadelphia\xc2'
+ u'Things We Lost in the Fire\xc2' u'American Beauty\xc2'
+ u'The Color Purple\xc2' u'Boogie Nights\xc2' u'Promised Land\xc2'
+ u'Manderlay\xc2' u'A Walk on the Moon\xc2' u'Margaret\xc2' u'Dekalog\xc2'
+ u'Miracles from Heaven\xc2' u'Room\xc2' u""The Emperor's Club\xc2""
+ u'Last Orders\xc2' u'The Great Beauty\xc2' u'10 Days in a Madhouse\xc2'
+ u'Madadayo\xc2' u'A Tale of Three Cities\xc2'
+ u'The Secret Life of Bees\xc2' u'F.I.S.T.\xc2'
+ u'Kabhi Alvida Naa Kehna\xc2' u'Good Will Hunting\xc2' u'Mud\xc2'
+ u'Black or White\xc2' u'Illuminata\xc2' u'The Brown Bunny\xc2'
+ u'Welcome to the Rileys\xc2' u'Blood Done Sign My Name\xc2'
+ u'Free Style\xc2' u'All or Nothing\xc2' u'Princess Kaiulani\xc2'
+ u'The Girl on the Train\xc2' u'The Namesake\xc2'
+ u'Akeelah and the Bee\xc2' u'Aloft\xc2' u'Mr. Church\xc2'
+ u'An Education\xc2' u'Albert Nobbs\xc2'
+ u'The Last Temptation of Christ\xc2' u'Hesher\xc2' u'Wah-Wah\xc2'
+ u'Shame\xc2' u'Aberdeen\xc2' u'Ordinary People\xc2' u'Morvern Callar\xc2'
+ u'The Flower of Evil\xc2' u'Julia\xc2' u'Do the Right Thing\xc2'
+ u'Animals\xc2' u'The Apostle\xc2' u""Eve's Bayou\xc2"" u'Still Alice\xc2'
+ u'The Sweet Hereafter\xc2' u'Of Gods and Men\xc2'
+ u'90 Minutes in Heaven\xc2' u'Rabbit Hole\xc2' u'Out of the Blue\xc2'
+ u'Desert Blue\xc2' u'Sling Blade\xc2' u'Camping sauvage\xc2'
+ u'Savage Grace\xc2' u'25th Hour\xc2' u'Requiem for a Dream\xc2'
+ u""One Flew Over the Cuckoo's Nest\xc2"" u'Lost in Translation\xc2'
+ u'Boyhood\xc2' u'Talk Radio\xc2' u'The Loss of Sexual Innocence\xc2'
+ u'Joe\xc2' u'Buen D\xc3_a, Ram\xc3_n\xc2' u'Futuro Beach\xc2'
+ u'Down for Life\xc2' u'House of Sand\xc2' u'The Good Heart\xc2'
+ u'Midnight Cowboy\xc2' u""The Nun's Story\xc2"" u'The Hunt\xc2'
+ u'The Class\xc2' u'Trainspotting\xc2' u'Coming Home\xc2'
+ u'Elmer Gantry\xc2' u'Woman Thou Art Loosed\xc2'
+ u'Thirteen Conversations About One Thing\xc2' u'Fish Tank\xc2'
+ u'The Grand\xc2' u'Tanner Hall\xc2' u'Central Station\xc2'
+ u""Ulee's Gold\xc2"" u'Ida\xc2' u'Hud\xc2' u'My Own Private Idaho\xc2'
+ u""Jesus' Son\xc2"" u'Brick Lane\xc2' u'Redemption Road\xc2'
+ u'The Last Sin Eater\xc2' u'Do You Believe?\xc2'
+ u'The Valley of Decision\xc2' u'Lies in Plain Sight\xc2'
+ u'Courageous\xc2' u'Thirteen\xc2' u""Winter's Bone\xc2"" u'Stonewall\xc2'
+ u'The Missing Person\xc2' u'Sherrybaby\xc2' u'One to Another\xc2'
+ u'Abandoned\xc2' u'Brotherly Love\xc2' u'A Streetcar Named Desire\xc2'
+ u'Higher Ground\xc2' u'Kids\xc2' u'The Ballad of Jack and Rose\xc2'
+ u'The Believer\xc2' u'Stolen Summer\xc2' u'Trucker\xc2'
+ u'The Holy Girl\xc2' u'The Dog Lover\xc2' u'The Celebration\xc2'
+ u'Journey from the Fall\xc2' u'The Basket\xc2'
+ u'The Girlfriend Experience\xc2' u'Sex, Lies, and Videotape\xc2'
+ u'You Can Count on Me\xc2' u'Q\xc2' u'Faith Like Potatoes\xc2'
+ u'The Sleepwalker\xc2' u""God's Not Dead 2\xc2"" u'October Baby\xc2'
+ u'Slam\xc2' u'Blue Car\xc2' u'Palo Alto\xc2' u'Guiana 1838\xc2'
+ u""The Party's Over\xc2"" u'Proud\xc2' u'The Poker House\xc2'
+ u'Childless\xc2' u'A Fine Step\xc2' u'Ask Me Anything\xc2'
+ u'4 Months, 3 Weeks and 2 Days\xc2' u'Circumstance\xc2' u'Elza\xc2'
+ u'1982\xc2' u'Harrison Montgomery\xc2' u'Live-In Maid\xc2'
+ u'The Young Unknowns\xc2' u'The Conformist\xc2'
+ u'Interview with the Assassin\xc2' u'Half Nelson\xc2'
+ u'Naturally Native\xc2' u'Broken Vessels\xc2' u'To Save a Life\xc2'
+ u'Osama\xc2' u'Twin Falls Idaho\xc2' u'The Californians\xc2'
+ u'Everything Put Together\xc2' u'Quincea\xc3\xb1era\xc2'
+ u'Cries & Whispers\xc2' u'The Big Swap\xc2' u'Old Joy\xc2'
+ u'Wendy and Lucy\xc2' u'3 Backyards\xc2' u'On the Outs\xc2' u'Rust\xc2'
+ u'Urbania\xc2' u'The Grace Card\xc2' u'Middle of Nowhere\xc2'
+ u'Archaeology of a Woman\xc2' u'The World Is Mine\xc2'
+ u'Perfect Cowboy\xc2' u'An American in Hollywood\xc2'
+ u'Une Femme Mari\xc3\xa9e\xc2' u'Tiger Orange\xc2'
+ u'This Is Martin Bonner\xc2' u'George Washington\xc2'
+ u'The Exploding Girl\xc2' u'Flywheel\xc2' u'Stories of Our Lives\xc2'
+ u'The Circle\xc2' u'On the Downlow\xc2']"
+768,Drama|Family,"[u'Dolphin Tale\xc2' u'Dolphin Tale 2\xc2' u'The Doombolt Chase\xc2'
+ u""Hachi: A Dog's Tale\xc2"" u'Kit Kittredge: An American Girl\xc2'
+ u'Opal Dream\xc2' u'A Dog of Flanders\xc2' u'The Christmas Candle\xc2'
+ u'A Shine of Rainbows\xc2' u'Anne of Green Gables\xc2' u'Whale Rider\xc2'
+ u'Letters to God\xc2' u'Mooz-Lum\xc2' u'How Green Was My Valley\xc2'
+ u'The Christmas Bunny\xc2' u'An American Girl Holiday\xc2'
+ u'Children of Heaven\xc2' u'Manito\xc2']"
+769,Drama|Family|Fantasy,"[u'The Indian in the Cupboard\xc2' u'The Nativity Story\xc2'
+ u'The Blue Bird\xc2']"
+770,Drama|Family|Fantasy|Romance,"[u'Cinderella\xc2' u'Tuck Everlasting\xc2' u""It's a Wonderful Life\xc2""]"
+771,Drama|Family|History|Musical,[u'1776\xc2']
+772,Drama|Family|Music,[u'Freedom\xc2' u'Flying By\xc2' u'Brave New Girl\xc2']
+773,Drama|Family|Musical,[u'Oliver!\xc2']
+774,Drama|Family|Musical|Romance,[u'My Fair Lady\xc2' u'Fiddler on the Roof\xc2' u'Show Boat\xc2']
+775,Drama|Family|Music|Musical,[u'Black Nativity\xc2']
+776,Drama|Family|Music|Romance,[u'The Last Song\xc2']
+777,Drama|Family|Romance,"[u'Little Women\xc2' u'The Ultimate Gift\xc2'
+ u'The Greatest Show on Earth\xc2' u'Departure\xc2']"
+778,Drama|Family|Sport,"[u'Dreamer: Inspired by a True Story\xc2' u'The Rookie\xc2'
+ u'When the Game Stands Tall\xc2' u'My Dog Skip\xc2']"
+779,Drama|Family|Western,"[u""Love's Abiding Joy\xc2""]"
+780,Drama|Fantasy,"[u'Hereafter\xc2' u'The Tree of Life\xc2' u'Enter the Void\xc2'
+ u'Saving Grace\xc2' u'Holy Motors\xc2' u'Northfork\xc2'
+ u'Beasts of the Southern Wild\xc2' u'Ordet\xc2' u'Pink Narcissus\xc2']"
+781,Drama|Fantasy|Horror,"[u'Interview with the Vampire: The Vampire Chronicles\xc2'
+ u'Queen of the Damned\xc2' u'Carrie\xc2']"
+782,Drama|Fantasy|Horror|Mystery,[u'The Returned\xc2' u'Let Me In\xc2']
+783,Drama|Fantasy|Horror|Mystery|Thriller,[u'What Lies Beneath\xc2' u'The Unborn\xc2']
+784,Drama|Fantasy|Horror|Romance,[u'Blood and Chocolate\xc2']
+785,Drama|Fantasy|Horror|Thriller,"[u'The Wolfman\xc2' u'Constantine\xc2' u'The Woman in Black\xc2'
+ u'The Craft\xc2' u'White Noise 2: The Light\xc2'
+ u'The Lords of Salem\xc2']"
+786,Drama|Fantasy|Musical|Romance,[u'Across the Universe\xc2']
+787,Drama|Fantasy|Music|Romance,[u'If I Stay\xc2']
+788,Drama|Fantasy|Mystery|Romance,"[u""Winter's Tale\xc2""]"
+789,Drama|Fantasy|Mystery|Romance|Thriller,[u'Dragonfly\xc2']
+790,Drama|Fantasy|Mystery|Sci-Fi,[u'The Dead Zone\xc2']
+791,Drama|Fantasy|Mystery|Thriller,[u'Lady in the Water\xc2' u'The Box\xc2' u'The Messengers\xc2']
+792,Drama|Fantasy|Romance,"[u'The Curious Case of Benjamin Button\xc2' u'Meet Joe Black\xc2'
+ u'What Dreams May Come\xc2' u'City of Angels\xc2'
+ u'Beautiful Creatures\xc2' u'Charlie St. Cloud\xc2' u'The Lake House\xc2'
+ u'Twilight\xc2' u'The Age of Adaline\xc2' u'Beastly\xc2'
+ u'About Time\xc2' u'Somewhere in Time\xc2' u'Fetching Cody\xc2']"
+793,Drama|Fantasy|Romance|Sci-Fi,"[u""The Time Traveler's Wife\xc2"" u'Phenomenon\xc2'
+ u'Eternal Sunshine of the Spotless Mind\xc2']"
+794,Drama|Fantasy|Romance|Thriller,[u'Ghost\xc2']
+795,Drama|Fantasy|Romance|War,[u'A Guy Named Joe\xc2']
+796,Drama|Fantasy|Sci-Fi,[u'Time Changer\xc2']
+797,Drama|Fantasy|Sci-Fi|Thriller,[u'Heroes\xc2']
+798,Drama|Fantasy|Sport,[u'The Legend of Bagger Vance\xc2']
+799,Drama|Fantasy|Thriller,[u'The Lovely Bones\xc2' u'In Dreams\xc2']
+800,Drama|Fantasy|War,"[u""Pan's Labyrinth\xc2""]"
+801,Drama|Film-Noir,[u'The Lost Weekend\xc2']
+802,Drama|Film-Noir|Mystery|Thriller,[u'Rebecca\xc2']
+803,Drama|History,"[u'Amistad\xc2' u'Ghosts of Mississippi\xc2' u'Bobby\xc2'
+ u'The Molly Maguires\xc2' u'Shattered Glass\xc2'
+ u'Snow Flower and the Secret Fan\xc2' u'The Robe\xc2' u'The Egyptian\xc2'
+ u'La otra conquista\xc2' u'Get on the Bus\xc2']"
+804,Drama|History|Horror,[u'Beloved\xc2']
+805,Drama|History|Music|Romance|War,[u'Joyeux Noel\xc2']
+806,Drama|History|Romance,[u'Anna and the King\xc2']
+807,Drama|History|Romance|War,"[u'The Flowers of War\xc2' u'Passchendaele\xc2' u'The White Countess\xc2'
+ u'War & Peace\xc2' u'Solomon and Sheba\xc2' u'Gone with the Wind\xc2']"
+808,Drama|History|Romance|Western,[u'September Dawn\xc2']
+809,Drama|History|Sport,"[u'Seabiscuit\xc2' u'United Passions\xc2'
+ u'The Greatest Game Ever Played\xc2' u'The Game of Their Lives\xc2']"
+810,Drama|History|Thriller,"[u'Thirteen Days\xc2' u'Munich\xc2' u'World Trade Center\xc2'
+ u'Zero Dark Thirty\xc2' u'JFK\xc2' u'Bridge of Spies\xc2'
+ u'Anonymous\xc2' u'United 93\xc2' u'The Company\xc2']"
+811,Drama|History|Thriller|War,"[u'Valkyrie\xc2' u'K-19: The Widowmaker\xc2' u'The Hurt Locker\xc2'
+ u'Flame and Citron\xc2' u'Salvador\xc2']"
+812,Drama|History|War,"[u'Black Hawk Down\xc2' u'Enemy at the Gates\xc2' u'Gods and Generals\xc2'
+ u'Flags of Our Fathers\xc2' u'Inchon\xc2' u'Nomad: The Warrior\xc2'
+ u'Glory\xc2' u'A Bridge Too Far\xc2' u'Gettysburg\xc2'
+ u'The Fall of the Roman Empire\xc2' u'Hotel Rwanda\xc2'
+ u'Letters from Iwo Jima\xc2' u'City of Life and Death\xc2'
+ u'For Greater Glory: The True Story of Cristiada\xc2'
+ u'Cinco de Mayo, La Batalla\xc2' u'Beneath Hill 60\xc2'
+ u'Winter in Wartime\xc2' u'Fort McCoy\xc2' u'Bloody Sunday\xc2'
+ u""Intolerance: Love's Struggle Throughout the Ages\xc2""]"
+813,Drama|History|War|Western,[u'The Alamo\xc2']
+814,Drama|Horror,"[u'The Shining\xc2' u'Shadow of the Vampire\xc2' u'Maggie\xc2'
+ u""Rosemary's Baby\xc2"" u'May\xc2']"
+815,Drama|Horror|Mystery,[u'Night of the Living Dead\xc2' u'Absentia\xc2']
+816,Drama|Horror|Mystery|Sci-Fi,[u'Evolution\xc2']
+817,Drama|Horror|Mystery|Sci-Fi|Thriller,[u'10 Cloverfield Lane\xc2' u'Circle\xc2']
+818,Drama|Horror|Mystery|Thriller,"[u'The Mothman Prophecies\xc2' u'The Rite\xc2' u'Hide and Seek\xc2'
+ u'Boogeyman\xc2' u'The Amityville Horror\xc2' u'Red Lights\xc2'
+ u'Soul Survivors\xc2' u'White Noise\xc2'
+ u'The Haunting in Connecticut 2: Ghosts of Georgia\xc2'
+ u'Goddess of Love\xc2' u'After.Life\xc2' u'Something Wicked\xc2'
+ u'Amnesiac\xc2' u'Thr3e\xc2' u'Silent House\xc2'
+ u'The Curse of Downers Grove\xc2' u'#Horror\xc2' u'Lake Mungo\xc2'
+ u'Cry_Wolf\xc2' u'Roadside\xc2' u'Fabled\xc2']"
+819,Drama|Horror|Romance,[u'The Eclipse\xc2']
+820,Drama|Horror|Romance|Thriller,[u'Wolf\xc2' u'Mary Reilly\xc2']
+821,Drama|Horror|Sci-Fi,[u'I Am Legend\xc2' u'Splice\xc2' u'28 Weeks Later\xc2' u'Stake Land\xc2']
+822,Drama|Horror|Sci-Fi|Thriller,"[u'Carriers\xc2' u'Dreamcatcher\xc2' u'Victor Frankenstein\xc2'
+ u'Godsend\xc2' u'Flatliners\xc2' u'Pulse\xc2' u'Willard\xc2'
+ u'Under the Skin\xc2' u'28 Days Later...\xc2']"
+823,Drama|Horror|Thriller,"[u'Dark Water\xc2' u'Lost Souls\xc2' u'The Exorcism of Emily Rose\xc2'
+ u'The Roommate\xc2' u'The Shallows\xc2'
+ u'House at the End of the Street\xc2'
+ u'The Haunting of Molly Hartley\xc2' u'Sleep Tight\xc2'
+ u'The Last Exorcism Part II\xc2' u'The Last Exorcism\xc2'
+ u'Wolf Creek\xc2' u'The Ridges\xc2' u'A Plague So Pleasant\xc2']"
+824,Drama|Music,"[u'8 Mile\xc2' u'Rock Star\xc2' u""Mr. Holland's Opus\xc2""
+ u'Take the Lead\xc2' u'August Rush\xc2' u'Battle of the Year\xc2'
+ u'Country Strong\xc2' u'Black Snake Moan\xc2' u'54\xc2'
+ u'Inside Llewyn Davis\xc2' u'Sparkle\xc2'
+ u'You Got Served: Beat the World\xc2' u'Velvet Goldmine\xc2'
+ u'You Got Served\xc2' u'Begin Again\xc2' u'Beyond the Lights\xc2'
+ u'Song One\xc2' u'The Chorus\xc2' u'Billy Elliot\xc2' u'Empire\xc2'
+ u'Whiplash\xc2' u'Songcatcher\xc2' u'Grace Unplugged\xc2'
+ u'Filly Brown\xc2' u'Groove\xc2' u'The Looking Glass\xc2'
+ u'The Business of Fancydancing\xc2']"
+825,Drama|Musical,"[u'Tango\xc2' u'Go for It!\xc2' u'ABCD (Any Body Can Dance)\xc2'
+ u'Sunday School Musical\xc2']"
+826,Drama|Musical|Romance,"[u'Nine\xc2' u'Les Mis\xc3\xa9rables\xc2' u'Moulin Rouge!\xc2' u'Rent\xc2'
+ u'The Magic Flute\xc2' u'Yentl\xc2' u'Veer-Zaara\xc2'
+ u""Alexander's Ragtime Band\xc2"" u'Bizarre\xc2']"
+827,Drama|Musical|Romance|Thriller,[u'The Phantom of the Opera\xc2']
+828,Drama|Musical|Sci-Fi,[u'Bang Bang Baby\xc2']
+829,Drama|Music|Musical,[u'Dreamgirls\xc2']
+830,Drama|Music|Musical|Romance,"[u'Burlesque\xc2' u'Step Up 2: The Streets\xc2' u'New York, New York\xc2']"
+831,Drama|Music|Mystery|Romance,[u'The Red Violin\xc2']
+832,Drama|Music|Mystery|Romance|Sci-Fi,[u'Yesterday Was a Lie\xc2']
+833,Drama|Music|Mystery|Romance|Thriller,[u'Abandon\xc2']
+834,Drama|Music|Romance,"[u'Step Up Revolution\xc2' u'Step Up 3D\xc2' u'Footloose\xc2' u'Honey\xc2'
+ u'Center Stage\xc2' u'Stomp the Yard\xc2' u'Save the Last Dance\xc2'
+ u""Mo' Better Blues\xc2"" u'Crazy Heart\xc2' u'The Rose\xc2' u'Glitter\xc2'
+ u'Flashdance\xc2' u'The Piano\xc2' u'We Are Your Friends\xc2'
+ u'Forty Shades of Blue\xc2' u'B-Girl\xc2' u'Once\xc2' u'Clean\xc2']"
+835,Drama|Music|Romance|War,"[u""Captain Corelli's Mandolin\xc2""]"
+836,Drama|Mystery,"[u'Hearts in Atlantis\xc2' u'The Family\xc2' u'Doubt\xc2'
+ u'Gosford Park\xc2' u'Unforgettable\xc2' u'The White Ribbon\xc2'
+ u'Get Low\xc2' u'Lone Star\xc2' u'I Love Your Work\xc2'
+ u'A Separation\xc2']"
+837,Drama|Mystery|Romance,[u'Random Hearts\xc2' u'Paper Towns\xc2' u'Ondine\xc2' u'Exotica\xc2']
+838,Drama|Mystery|Romance|Sci-Fi|Thriller,[u'Transcendence\xc2']
+839,Drama|Mystery|Romance|Thriller,"[u'The Village\xc2' u'Snow Falling on Cedars\xc2' u'Wicker Park\xc2'
+ u'Original Sin\xc2' u'The Constant Gardener\xc2' u'Birth\xc2'
+ u'The Illusionist\xc2' u'Chloe\xc2' u'The Words\xc2' u'Inescapable\xc2']"
+840,Drama|Mystery|Romance|Thriller|War,[u'The Quiet American\xc2']
+841,Drama|Mystery|Romance|War,[u'A Very Long Engagement\xc2' u'Atonement\xc2']
+842,Drama|Mystery|Sci-Fi,"[u'K-PAX\xc2' u'Solaris\xc2' u'Atlas Shrugged II: The Strike\xc2'
+ u'Moon\xc2' u'Atlas Shrugged: Who Is John Galt?\xc2']"
+843,Drama|Mystery|Sci-Fi|Thriller,"[u'Contact\xc2' u'The Manchurian Candidate\xc2' u'Unbreakable\xc2'
+ u'Sphere\xc2' u'The X Files\xc2' u'Knowing\xc2' u'The Prestige\xc2'
+ u'Impostor\xc2' u'The X Files: I Want to Believe\xc2' u'The Jacket\xc2'
+ u'Blindness\xc2' u'Ex Machina\xc2' u'Sound of My Voice\xc2']"
+844,Drama|Mystery|Thriller,"[u'The Spanish Prisoner\xc2' u'Eyes Wide Shut\xc2'
+ u""The General's Daughter\xc2"" u""The Devil's Advocate\xc2""
+ u'Flightplan\xc2' u'The Game\xc2' u'Twisted\xc2' u'Dream House\xc2'
+ u'Insomnia\xc2' u'The Firm\xc2' u'The Sixth Sense\xc2' u'Disturbia\xc2'
+ u'The Good German\xc2' u'Brokedown Palace\xc2'
+ u'Before I Go to Sleep\xc2' u'Tinker Tailor Soldier Spy\xc2'
+ u'Premonition\xc2' u'Slow Burn\xc2' u'Eye of the Beholder\xc2'
+ u'The In Crowd\xc2' u'Mulholland Drive\xc2' u'The Return\xc2'
+ u'Gossip\xc2' u'The Life Before Her Eyes\xc2' u'Spider\xc2'
+ u'Strangerland\xc2' u'Don McKay\xc2' u'The Orphanage\xc2'
+ u'The Secret in Their Eyes\xc2' u'Oldboy\xc2' u'Buried\xc2'
+ u'The Conversation\xc2' u'Martha Marcy May Marlene\xc2'
+ u'The Sisterhood of Night\xc2' u'November\xc2' u'Pi\xc2']"
+845,Drama|Mystery|War,[u'Incendies\xc2']
+846,Drama|Romance,"[u'Titanic\xc2' u'The Great Gatsby\xc2' u'Memoirs of a Geisha\xc2'
+ u'D\xc3\xa9j\xc3\xa0 Vu\xc2' u'The Majestic\xc2' u'Eat Pray Love\xc2'
+ u'Up Close & Personal\xc2' u'Seven Pounds\xc2' u'The Scarlet Letter\xc2'
+ u'Anna Karenina\xc2' u'Revolutionary Road\xc2'
+ u'Curse of the Golden Flower\xc2' u'Love in the Time of Cholera\xc2'
+ u'Fifty Shades of Grey\xc2' u'Autumn in New York\xc2'
+ u'Sweet November\xc2' u'At First Sight\xc2' u'Water for Elephants\xc2'
+ u'Angel Eyes\xc2' u'Hit the Floor\xc2' u'Closer\xc2'
+ u'The Age of Innocence\xc2' u'The Longest Ride\xc2' u'The Reader\xc2'
+ u'The Vow\xc2' u'The Notebook\xc2' u'The Prince of Tides\xc2'
+ u'Up in the Air\xc2' u'Hope Floats\xc2' u'Message in a Bottle\xc2'
+ u'P.S. I Love You\xc2' u'The Merchant of Venice\xc2'
+ u'Pride & Prejudice\xc2' u'The Best of Me\xc2' u'Chocolat\xc2'
+ u'The Lucky One\xc2' u'The Hours\xc2' u'Dangerous Liaisons\xc2'
+ u'The Bridge of San Luis Rey\xc2' u'The End of the Affair\xc2'
+ u'The Bridges of Madison County\xc2' u'The Libertine\xc2'
+ u'Moonlight Mile\xc2' u'Me Before You\xc2' u'Endless Love\xc2'
+ u'By the Sea\xc2' u'The Painted Veil\xc2' u'Love Happens\xc2'
+ u'9\xc2_ Weeks\xc2' u'Sense and Sensibility\xc2'
+ u'Vicky Cristina Barcelona\xc2' u'Remember Me\xc2' u'The Immigrant\xc2'
+ u'The Yellow Handkerchief\xc2' u'The Remains of the Day\xc2'
+ u'One Day\xc2' u'Here on Earth\xc2' u'Romeo + Juliet\xc2'
+ u'Slumdog Millionaire\xc2' u'Poetic Justice\xc2' u'Little Children\xc2'
+ u'Wild Grass\xc2' u'Brokeback Mountain\xc2' u'Far from Heaven\xc2'
+ u'Crazy/Beautiful\xc2' u'The Widow of Saint-Pierre\xc2'
+ u'The Perks of Being a Wallflower\xc2' u'Oscar and Lucinda\xc2'
+ u'The Fault in Our Stars\xc2' u'Rachel Getting Married\xc2'
+ u'Two Lovers\xc2' u'A Walk to Remember\xc2' u'Cruel Intentions\xc2'
+ u'Brooklyn\xc2' u""What's Eating Gilbert Grape\xc2"" u'Love Jones\xc2'
+ u'I Am Love\xc2' u'The House of Mirth\xc2' u'A Better Life\xc2'
+ u'Nicholas Nickleby\xc2' u'My Blueberry Nights\xc2'
+ u'The Chambermaid on the Titanic\xc2' u'Partition\xc2'
+ u'The Lost City\xc2' u'Amour\xc2' u'Jab Tak Hai Jaan\xc2'
+ u'The Bold and the Beautiful\xc2' u'Veronika Decides to Die\xc2'
+ u'The Good Girl\xc2' u'The City of Your Final Destination\xc2'
+ u'Howards End\xc2' u'Restless\xc2' u'Wuthering Heights\xc2'
+ u'Shopgirl\xc2' u'The Work and the Glory\xc2' u'A Single Man\xc2'
+ u'Mother and Child\xc2' u'The Heart of Me\xc2'
+ u'Two Lovers and a Bear\xc2' u'A Home at the End of the World\xc2'
+ u'Good Bye Lenin!\xc2' u'The Virgin Suicides\xc2' u'The Greatest\xc2'
+ u'Come Early Morning\xc2' u'Sunshine State\xc2' u'Miss Julie\xc2'
+ u'Not Easily Broken\xc2' u'Lovely, Still\xc2' u'Dear Frankie\xc2'
+ u""Monster's Ball\xc2"" u'Leaving Las Vegas\xc2' u'Trapeze\xc2'
+ u'The Art of Getting By\xc2' u'Adore\xc2' u'Network\xc2' u'August\xc2'
+ u'Bella\xc2' u'Dreaming of Joseph Lees\xc2' u'Adam\xc2'
+ u'A Room with a View\xc2' u'Cat on a Hot Tin Roof\xc2'
+ u'Before Midnight\xc2' u'Water\xc2' u'Days of Heaven\xc2' u'Maurice\xc2'
+ u'Before Sunrise\xc2' u'My Life Without Me\xc2' u'Before Sunset\xc2'
+ u""Gentleman's Agreement\xc2"" u'The Diary of a Teenage Girl\xc2'
+ u'London\xc2' u'El crimen del padre Amaro\xc2' u'My Summer of Love\xc2'
+ u'The Lunchbox\xc2' u'Yes\xc2' u'Snow Angels\xc2' u'Blue Valentine\xc2'
+ u'Fiza\xc2' u'All the Real Girls\xc2' u'Loving Annabelle\xc2'
+ u'Hidden Away\xc2' u'Ruby in Paradise\xc2' u'Raising Victor Vargas\xc2'
+ u'Love Letters\xc2' u'Fireproof\xc2' u'Now Is Good\xc2'
+ u'Nothing But a Man\xc2' u'First Love, Last Rites\xc2' u'Like Crazy\xc2'
+ u'Weekend\xc2']"
+847,Drama|Romance|Sci-Fi,"[u'Outlander\xc2' u'The Giver\xc2' u'Her\xc2' u'Never Let Me Go\xc2'
+ u'Womb\xc2' u'2046\xc2' u'I Origins\xc2' u'Charly\xc2'
+ u'The Man from Earth\xc2' u'Another Earth\xc2']"
+848,Drama|Romance|Sci-Fi|Thriller,[u'Code 46\xc2' u'Sleep Dealer\xc2']
+849,Drama|Romance|Sport,"[u'Lucky You\xc2' u'For Love of the Game\xc2'
+ u'Goal! The Dream Begins\xc2' u'Blue Crush\xc2' u'Love & Basketball\xc2'
+ u'Peaceful Warrior\xc2']"
+850,Drama|Romance|Thriller,"[u'Safe Haven\xc2' u'Match Point\xc2' u'Fatal Attraction\xc2' u'O\xc2'
+ u'Down in the Valley\xc2']"
+851,Drama|Romance|War,"[u'Earth\xc2' u'The English Patient\xc2' u'Dear John\xc2' u'Good\xc2'
+ u'In the Land of Blood and Honey\xc2' u'Fateless\xc2'
+ u'Doctor Zhivago\xc2' u'The Land Girls\xc2' u'The Messenger\xc2'
+ u'A Farewell to Arms\xc2' u'The Best Years of Our Lives\xc2'
+ u'From Here to Eternity\xc2' u'Casablanca\xc2' u'The Big Parade\xc2']"
+852,Drama|Romance|War|Western,[u'Ride with the Devil\xc2' u'Legends of the Fall\xc2']
+853,Drama|Romance|Western,"[u'The Horse Whisperer\xc2' u'All the Pretty Horses\xc2' u'Open Range\xc2'
+ u'The Claim\xc2' u'Duel in the Sun\xc2' u'The Misfits\xc2'
+ u'Love Me Tender\xc2']"
+854,Drama|Sci-Fi,"[u'Cloud Atlas\xc2' u'The Fountain\xc2'
+ u'Close Encounters of the Third Kind\xc2' u'Brazil\xc2' u'Metropolis\xc2'
+ u'Melancholia\xc2' u'Hard to Be a God\xc2' u'Space: Above and Beyond\xc2'
+ u'Silent Running\xc2' u'Creative Control\xc2']"
+855,Drama|Sci-Fi|Thriller,"[u'The Day the Earth Stood Still\xc2' u'Children of Men\xc2' u'Signs\xc2'
+ u'Gattaca\xc2' u""The Astronaut's Wife\xc2"" u'Listening\xc2'
+ u'Chronicle\xc2' u'Donnie Darko\xc2' u'The Divide\xc2' u'Monsters\xc2'
+ u'H.\xc2' u'Dawn of the Crescent Moon\xc2' u'Primer\xc2']"
+856,Drama|Sport,"[u'We Are Marshall\xc2' u'Any Given Sunday\xc2'
+ u'Trouble with the Curve\xc2' u'Coach Carter\xc2' u'Creed\xc2'
+ u'Million Dollar Baby\xc2' u'Friday Night Lights\xc2' u'Southpaw\xc2'
+ u'He Got Game\xc2' u'Draft Day\xc2' u'Warrior\xc2' u'Rocky Balboa\xc2'
+ u'Hardball\xc2' u'Madison\xc2' u'Whip It\xc2'
+ u'Resurrecting the Champ\xc2' u'The Color of Money\xc2' u'Redbelt\xc2'
+ u'The Mighty Macs\xc2' u'The Wrestler\xc2' u'The Hustler\xc2'
+ u'Home Run\xc2' u'Rocky\xc2' u'The Slaughter Rule\xc2'
+ u'Fighting Tommy Riley\xc2' u'Facing the Giants\xc2']"
+857,Drama|Thriller,"[u'Contagion\xc2' u'Disclosure\xc2' u'Instinct\xc2'
+ u""All the King's Men\xc2"" u'Unfaithful\xc2' u'Syriana\xc2'
+ u'Changing Lanes\xc2' u'The Juror\xc2' u'City Hall\xc2'
+ u'The Impossible\xc2' u'A Few Good Men\xc2' u'Bringing Out the Dead\xc2'
+ u'Flight\xc2' u'Rendition\xc2' u'The Statement\xc2' u'Brothers\xc2'
+ u'Derailed\xc2' u'Stone\xc2' u'The Debt\xc2' u'The Tailor of Panama\xc2'
+ u""Felicia's Journey\xc2"" u'Black Swan\xc2' u'Light It Up\xc2'
+ u'One Hour Photo\xc2' u'The Boys from Brazil\xc2' u'Arbitrage\xc2'
+ u'Stoker\xc2' u'The Cry of the Owl\xc2' u'Misconduct\xc2' u'Swimfan\xc2'
+ u'Sugar Hill\xc2' u'Edmond\xc2' u'Fifty Dead Men Walking\xc2'
+ u'The Contender\xc2' u'The Wave\xc2' u'We Need to Talk About Kevin\xc2'
+ u'The East\xc2' u'The Business of Strangers\xc2'
+ u'Trade of Innocents\xc2' u'Addicted\xc2' u'The Machinist\xc2'
+ u'Dying of the Light\xc2' u'Take Shelter\xc2' u'Fugly\xc2' u'Topaz\xc2'
+ u'Zipper\xc2' u'Poolhall Junkies\xc2' u'The Secret\xc2'
+ u'Dawn Patrol\xc2' u'8 Days\xc2' u'Eden\xc2' u'The Lives of Others\xc2'
+ u'Amores Perros\xc2' u'The Pet\xc2' u'The Quiet\xc2' u'Deterrence\xc2'
+ u'Treachery\xc2' u'Good Kill\xc2' u'Show Me\xc2' u'Dogtooth\xc2'
+ u'The Canyons\xc2' u'Shotgun Stories\xc2']"
+858,Drama|Thriller|War,[u'Lions for Lambs\xc2' u'Black Book\xc2' u'Coriolanus\xc2']
+859,Drama|War,"[u'War Horse\xc2' u'The Monuments Men\xc2' u""Hart's War\xc2""
+ u'The Thin Red Line\xc2' u'Apocalypse Now\xc2' u'Stop-Loss\xc2'
+ u'The Water Diviner\xc2' u'Little Boy\xc2'
+ u'The Children of Huang Shi\xc2' u'The Book Thief\xc2' u'Ararat\xc2'
+ u'The Deer Hunter\xc2' u'Jakob the Liar\xc2' u""Sarah's Key\xc2""
+ u'The Boy in the Striped Pajamas\xc2' u'Adam Resurrected\xc2'
+ u'Richard III\xc2' u'The Wind That Shakes the Barley\xc2' u'Platoon\xc2'
+ u""Hell's Angels\xc2"" u'Judgment at Nuremberg\xc2'
+ u'Deadline Gallipoli\xc2' u'Amigo\xc2']"
+860,Drama|War|Western,[u'Far from Men\xc2']
+861,Drama|Western,"[u'Django Unchained\xc2' u'Forsaken\xc2' u'The Homesman\xc2'
+ u'Unforgiven\xc2' u'The Work and the Glory II: American Zion\xc2'
+ u'The Man Who Shot Liberty Valance\xc2' u""Meek's Cutoff\xc2""]"
+862,Family,"[u'Running Forever\xc2' u'Rodeo Girl\xc2' u'The Little Ponderosa Zoo\xc2'
+ u'Horse Camp\xc2' u""Dude, Where's My Dog?!\xc2""]"
+863,Family|Fantasy|Music,[u'The Nutcracker\xc2']
+864,Family|Fantasy|Musical,[u'Willy Wonka & the Chocolate Factory\xc2']
+865,Family|Musical,"[u""Dancin' It's On\xc2""]"
+866,Family|Music|Romance,[u'Raise Your Voice\xc2']
+867,Family|Sci-Fi,[u'E.T. the Extra-Terrestrial\xc2' u'Rotor DR1\xc2']
+868,Fantasy,"[u'Harry Potter and the Deathly Hallows: Part I\xc2'
+ u'Cirque du Soleil: Worlds Away\xc2']"
+869,Fantasy|Horror,"[u'Poltergeist\xc2' u'Snow White: A Tale of Terror\xc2' u'1408\xc2'
+ u'The Fog\xc2' u'Mama\xc2' u'Thinner\xc2' u""Child's Play 2\xc2""
+ u'Pet Sematary\xc2' u""Child's Play\xc2"" u'Ouija\xc2'
+ u""A Nightmare on Elm Street 2: Freddy's Revenge\xc2""
+ u'Warlock: The Armageddon\xc2' u'Pontypool\xc2' u'Hellraiser\xc2'
+ u'Escape from Tomorrow\xc2' u'The Evil Dead\xc2']"
+870,Fantasy|Horror|Mystery,[u'The Omen\xc2' u'The Midnight Meat Train\xc2']
+871,Fantasy|Horror|Mystery|Romance,[u'The Mortal Instruments: City of Bones\xc2']
+872,Fantasy|Horror|Mystery|Thriller,"[u'The Haunting\xc2' u'Red Riding Hood\xc2' u'The Cabin in the Woods\xc2'
+ u'The Wailing\xc2' u'New Nightmare\xc2' u'Lady in White\xc2'
+ u'Insidious\xc2' u'After\xc2' u'The Call of Cthulhu\xc2']"
+873,Fantasy|Horror|Romance,"[u""Bram Stoker's Dracula\xc2""]"
+874,Fantasy|Horror|Romance|Thriller,[u'A Nightmare on Elm Street 5: The Dream Child\xc2']
+875,Fantasy|Horror|Sci-Fi,[u'Twilight Zone: The Movie\xc2' u'Eraserhead\xc2']
+876,Fantasy|Horror|Thriller,"[u""Don't Be Afraid of the Dark\xc2"" u'The Others\xc2'
+ u'A Nightmare on Elm Street 4: The Dream Master\xc2' u'Cat People\xc2'
+ u'Ravenous\xc2' u'Insidious: Chapter 3\xc2' u'Insidious: Chapter 2\xc2'
+ u'Paranormal Activity: The Marked Ones\xc2'
+ u'Jason Goes to Hell: The Final Friday\xc2']"
+877,Fantasy|Mystery|Romance|Sci-Fi|Thriller,[u'Vanilla Sky\xc2']
+878,Fantasy|Mystery|Thriller,[u'Triangle\xc2']
+879,Fantasy|Romance,[u'Edward Scissorhands\xc2' u'The Love Letter\xc2']
+880,Fantasy|Thriller,[u'Night Watch\xc2']
+881,Film-Noir|Mystery|Romance|Thriller,[u'Spellbound\xc2']
+882,Game-Show|Reality-TV|Romance,[u'The Bachelor\xc2']
+883,History,[u'America Is Still the Place\xc2']
+884,Horror,"[u'The Final Destination\xc2' u'Final Destination 5\xc2'
+ u'A Nightmare on Elm Street\xc2' u'House of Wax\xc2' u'Stigmata\xc2'
+ u'30 Days of Night\xc2' u'Final Destination 3\xc2'
+ u'Jeepers Creepers II\xc2' u'The Ruins\xc2' u'Ghost Ship\xc2'
+ u'Thir13en Ghosts\xc2' u'Land of the Dead\xc2' u'Restoration\xc2'
+ u'Day of the Dead\xc2' u'The Hills Have Eyes\xc2' u'Evil Dead\xc2'
+ u'The Texas Chainsaw Massacre: The Beginning\xc2' u'Halloween II\xc2'
+ u'The Hills Have Eyes II\xc2' u'Exorcist II: The Heretic\xc2'
+ u'The Mist\xc2' u'The Exorcist\xc2' u'Darkness\xc2'
+ u'Black Christmas\xc2' u'Two Evil Eyes\xc2' u'Hostel: Part II\xc2'
+ u'House of 1000 Corpses\xc2' u'Alien Zone\xc2' u'[Rec] 2\xc2'
+ u'Lights Out\xc2' u'Paranormal Activity 3\xc2'
+ u'Paranormal Activity 4\xc2' u'Hostel\xc2' u'Survival of the Dead\xc2'
+ u'The Veil\xc2' u'No Vacancy\xc2' u'Sharknado\xc2'
+ u'Paranormal Activity 2\xc2' u'High Tension\xc2'
+ u'Friday the 13th Part VII: The New Blood\xc2' u'Diary of the Dead\xc2'
+ u'Antibirth\xc2' u'[Rec]\xc2' u'Grave Encounters\xc2'
+ u'Living Dark: The Story of Ted the Caver\xc2' u'Cabin Fever\xc2'
+ u'The Wicked Within\xc2' u'Bleeding Hearts\xc2'
+ u'The Vatican Exorcisms\xc2' u'The Howling\xc2' u'The Devil Inside\xc2'
+ u'The House of the Devil\xc2' u'Snow White: A Deadly Summer\xc2'
+ u'Fear Clinic\xc2' u'The Horror Network Vol. 1\xc2' u'The Innkeepers\xc2'
+ u'All the Boys Love Mandy Lane\xc2' u'Bled\xc2'
+ u'The Blair Witch Project\xc2' u'Paranormal Activity\xc2'
+ u'The Beyond\xc2' u'Midnight Cabaret\xc2' u'Teeth and Blood\xc2'
+ u'When the Lights Went Out\xc2' u'Raymond Did It\xc2'
+ u'Her Cry: La Llorona Investigation\xc2' u'Tin Can Man\xc2']"
+885,Horror|Musical,"[u""Alleluia! The Devil's Carnival\xc2""]"
+886,Horror|Musical|Sci-Fi,[u'Repo! The Genetic Opera\xc2']
+887,Horror|Mystery,"[u'The Ring Two\xc2' u'Scream 3\xc2' u'Scream 4\xc2' u'Mirrors\xc2'
+ u'Scream 2\xc2' u'I Still Know What You Did Last Summer\xc2'
+ u'Scream\xc2' u'Prom Night\xc2' u'One Missed Call\xc2'
+ u'Saw 3D: The Final Chapter\xc2' u'Sorority Row\xc2' u'The Eye\xc2'
+ u'Saw VI\xc2' u'Saw V\xc2' u'Saw III\xc2' u'Saw IV\xc2'
+ u'Jeepers Creepers\xc2' u""Devil's Due\xc2"" u'Annabelle\xc2' u'Saw II\xc2'
+ u'Oculus\xc2' u""April Fool's Day\xc2"" u'The Witch\xc2' u'Sinister\xc2'
+ u'It Follows\xc2' u'The Torture Chamber of Dr. Sadism\xc2'
+ u'Session 9\xc2' u'Truth or Die\xc2' u'Graduation Day\xc2']"
+888,Horror|Mystery|Sci-Fi,"[u'The Thing\xc2' u'The Faculty\xc2'
+ u'Halloween III: Season of the Witch\xc2']"
+889,Horror|Mystery|Sci-Fi|Thriller,"[u'The Relic\xc2' u'Disturbing Behavior\xc2' u'Videodrome\xc2'
+ u'Apollo 18\xc2' u'Timecrimes\xc2' u'Chernobyl Diaries\xc2']"
+890,Horror|Mystery|Thriller,"[u'Exorcist: The Beginning\xc2' u'From Hell\xc2' u'The Conjuring 2\xc2'
+ u'The Skeleton Key\xc2' u'Gothika\xc2' u'Deliver Us from Evil\xc2'
+ u'Case 39\xc2' u'My Soul to Take\xc2' u'Psycho\xc2' u'The Conjuring\xc2'
+ u'Orphan\xc2' u'House on Haunted Hill\xc2'
+ u'I Know What You Did Last Summer\xc2' u'They\xc2'
+ u'Urban Legends: Final Cut\xc2' u'Urban Legend\xc2'
+ u'An American Haunting\xc2' u'Stir of Echoes\xc2' u'The Grudge\xc2'
+ u'The Boy\xc2' u'Devil\xc2' u'Sinister 2\xc2' u'Valentine\xc2'
+ u'The Forest\xc2' u'Shutter\xc2' u'Darkness Falls\xc2'
+ u'As Above, So Below\xc2' u'Friday the 13th: A New Beginning\xc2'
+ u'Witchboard\xc2' u'Friday the 13th Part 2\xc2' u'Saw\xc2'
+ u'Unfriended\xc2' u'Exeter\xc2']"
+891,Horror|Romance|Sci-Fi,[u'Return of the Living Dead III\xc2']
+892,Horror|Romance|Thriller,[u'Forget Me Not\xc2']
+893,Horror|Sci-Fi,"[u'Pitch Black\xc2' u'Alone in the Dark\xc2' u'Prophecy\xc2'
+ u'Invaders from Mars\xc2' u'The Lawnmower Man\xc2' u'Alien\xc2'
+ u'C.H.U.D.\xc2' u'Kingdom of the Spiders\xc2'
+ u""The Brain That Wouldn't Die\xc2""]"
+894,Horror|Sci-Fi|Short|Thriller,[u'Vessel\xc2']
+895,Horror|Sci-Fi|Thriller,"[u'Event Horizon\xc2' u'Supernova\xc2' u'The Island of Dr. Moreau\xc2'
+ u'The Cell\xc2' u'The Rage: Carrie 2\xc2' u'eXistenZ\xc2'
+ u'Quarantine\xc2' u'The Last Days on Mars\xc2' u'The Dead Zone\xc2'
+ u'Bats\xc2' u'The Lazarus Effect\xc2' u'Area 51\xc2' u'They Live\xc2'
+ u'Antiviral\xc2' u'The Purge\xc2' u'Creature\xc2' u'Containment\xc2'
+ u'Super Hybrid\xc2']"
+896,Horror|Thriller,"[u'The Tooth Fairy\xc2' u'The Reaping\xc2' u'Drag Me to Hell\xc2'
+ u'Final Destination 2\xc2' u'Shark Night 3D\xc2' u'The Possession\xc2'
+ u'Final Destination\xc2' u'The Grudge 2\xc2' u'Texas Chainsaw 3D\xc2'
+ u'Stay Alive\xc2' u'The Crazies\xc2' u'Halloween\xc2'
+ u'The Apparition\xc2' u'When a Stranger Calls\xc2'
+ u'My Bloody Valentine\xc2' u'The Vatican Tapes\xc2' u'Wrong Turn\xc2'
+ u'The Reef\xc2' u'Nurse 3D\xc2' u'Poltergeist III\xc2'
+ u'The Texas Chain Saw Massacre\xc2' u'The Neon Demon\xc2'
+ u'Halloween 5\xc2' u'Halloween: The Curse of Michael Myers\xc2'
+ u'Halloween 4: The Return of Michael Myers\xc2' u'The Forsaken\xc2'
+ u'The Visit\xc2' u'The Awakening\xc2' u'The Loved Ones\xc2' u'Train\xc2'
+ u'2:13\xc2' u'Jason Lives: Friday the 13th Part VI\xc2'
+ u'Chain Letter\xc2' u'Demonic\xc2'
+ u'Friday the 13th: The Final Chapter\xc2' u'Timber Falls\xc2'
+ u'Anatomy\xc2' u'Friday the 13th Part III\xc2' u'Eden Lake\xc2'
+ u""No Man's Land: The Rise of Reeker\xc2"" u'Sublime\xc2'
+ u'I Spit on Your Grave\xc2' u'Out of the Dark\xc2' u'Girl House\xc2'
+ u'House at the End of the Drive\xc2' u'Black Rock\xc2'
+ u'Banshee Chapter\xc2' u'The Dark Hours\xc2' u'Maniac\xc2'
+ u'The Frozen\xc2' u'The Gallows\xc2' u'Run, Hide, Die\xc2']"
+897,Music,[u'Metallica Through the Never\xc2']
+898,Musical,[u'Standing Ovation\xc2']
+899,Musical|Romance,[u'Grease\xc2' u'State Fair\xc2' u'The Broadway Melody\xc2']
+900,Mystery|Romance|Sci-Fi|Thriller,[u'Cypher\xc2']
+901,Mystery|Romance|Thriller,[u'Dressed to Kill\xc2' u'Fascination\xc2']
+902,Mystery|Sci-Fi|Thriller,"[u'Super 8\xc2' u'Source Code\xc2' u'The Thirteenth Floor\xc2'
+ u'The Fourth Kind\xc2' u'The I Inside\xc2' u'Cargo\xc2' u'Cube\xc2']"
+903,Mystery|Thriller,"[u'Angels & Demons\xc2' u'The Da Vinci Code\xc2' u'Shutter Island\xc2'
+ u'The Ghost Writer\xc2' u'Secret Window\xc2' u'8MM\xc2'
+ u'The Ninth Gate\xc2' u'The Number 23\xc2' u'Identity\xc2' u'Red Eye\xc2'
+ u'Joy Ride\xc2' u'Blow Out\xc2' u'In the Cut\xc2' u'The Gift\xc2'
+ u'Body Double\xc2' u'Memento\xc2' u'The Boy Next Door\xc2'
+ u'Windsor Drive\xc2' u'Arnolds Park\xc2' u'Enter Nowhere\xc2' u'Exam\xc2']"
+904,Mystery|Western,[u'High Plains Drifter\xc2']
+905,Romance,"[u'Sardaar Ji\xc2' u'Dil Jo Bhi Kahey...\xc2' u'Romantic Schemer\xc2'
+ u'Breaking Upwards\xc2']"
+906,Romance|Sci-Fi|Thriller,[u'The Adjustment Bureau\xc2']
+907,Romance|Short,[u'The Touch\xc2']
+908,Sci-Fi,"[u'Damnation Alley\xc2' u'Mutant World\xc2'
+ u'The Sticky Fingers of Time\xc2']"
+909,Sci-Fi|Thriller,"[u'The Invasion\xc2' u'The Happening\xc2' u'Blade Runner\xc2'
+ u'The Butterfly Effect\xc2' u'WarGames\xc2' u'Project Almanac\xc2'
+ u'The Andromeda Strain\xc2' u'Beyond the Black Rainbow\xc2'
+ u'The Signal\xc2' u'All Superheroes Must Die\xc2']"
+910,Thriller,"[u'Our Kind of Traitor\xc2' u'I Come with the Rain\xc2' u'Frenzy\xc2'
+ u'Torn Curtain\xc2' u'Enter the Dangerous Mind\xc2' u'AWOL-72\xc2'
+ u'The Calling\xc2' u'Impact Point\xc2' u'Plush\xc2'
+ u'Supercapitalist\xc2' u'Shark Lake\xc2' u'Below Zero\xc2'
+ u'Chocolate: Deep Dark Secrets\xc2' u'Crying with Laughter\xc2'
+ u""The Maid's Room\xc2"" u'Insomnia Manica\xc2' u'Locker 13\xc2'
+ u'Closure\xc2' u'Cavite\xc2']"
+911,Thriller|War,[u'The Train\xc2']
+912,Thriller|Western,[u'High Noon\xc2']
+913,Western,"[u'The Long Riders\xc2' u'Pale Rider\xc2'
+ u'Once Upon a Time in the West\xc2' u'All Hat\xc2' u'Slow West\xc2'
+ u""Hang 'Em High\xc2"" u'She Wore a Yellow Ribbon\xc2' u'Shalako\xc2'
+ u'The Ballad of Gregorio Cortez\xc2'
+ u'The Good, the Bad and the Ugly\xc2' u""Doc Holliday's Revenge\xc2""
+ u""The Legend of God's Gun\xc2""]"
